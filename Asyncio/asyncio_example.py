@@ -1,26 +1,29 @@
 import asyncio
 
 async def fetch_data():
-	print("Start Fetching")
+	print("Start Fetching data function")
 	await asyncio.sleep(2)
+	var_data={'message':'Sucess'}
 	print("done fetching")
-	var_data={'data':1}
-	
+	print(var_data)
+	print("-----------------FETCH D")
 	return var_data
 
 async def print_numbers():
+	print("Started Printing Numbers")
 	for i in range(10):
 		print(i)
+		print("Wait Before")
 		await asyncio.sleep(0.25)
+		print("Wait Done")
+		print("-----------------FETCH N")
+	print("Finished Printing Numbers")
 		
 async def main():
-	task1=asyncio.create_task(fetch_data())
-	task2=asyncio.create_task(print_numbers())
+	fetch_d=asyncio.create_task(fetch_data())
+	fetch_n=asyncio.create_task(print_numbers())
 	
-	value=await task1
-	print(value)
-	await task2
+	await fetch_d
+	await fetch_n
 	
 asyncio.run(main())
-	
-	
