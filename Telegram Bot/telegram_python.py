@@ -1,4 +1,6 @@
 import requests
+# Converting text to url encode for links
+import urllib.parse
 
 #Bot Name: Btech_Trader
 #If you don't have one, create one using botfather
@@ -20,6 +22,12 @@ messageurl1="https://api.telegram.org/bot"+http_api+"/sendMessage?chat_id="+chat
 def update_telegram(title,body):
 	msg1=messageurl1+title+"\n"+body
 	requests.get(msg1)
+	
+	#If the msg contains special charactesrs like & or links, its better to format it before sending.
+	#Telegram will ommit every characters after "&" symbol in the message.
+	
+	#msg1=urllib.parse.quote_plus(msg1)
+	
 	print("Sucesssfully sent the message")
 
 update_telegram("Test","Test Message")
