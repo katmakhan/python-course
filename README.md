@@ -1,10 +1,14 @@
 # python-free-course
 Learn python and the basics of all programming, This will include all database functionalities for CLOUD Operations and deployment
 
+### Testing the python using online compiler
+https://www.programiz.com/python-programming/online-compiler/
+
 ### Below are the character codes to format the date and time:-
 
-- `%d`: Returns the date, from `1 to 31`
-- `%m`: Returns the month, from `1 to 12`
+- `%m`: Returns the month, from `01 to 12`
+- `%#m`: Returns the month, from `1 to 12` in Windows Only
+- `%-m`: Returns the month, from `1 to 12` in mac/Unix/Linux
 - `%Y`: Returns the year in four-digit format like, `2021`
 - `%y`: Reurns year in two-digit format like, `19, 20, 21`
 - `%A`: Returns the weekday. Like, `Monday, Tuesday`
@@ -23,3 +27,13 @@ Learn python and the basics of all programming, This will include all database f
 - `%z`: Return the `UTC offset` in the form ±HHMM[SS[.ffffff]]
 - `%Z`: Return the `Time zone name` in the text form (Asia/Kolkotta)
 - `%w`: Returns weekday as a decimal number, `where 0 is Sunday and 6 is Saturday`
+
+```python
+test_dict = {'Gfg' : 'value 1', 'is' : 'value 2', 'best' : 'value 3'}
+first_key = next(iter(test_dict))
+first_value=test_dict[first_key]
+
+print("First key is: ",first_key)
+print("First Value is: ",first_value)
+```
+
