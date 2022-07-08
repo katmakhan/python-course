@@ -23,7 +23,7 @@
 - `%w`: Returns weekday as a decimal number, `where 0 is Sunday and 6 is Saturday`
 
 ### Sample code
-```console
+```python
 from datetime import datetime
 
 #Convert date object to date string
