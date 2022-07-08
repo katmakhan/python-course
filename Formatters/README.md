@@ -1,8 +1,12 @@
 # Date Time Formats in Python
 
 ### Date and time Formats
-- `%d`: Returns the date, from `1 to 31`
-- `%m`: Returns the month, from `1 to 12`
+- `%d`: Returns the date, from `01 to 31`
+
+			
+- `%m`: Returns the month, from `01 to 12`
+- `%#m`: Returns the month, from `1 to 12` in Windows Only
+- `%-m`: Returns the month, from `1 to 12` in mac/Unix/Linux
 - `%Y`: Returns the year in four-digit format like, `2021`
 - `%y`: Reurns year in two-digit format like, `19, 20, 21`
 - `%A`: Returns the weekday. Like, `Monday, Tuesday`
@@ -22,7 +26,7 @@
 - `%Z`: Return the `Time zone name` in the text form (Asia/Kolkotta)
 - `%w`: Returns weekday as a decimal number, `where 0 is Sunday and 6 is Saturday`
 
-### Sample code
+### Sample code for formatter
 ```python
 from datetime import datetime
 
@@ -52,4 +56,19 @@ date_format="%d %B %y %H:%M:%S"
 
 date_str=convert_to_date_str(date_obj,date_format)
 print("Date String is: ",date_str)
+```
+
+
+### Sample code for formatting starting zeros in both linux and windows
+```python
+from sys import platform
+# Os Finder
+if platform == "darwin" or platform=="linux":
+	print("mac or unix...")
+	latest_expiry_str=convert_to_date_str(latest_expiry_obj,"%d%-m%y")
+			
+elif platform == "win32":
+	print("winbdows")
+	latest_expiry_str=convert_to_date_str(latest_expiry_obj,"%d%#m%y")
+	
 ```
