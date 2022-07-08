@@ -64,6 +64,13 @@ print("Date String is: ",date_str)
 ```python
 from sys import platform
 # Os Finder
+
+#Convert date string into date object
+def convert_to_date_str(date_obj,date_format):
+	date_str=date_obj.strftime(date_format)
+	return date_str
+
+latest_expiry_str=""	
 if platform == "darwin" or platform=="linux":
 	print("mac or unix...")
 	latest_expiry_str=convert_to_date_str(latest_expiry_obj,"%d%-m%y")
@@ -72,4 +79,5 @@ elif platform == "win32":
 	print("winbdows")
 	latest_expiry_str=convert_to_date_str(latest_expiry_obj,"%d%#m%y")
 	
+print(latest_expiry_str)
 ```
