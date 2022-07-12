@@ -1,5 +1,6 @@
 # python-free-course
 Learn python and the basics of most of the production level architecture using python as backend, This will include all database functionalities for
+
 	- Async Functions
 	- Formating Date and Time
 	- Creating Telegram Bots
