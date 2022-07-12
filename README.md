@@ -9,11 +9,12 @@ Learn python and the basics of most of the production level architecture using p
 ### Testing the python using online compiler
 https://www.programiz.com/python-programming/online-compiler/
 
-### Below are the character codes to format the date and time:-
+### Below are the character codes to format the date and time
 
+- `%d`: Returns the date, from `01 to 31`
 - `%m`: Returns the month, from `01 to 12`
-- `%#m`: Returns the month, from `1 to 12` in Windows Only
-- `%-m`: Returns the month, from `1 to 12` in mac/Unix/Linux
+- `%#m`: Returns the month, from `1 to 12` without starting 0 in Windows Only
+- `%-m`: Returns the month, from `1 to 12` without starting 0 in mac/Unix/Linux
 - `%Y`: Returns the year in four-digit format like, `2021`
 - `%y`: Reurns year in two-digit format like, `19, 20, 21`
 - `%A`: Returns the weekday. Like, `Monday, Tuesday`
@@ -34,10 +35,10 @@ https://www.programiz.com/python-programming/online-compiler/
 - `%w`: Returns weekday as a decimal number, `where 0 is Sunday and 6 is Saturday`
 
 
-### Sample code for iterating through the Dictionary/Json
+### Sample code for iterating through the `Dictionary/Json`
 ```python
 test_dict = {}
-test_dict={'name1':'akku','name2':'basi','name3':'pheeby'}
+test_dict={'name1':'akku','name2':'basi','name3':'pheeby','name4':'achumon'}
 
 for key in test_dict:
 	print("Key is ",key)
@@ -45,7 +46,7 @@ for key in test_dict:
 	print("________________")
 ```
 
-### Sample code for iterating through the Array
+### Sample code for iterating through the `Array`
 ```python
 test_array = []
 test_array=['akku','basi','pheeby']
@@ -55,9 +56,9 @@ for name in test_array:
 	print("________________")
 ```
 
-### Sample code for getting the first key without iterating through the dictionary
+### Sample code for getting the first key `without iterating` through the `dictionary`
 ```python
-test_dict = {'Gfg' : 'value 1', 'is' : 'value 2', 'best' : 'value 3'}
+test_dict = {'key1' : 'value 1', 'key2' : 'value 2', 'key3' : 'value 3'}
 first_key = next(iter(test_dict))
 first_value=test_dict[first_key]
 

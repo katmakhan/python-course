@@ -4,11 +4,9 @@ https://www.programiz.com/python-programming/online-compiler/
 
 ### Date and time Formats
 - `%d`: Returns the date, from `01 to 31`
-
-			
 - `%m`: Returns the month, from `01 to 12`
-- `%#m`: Returns the month, from `1 to 12` in Windows Only
-- `%-m`: Returns the month, from `1 to 12` in mac/Unix/Linux
+- `%#m`: Returns the month, from `1 to 12` without starting 0 in Windows Only
+- `%-m`: Returns the month, from `1 to 12` without starting 0 in mac/Unix/Linux
 - `%Y`: Returns the year in four-digit format like, `2021`
 - `%y`: Reurns year in two-digit format like, `19, 20, 21`
 - `%A`: Returns the weekday. Like, `Monday, Tuesday`
