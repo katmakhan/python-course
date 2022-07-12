@@ -28,6 +28,7 @@ https://www.programiz.com/python-programming/online-compiler/
 - `%Z`: Return the `Time zone name` in the text form (Asia/Kolkotta)
 - `%w`: Returns weekday as a decimal number, `where 0 is Sunday and 6 is Saturday`
 
+### Sample code for getting the first key without iterating through the dictionary
 ```python
 test_dict = {'Gfg' : 'value 1', 'is' : 'value 2', 'best' : 'value 3'}
 first_key = next(iter(test_dict))
@@ -35,5 +36,25 @@ first_value=test_dict[first_key]
 
 print("First key is: ",first_key)
 print("First Value is: ",first_value)
+```
+
+### Sample code for iterating through the Dictionary/Json
+```python
+test_dict = {}
+test_dict={'name1':'akku','name2':'basi','name3':'pheeby'}
+
+for key in test_dict:
+	print("Key is ",key)
+	print("Value is ",test_dict[key])
+	print("________________")
+```
+
+### Sample code for iterating through the Array
+```python
+test_array = []
+test_array=['akku','basi','pheeby']
+
+for name in test_array:
+	print("Name is ",name)
 ```
 
