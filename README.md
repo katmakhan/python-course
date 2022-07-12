@@ -1,5 +1,10 @@
 # python-free-course
-Learn python and the basics of all programming, This will include all database functionalities for CLOUD Operations and deployment
+Learn python and the basics of most of the production level architecture using python as backend, This will include all database functionalities for
+	- Async Functions
+	- Formating Date and Time
+	- Creating Telegram Bots
+	- Webscraping and parsing of json/ csv files
+	- CLOUD Operations and deployment
 
 ### Testing the python using online compiler
 https://www.programiz.com/python-programming/online-compiler/
@@ -47,6 +52,7 @@ test_array=['akku','basi','pheeby']
 
 for name in test_array:
 	print("Name is ",name)
+	print("________________")
 ```
 
 ### Sample code for getting the first key without iterating through the dictionary
