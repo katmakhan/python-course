@@ -79,3 +79,14 @@ elif platform == "win32":
 	
 print(latest_expiry_str)
 ```
+
+### Sample code to add dates in python
+```python
+from datetime import datetime
+from datetime import timedelta
+
+prev_day=datetime.now() - timedelta(days=1)
+prev_day_str=convert_to_date_str(prev_day,"%d-%b-%y")
+print(prev_day_str)
+
+```

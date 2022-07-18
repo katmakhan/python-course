@@ -1,9 +1,9 @@
 # python-free-course
 Learn python and the basics of most of the production level architecture using python as backend, This will include all database functionalities for
 
-	- Async Functions[https://github.com/katmakhan/python-course/tree/master/Telegram%20Bot]
-	- Formating Date and Time
-	- Creating Telegram Bots
+	- Async Functions[https://github.com/katmakhan/python-course/tree/master/Functions/Functions%20-%20Asyncio]
+	- Formating Date and Time[https://github.com/katmakhan/python-course/tree/master/Helpers/Helpers%20-%20Formatters]
+	- Creating Telegram Bots[https://github.com/katmakhan/python-course/tree/master/Telegram%20Bot]
 	- Webscraping and parsing of json/ csv files
 	- CLOUD Operations and deployment
 
