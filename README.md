@@ -1,9 +1,9 @@
 # python-free-course
 Learn python and the basics of most of the production level architecture using python as backend. Functions like database READ WRITE DELETE operations, deployment in cloud platforms like gcloud and heroku for better automation of your work.
 
-- Async Functions[https://github.com/katmakhan/python-course/tree/master/Functions/Functions%20-%20Asyncio]
-- Formating Date and Time[https://github.com/katmakhan/python-course/tree/master/Helpers/Helpers%20-%20Formatters]
-- Creating Telegram Bots[https://github.com/katmakhan/python-course/tree/master/Telegram%20Bot]
+- [Async Functions](https://github.com/katmakhan/python-course/tree/master/Functions/Functions%20-%20Asyncio)
+- [Formating Date and Time](https://github.com/katmakhan/python-course/tree/master/Helpers/Helpers%20-%20Formatters)
+- [Creating Telegram Bots](https://github.com/katmakhan/python-course/tree/master/Telegram%20Bot)
 - Webscraping and parsing of json/ csv files
 - CLOUD Operations and deployment
 
