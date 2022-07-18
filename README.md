@@ -7,6 +7,8 @@ Learn python and the basics of most of the production level architecture using p
 - Webscraping and parsing of json/ csv files
 - CLOUD Operations and deployment
 
+### CMD from opened folder in WINDOWS
+press `Alt` + `D` then type `cmd`
 
 ### Testing the python using online compiler
 https://www.programiz.com/python-programming/online-compiler/
