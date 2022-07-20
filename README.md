@@ -60,7 +60,11 @@ for name in test_array:
 	print("________________")
 ```
 
-### Sample code for getting the first key `without iterating` through the `dictionary`
+### Getting first key `without iterating` through the `dictionary`
+```python
+first_key=next(iter(test_dict))
+```
+### Example
 ```python
 test_dict = {'key1' : 'value 1', 'key2' : 'value 2', 'key3' : 'value 3'}
 first_key = next(iter(test_dict))
@@ -68,5 +72,32 @@ first_value=test_dict[first_key]
 
 print("First key is: ",first_key)
 print("First Value is: ",first_value)
+```
+
+
+### Sample code to merge two dictionary
+```python
+
+def combine_dict(dict1,dict2):
+	dict={}
+	
+	for key in dict1:
+		#If there is no key inside combined_cepe
+		#Add the data
+		if dict.get(key) is None:
+			dict[key]=dict1[key]
+		else:
+			print("Already there is key in dict 1")
+			
+	for key in dict2:
+		#If there is no key inside combined_cepe
+		#Add the data
+		if dict.get(key) is None:
+			dict[key]=dict2[key]
+		else:
+			print("Already there is key in dict 2")
+			
+	#Return the combined dict
+	return dict
 ```
 
