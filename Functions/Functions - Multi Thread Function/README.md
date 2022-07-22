@@ -25,5 +25,5 @@ pool.map(function1,[("val_arg1"),("val_arg2"),("val_arg3")])
 
 ```python
 #using pool.starmap for multiple argument function
-pool.map(function1,[("val_arg1","Bval_arg1"),("val_arg2","Bval_arg2"),("val_arg3",,"Bval_arg3")])
+pool.starmap(function1,[("val_arg1","Bval_arg1"),("val_arg2","Bval_arg2"),("val_arg3",,"Bval_arg3")])
 ```
