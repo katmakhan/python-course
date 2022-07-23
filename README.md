@@ -5,7 +5,7 @@ Learn python and the basics of most of the production level architecture using p
 - [Formating Date and Time](https://github.com/katmakhan/python-course/tree/master/Helpers/Helpers%20-%20Formatters)
 - [Creating Telegram Bots](https://github.com/katmakhan/python-course/tree/master/API%20Integration/API-%20Telegram)
 - Webscraping and parsing of json/ csv files
-- CLOUD Operations and deployment
+- Cloud functions and deployment
 
 ### CMD from opened folder in WINDOWS
 press `Alt` + `D` then type `cmd`
