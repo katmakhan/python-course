@@ -90,3 +90,16 @@ prev_day_str=convert_to_date_str(prev_day,"%d-%b-%y")
 print(prev_day_str)
 
 ```
+
+### Sample code to get time in seconds from datetime
+```python
+from datetime import datetime
+from datetime import timedelta
+
+curr_day=datetime.now()
+curr_day.replace(hour=7,minute=30)
+seconds=round(curr_day.timestamp())
+
+print("Current date in seconds",seconds)
+
+```
