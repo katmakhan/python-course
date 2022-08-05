@@ -1,4 +1,4 @@
-# Bot Name: Btech_Trader
+# Creating a Telegram BOT
 - If you don't have one, create one using botfather
 - Create BOTS using https://t.me/botfather
 - Put a unique profile pic for bot, for uniqueness
@@ -20,7 +20,7 @@ http_api="123456789:HKSDFKFSLSFHFSJKS-6r4L5hgWLhEc"
   ```
 - Find the group id from updates "chat":{"id":-123456"
 
-# Sample Chat ID
+### Sample Chat ID
 ```console
 chat_id="-123456"
 ```
