@@ -8,7 +8,7 @@ from firebase_admin import db
 
 ### Initialising admin sdk
 ```python
-cred = credentials.Certificate("/firebase-admin-key.json")
+cred = credentials.Certificate("./firebase-admin-key.json")
 print("initilising firebase app")
 
 #Initilising Database
