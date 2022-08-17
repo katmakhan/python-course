@@ -3,7 +3,7 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
 
-cred = credentials.Certificate("/firebase-admin-key.json")
+cred = credentials.Certificate("./firebase-admin-key.json")
 
 
 print("initilising firebase app")
