@@ -291,14 +291,66 @@ def read_fromcsv(filename):
 	output_dict=pd.read_csv(filename).to_dict('index')
 	return output_dict
 
+import urllib.request
+import http.cookiejar
+
 def downloadbhav(date_str):
 	# url="https://www1.nseindia.com/ArchieveSearch?h_filetype=eqbhav&date=13-12-2022&section=EQ"
+	# https://www1.nseindia.com/content/historical/EQUITIES/2023/JAN/cm02JAN2023bhav.csv.zip
+	# https://www1.nseindia.com/content/historical/EQUITIES/2023/JAN/cm02JAN2023bhav.csv.zip
+	# https://www1.nseindia.com/content/historical/EQUITIES/2022/DEC/cm13DEC2022bhav.csv.zip
+
 	# date_str="13DEC2022"
-	url="https://www1.nseindia.com/content/historical/EQUITIES/2022/DEC/cm"+date_str+"bhav.csv.zip"
-	res = requests.get(url)
+	# https://www1.nseindia.com/ArchieveSearch?h_filetype=eqbhav&date=02-01-2023&section=EQ
+
+	year=date_str[-4:]
+	month=date_str.split(year)[0][2:]
+
+	#Adding a new link to bypass cookies
+	s = requests.Session()
+
+	# url="https://www1.nseindia.com/ArchieveSearch?h_filetype=eqbhav&date=02-01-2023&section=EQ"
+
+	# headers = {
+	# "Cookie": "NSE-TEST-1=1910513674.20480.0000",
+	# # "Connection": "keep-alive",
+	# # "Accept-Encoding": "gzip, deflate, br",
+	# # "Accept-Language": "en-US,en;q=0.5",
+	# # "Upgrade-Insecure-Requests": "1",
+	# # "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+	# "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+	# res = s.get(url,headers=headers)
+
+	#Downloading Bhav
+	url="https://www1.nseindia.com/content/historical/EQUITIES/"+str(year)+"/"+str(month)+"/cm"+date_str+"bhav.csv.zip"
+
+
+	print("Checking ",url)
+
+	#Method 1
+	res = s.get(url)
+
+	#Method 2
+	# response = urllib.request.urlopen(url)
+	# data = response.read()
+	# print(data)
+
+	#Method 3
+	# Create a cookie jar to store the cookie
+	# cj = http.cookiejar.CookieJar()
+
+	# # Create an opener to handle cookies
+	# opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
+
+	# # Send the request and retrieve the file
+	# response = opener.open(url)
+	# data = response.read()
+	# print(data)
+
 	# print(res.status_code)
 	if(res.status_code==200):
-		open('./bhavfiles/cm'+date_str+'bhav.csv.zip', 'wb').write(res.content)
+		print("File exist...")
+		open('./bhavfiles/cm'+date_str+'bhav.csv.zip', 'wb+').write(res.content)
 	else:
 		print("--------------------No bhav data found in ",date_str)
 	# print("wait for 3 sec..")
@@ -395,15 +447,33 @@ def deleteoldata():
 	folderpath=os.path.join(os.getcwd(),csvpath)
 	try:
 		shutil.rmtree(folderpath)
-		print("Deleted the old files...")
+		print("Deleted the old files csv...")
 	except Exception as e:
 		# print('Failed to delete %s. Reason: %s' % (folderpath, e))
-		print("No bhav folder found")
+		print("No bhav csv folder found")
+
+
+	folderpath=os.path.join(os.getcwd(),inputpath)	
+	try:
+		shutil.rmtree(folderpath)
+		print("Deleted the old files zip...")
+	except Exception as e:
+		# print('Failed to delete %s. Reason: %s' % (folderpath, e))
+		print("No bhav zip folder found")
+
+def createfolders():
+	if not os.path.exists(csvpath):
+		print("Creating csv folder..")
+		os.makedirs(csvpath)
+	if not os.path.exists(inputpath):
+		print("Creating zip folder..")
+		os.makedirs(inputpath)
 
 # Main Function
 try:
 	# Only once a day
 	deleteoldata()
+	createfolders()
 	bhavdownloadloop()
 	print("\n\n")
 	unziploop()
