@@ -322,39 +322,44 @@ def downloadbhav(date_str):
 	# res = s.get(url,headers=headers)
 
 	#Downloading Bhav
-	url="https://www1.nseindia.com/content/historical/EQUITIES/"+str(year)+"/"+str(month)+"/cm"+date_str+"bhav.csv.zip"
+	# https://archives.nseindia.com/content/historical/EQUITIES/2023/APR/cm13APR2023bhav.csv.zip
+	url="https://archives.nseindia.com/content/historical/EQUITIES/"+str(year)+"/"+str(month)+"/cm"+date_str+"bhav.csv.zip"
 
 
-	print("Checking ",url)
+	# print("Checking ",url)
 
 	#Method 1
-	res = s.get(url)
+	try:
+		res = s.get(url,timeout=2)
 
-	#Method 2
-	# response = urllib.request.urlopen(url)
-	# data = response.read()
-	# print(data)
+		#Method 2
+		# response = urllib.request.urlopen(url)
+		# data = response.read()
+		# print(data)
 
-	#Method 3
-	# Create a cookie jar to store the cookie
-	# cj = http.cookiejar.CookieJar()
+		#Method 3
+		# Create a cookie jar to store the cookie
+		# cj = http.cookiejar.CookieJar()
 
-	# # Create an opener to handle cookies
-	# opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
+		# # Create an opener to handle cookies
+		# opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
 
-	# # Send the request and retrieve the file
-	# response = opener.open(url)
-	# data = response.read()
-	# print(data)
+		# # Send the request and retrieve the file
+		# response = opener.open(url)
+		# data = response.read()
+		# print(data)
 
-	# print(res.status_code)
-	if(res.status_code==200):
-		print("File exist...")
-		open('./bhavfiles/cm'+date_str+'bhav.csv.zip', 'wb+').write(res.content)
-	else:
-		print("--------------------No bhav data found in ",date_str)
-	# print("wait for 3 sec..")
-	# time.sleep(3)
+		# print(res.status_code)
+		if(res.status_code==200):
+			print("File exist...")
+			open('./bhavfiles/cm'+date_str+'bhav.csv.zip', 'wb+').write(res.content)
+		else:
+			print("--------------------No bhav data found in ",date_str)
+		# print("wait for 3 sec..")
+		# time.sleep(3)
+	except Exception as e:
+		print("No data found..")
+		# print(e)
 
 def bhavdownloadloop():
 	today_obj=dt.today()
@@ -414,8 +419,33 @@ def removefield(dataset,fieldname):
 
 	return newdata
 
+#Order the bhav files
+def orderthedata(filelist):
+	datelist=[]
+	for filename in filelist:
+		# print(filename)
+		date_str=filename.split("bhav")[0].split("cm")[1]
+		# print(date_str)
+		date_obj=convert_str_to_date(date_str,"%d%b%Y")
+		datelist.append(date_obj)
+
+	datelist.sort(reverse=True)
+	# print(datelist)
+
+
+	newlist=[]
+	for date in datelist:
+		date_str=convert_date_to_str(date,"%d%b%Y")
+		filename="cm"+date_str+"bhav.csv"
+		newlist.append(filename)
+
+	# print(newlist)
+	return newlist
+
+
 def processbhavdata(industrydata):
 	allfilenames=get_allbhavfiles()
+	allfilenames=orderthedata(allfilenames)
 	for filename in allfilenames:
 		# print(filename)
 		bhavjson=read_fromcsv(csvpath+"/"+filename)
@@ -476,14 +506,12 @@ try:
 	createfolders()
 	bhavdownloadloop()
 	print("\n\n")
-	unziploop()
-
-
-	#Everytime
+	unziploop()	
 	with open('datamissing.txt', 'w') as f:
 		# Write an empty string to the file
 		f.write('')
 
+	#Everytime
 	industrylist=getresourcedata()
 	processbhavdata(industrylist)
 
@@ -492,6 +520,9 @@ try:
 	print("All Data Completely Processed.")
 	print("------------------------------")
 	print("______________________________")
+
+	# filelist=get_allbhavfiles()
+	# filelist=orderthedata(filelist)
 	
 	
 except Exception as e:
