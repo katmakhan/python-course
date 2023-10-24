@@ -8,6 +8,8 @@ import json
 def main():
 	#Fetching NIFTY Stocks
 	# actualurl='https://www.nseindia.com/api/liveEquity-derivatives?index=top20_contracts'
+	# actualurl="https://www.nseindia.com/api/option-chain-indices?symbol=NIFTY"
+	# actualurl="https://www.nseindia.com/api/option-chain-equities?symbol=ABB"
 	actualurl='https://www.nseindia.com/api/liveEquity-derivatives?index=stock_opt'
 
 	#Visit the main page to bypass cookies
