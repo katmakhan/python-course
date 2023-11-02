@@ -5,7 +5,11 @@ Learn python and the basics of most of the production level architecture using p
 - [Formating Date and Time](https://github.com/katmakhan/python-course/tree/master/Helpers/Helpers%20-%20Formatters)
 - [Creating Telegram Bots](https://github.com/katmakhan/python-course/tree/master/API%20Integration/API-%20Telegram)
 - [Webscraping and parsing of json/ csv files](https://github.com/katmakhan/python-course/tree/master/Data%20Extraction)
-- Cloud functions and deployment
+- [Live NSE Data](https://github.com/katmakhan/python-course/tree/master/Live%20Stock%20Data)
+- [Scrapping NSE holidays, Stocks, FNO Option chain from NSE](https://github.com/katmakhan/python-course/tree/master/NSE)
+- [Checking Stocknames via tradingview and Chartink](https://github.com/katmakhan/python-course/tree/master/Tradingview%20Names)
+- [Scrapping details from NiftyTrader](https://github.com/katmakhan/python-course/tree/master/Nifty%20Trader)
+- [Scrapping option chain from Trendlyne](https://github.com/katmakhan/python-course/tree/master/Trendlyne)
 
 ### CMD from opened folder in WINDOWS
 press `Alt` + `D` then type `cmd`
@@ -100,4 +104,9 @@ def combine_dict(dict1,dict2):
 	#Return the combined dict
 	return dict
 ```
+### Getting current date
+```python
+from datetime import datetime
 
+curr_date=datetime.today()
+```
