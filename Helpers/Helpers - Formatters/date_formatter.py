@@ -26,3 +26,6 @@ date_format="%d %B %y %H:%M:%S"
 
 date_str=convert_to_date_str(date_obj,date_format)
 print("Date String is: ",date_str)
+
+curr_day=datetime.today()
+print("Current day is : ",curr_day)

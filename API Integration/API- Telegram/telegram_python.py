@@ -2,7 +2,7 @@ import requests
 # Converting text to url encode for links
 import urllib.parse
 
-#Bot Name: Btech_Trader
+#Bot Name: Your_Bot_Name
 #If you don't have one, create one using botfather
 #Create BOTS using https://t.me/botfather
 #Put a unique profile pic for bot, for uniqueness
