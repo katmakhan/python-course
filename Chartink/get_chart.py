@@ -7,7 +7,7 @@ from urllib.parse import urlencode, quote, unquote
 import json
 
 
-def main():
+def getchart_indicators(emalabel,emavalue,query,use_live,limit,size,widget_id,end_time,timeframe,symbol,scan_link):
 
 	#Session to maintain the cookies
 	s = requests.Session()
@@ -29,19 +29,6 @@ def main():
 	encoded_xrf_token= unquote(res.cookies.get_dict()['XSRF-TOKEN'])
 	headers["X-Xsrf-Token"]=encoded_xrf_token
 
-	
-	# Separate fields
-	emalabel = 'ema 20'
-	emavalue='Ema(  Close , 20 )'
-	query = f"select open, high, low, close, volume, {emavalue} as '{emalabel}' where symbol='HEROMOTOCO'"
-	use_live = "1"
-	limit = "1"
-	size = "200"
-	widget_id = "-1"
-	end_time = "-1"
-	timeframe = "Daily"
-	symbol = "HEROMOTOCO"
-	scan_link = "null"
 
 	# Combine fields into a dictionary
 	form_data = {
@@ -63,6 +50,25 @@ def main():
 	print(res)
 	# print(res.json())
 
+	s.close()
+	return res
+
+def main():
+	# Separate fields
+	emalabel = 'ema 20'
+	emavalue='Ema(  Close , 20 )'
+	use_live = "1"
+	limit = "1"
+	size = "200"
+	widget_id = "-1"
+	end_time = "-1"
+	timeframe = "Daily"
+	symbol = "HEROMOTOCO"
+	scan_link = "null"
+	query = f"select open, high, low, close, volume, {emavalue} as '{emalabel}' where symbol='{symbol}'"
+
+	res=getchart_indicators(emalabel,emavalue,query,use_live,limit,size,widget_id,end_time,timeframe,symbol,scan_link)
+	
 	# Traverse the data
 	groupdata=res.json()['groupData'][0]['results']
 	for data in groupdata:
@@ -72,9 +78,6 @@ def main():
 			print(data[emalabel])
 		print("---")
 
-	s.close()
-
-	
 #Main program
 if __name__ == '__main__':
 	main()
