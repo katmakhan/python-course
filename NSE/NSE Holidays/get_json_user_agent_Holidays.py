@@ -18,7 +18,7 @@ def convert_to_date_str(date_obj,date_format):
 	date_str=date_obj.strftime(date_format)
 	return date_str
 
-def main():
+def fno_holiday_list():
 	#Fetching NIFTY Stocks
 	url='https://www.nseindia.com/api/holiday-master?type=trading'
 	# https://www.nseindia.com/api/holiday-master?type=clearing
@@ -40,10 +40,13 @@ def main():
 	fno_holidays=holidays["FO"]
 	# print(holidays)
 
+	return fno_holidays
 
+def check_holiday(fno_holidays):
 	#Check whether today is holiday or not
 	currentday=datetime.now()
 
+	holiday=False
 	for holiday in fno_holidays:
 		# FO - Futures and Options
 		holiday_str=holiday["tradingDate"]
@@ -52,9 +55,21 @@ def main():
 
 		if holidate_dateobj.day==currentday.day:
 			print("Today is holiday")
+			holiday=True
+			break
 
 			#To exit with false for combine scripting in CRON jobs
 			# exit(1)
+	if holiday==True:
+		print("Today is holiday")
+	else:
+		print("Today is Not holiday")
+
+	return holiday
+
+def main():
+	fno_holidays=fno_holiday_list()
+	check_holiday(fno_holidays)
 
 #Main program
 if __name__ == '__main__':

@@ -5,7 +5,7 @@ import requests
 import json
 
 
-def main():
+def underlying_info():
 	#Fetching NIFTY Stocks
 	actualurl='https://www.nseindia.com/api/underlying-information'
 
@@ -29,6 +29,14 @@ def main():
 
 	fnolistdata=res.json()['data']['UnderlyingList']
 	# print(fnolistdata)
+
+	s.close()
+	return fnolistdata
+
+
+def main():
+	fnolistdata=underlying_info()
+
 
 	symbolist=[]
 	for data in fnolistdata:

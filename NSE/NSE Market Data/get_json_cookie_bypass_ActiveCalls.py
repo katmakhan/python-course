@@ -5,7 +5,7 @@ import requests
 import json
 
 
-def main():
+def active_calls():
 	#Fetching NIFTY Stocks
 	# actualurl='https://www.nseindia.com/api/liveEquity-derivatives?index=top20_contracts'
 	# actualurl="https://www.nseindia.com/api/option-chain-indices?symbol=NIFTY"
@@ -18,7 +18,7 @@ def main():
 
 	headers = {
 	"Accept-Encoding": "gzip, deflate, br",
-	"Accept-Language": "en-US,en;q=0.5",
+	# "Accept-Language": "en-US,en;q=0.5",
 	"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
 	
 
@@ -33,12 +33,15 @@ def main():
 	fnolistdata=res.json()['volume']['data']
 	# print(fnolistdata)
 
+	s.close()
+	return fnolistdata
+	
+def main():
+	fnolistdata=active_calls()
 	for data in fnolistdata:
 		symbol=data['identifier']
 		print(symbol)
 
-
-	
 #Main program
 if __name__ == '__main__':
 	main()
