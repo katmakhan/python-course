@@ -1,10 +1,3 @@
-#For invoking http requests
-import requests
-
-#Json Parsing
-import json
-
-import time
 
 nifty50stocks={
   "ADANIPORTS": 68436,
@@ -2028,7 +2021,26 @@ fullstocklist={
   "NSE:ZYDUSWELL-EQ": 100
 }
 
+#For invoking http requests
+import requests
+
+#Json Parsing
+import json
+
+import time
+
+
 missinglist_afer=['NSE:AMARAJABAT-EQ', 'NSE:BAJAJ-AUTO-EQ', 'NSE:BZUIPPP-BZ', 'NSE:GET%26D-BE', 'NSE:GISOLUTION-BE', 'NSE:GMRP%26UI-EQ', 'NSE:HCL-INSYS-EQ', 'NSE:HDFC-EQ', 'NSE:IDBIGOLD-EQ', 'NSE:IL%26FSENGG-BZ', 'NSE:J%26KBANK-EQ', 'NSE:JSWISPL-EQ', 'NSE:KEERTI-BZ', 'NSE:L%26TFH-EQ', 'NSE:LSIL-EQ', 'NSE:M%26M-EQ', 'NSE:M%26MFIN-EQ', 'NSE:MAESGETF-EQ', 'NSE:MAFSETF-EQ', 'NSE:MAGOLDETF-EQ', 'NSE:MAGS813ETF-EQ', 'NSE:MAM150ETF-EQ', 'NSE:MAMFGETF-EQ', 'NSE:MAN50ETF-EQ', 'NSE:MANV30F-EQ', 'NSE:MANXT50-EQ', 'NSE:MASILVER-EQ', 'NSE:MAXVIL-EQ', 'NSE:MCDOWELL-N-EQ', 'NSE:MRO-TEK-EQ', 'NSE:NAM-INDIA-EQ', 'NSE:ORIENTABRA-EQ', 'NSE:PROZONINTU-EQ', 'NSE:REVATHI-BE', 'NSE:SCAPDVR-BE', 'NSE:SEPOWER-BE', 'NSE:SUNCLAYLTD-EQ', 'NSE:SURANAT%26P-EQ', 'NSE:UCALFUEL-EQ']
+
+
+#Writing JSON
+def writejson(location,jsondt):
+  print("Writing data into JSON File...",location)
+  with open(location, 'w+', encoding='utf-8') as f:
+    json.dump(jsondt, f, ensure_ascii=False, indent=4)
+    print("Sucessfully written into json file")
+    print("\n")
+    f.close()
 
 def checkname(stockname):
 	mainurl="https://in.tradingview.com/symbols/NSE-"+stockname

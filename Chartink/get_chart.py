@@ -51,7 +51,7 @@ def getchart_indicators(emalabel,emavalue,query,use_live,limit,size,widget_id,en
 	# print(res.json())
 
 	s.close()
-	return res
+	return res.json()
 
 def main():
 	# Separate fields
@@ -70,7 +70,7 @@ def main():
 	res=getchart_indicators(emalabel,emavalue,query,use_live,limit,size,widget_id,end_time,timeframe,symbol,scan_link)
 	
 	# Traverse the data
-	groupdata=res.json()['groupData'][0]['results']
+	groupdata=res['groupData'][0]['results']
 	for data in groupdata:
 		# print(data)
 
