@@ -5,7 +5,7 @@ import requests
 import json
 
 
-def main():
+def mostactive_calls():
 	#Visit the main page to bypass cookies
 	s = requests.Session()
 
@@ -24,8 +24,10 @@ def main():
 	res = s.get(actualurl,headers=headers,timeout=2)
 	fnolistdata=res.json()
 	print(fnolistdata)
+	return fnolistdata
 
-
+def main():
+	mostactive_calls()
 	
 #Main program
 if __name__ == '__main__':
