@@ -18,7 +18,7 @@ def convert_to_date_str(date_obj,date_format):
 	date_str=date_obj.strftime(date_format)
 	return date_str
 
-def main():
+def gap_analysis():
 
 	# Headers for content Type 
 	headers = {"Content-Type":"application/json"}
@@ -44,10 +44,14 @@ def main():
 	gap_up_stocks=res.json()['resultData']["gap_up_stocks"]
 	gap_down_stocks=res.json()['resultData']["gap_down_stocks"]
 
+	return gap_up_stocks,gap_down_stocks
+
+
+def main():
+	gap_up_stocks,gap_down_stocks=gap_analysis()
 
 	for stocks in gap_up_stocks:
 		print(stocks['symbol_name'])
-
 	
 #Main program
 if __name__ == '__main__':
