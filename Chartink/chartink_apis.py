@@ -22,7 +22,7 @@ def getchart_indicators(emalabel,emavalue,query,use_live,limit,size,widget_id,en
 	testurl="https://chartink.com/"
 	actualurl='https://chartink.com/stocks-new/process'
 	res=s.get(testurl)
-	print(res)
+	# print(res)
 	# print(res.cookies.get_dict())
 
 	# Convert the xrf token
@@ -47,37 +47,37 @@ def getchart_indicators(emalabel,emavalue,query,use_live,limit,size,widget_id,en
 
 	# print(headers)
 	res = s.post(actualurl,headers=headers,data=form_data,timeout=3)
-	print(res)
+	# print(res)
 	# print(res.json())
 
 	s.close()
 	return res.json()
 
-def main():
-	# Separate fields
-	emalabel = 'ema 20'
-	emavalue='Ema(  Close , 20 )'
-	use_live = "1"
-	limit = "1"
-	size = "200"
-	widget_id = "-1"
-	end_time = "-1"
-	timeframe = "Daily"
-	symbol = "HEROMOTOCO"
-	scan_link = "null"
-	query = f"select open, high, low, close, volume, {emavalue} as '{emalabel}' where symbol='{symbol}'"
+# def main():
+# 	# Separate fields
+# 	emalabel = 'ema 20'
+# 	emavalue='Ema(  Close , 20 )'
+# 	use_live = "1"
+# 	limit = "1"
+# 	size = "200"
+# 	widget_id = "-1"
+# 	end_time = "-1"
+# 	timeframe = "Daily"
+# 	symbol = "HEROMOTOCO"
+# 	scan_link = "null"
+# 	query = f"select open, high, low, close, volume, {emavalue} as '{emalabel}' where symbol='{symbol}'"
 
-	res=getchart_indicators(emalabel,emavalue,query,use_live,limit,size,widget_id,end_time,timeframe,symbol,scan_link)
+# 	res=getchart_indicators(emalabel,emavalue,query,use_live,limit,size,widget_id,end_time,timeframe,symbol,scan_link)
 	
-	# Traverse the data
-	groupdata=res['groupData'][0]['results']
-	for data in groupdata:
-		# print(data)
+# 	# Traverse the data
+# 	groupdata=res.json()['groupData'][0]['results']
+# 	for data in groupdata:
+# 		# print(data)
 
-		if data.get(emalabel) is not None:
-			print(data[emalabel])
-		print("---")
+# 		if data.get(emalabel) is not None:
+# 			print(data[emalabel])
+# 		print("---")
 
-#Main program
-if __name__ == '__main__':
-	main()
+# #Main program
+# if __name__ == '__main__':
+# 	main()

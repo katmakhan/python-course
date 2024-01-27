@@ -23,12 +23,12 @@ def mostactive_calls():
 	actualurl='https://trendlyne.com/futures-options/api-filter/options/26-oct-2023-near/most_active_contract_call/all/'
 	res = s.get(actualurl,headers=headers,timeout=2)
 	fnolistdata=res.json()
-	print(fnolistdata)
+	# print(fnolistdata)
 	return fnolistdata
 
-def main():
-	mostactive_calls()
+# def main():
+# 	mostactive_calls()
 	
-#Main program
-if __name__ == '__main__':
-	main()
+# #Main program
+# if __name__ == '__main__':
+# 	main()
