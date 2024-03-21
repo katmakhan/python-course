@@ -37,6 +37,7 @@ def main():
 	alphabet = '1234567890abcdef'
 	# Create a custom nanoid generator
 	generated_id = generate(alphabet, 10)
+	# generated_id="b9d084cce6"
 
 
 	print("request id is ","WPRO-" + generated_id)
@@ -48,26 +49,27 @@ def main():
 	"Content-Type":"application/json",
 	# "Content-Type":"text/plain",
 	# "X-Request-Id":"WPRO-21e05771b2",
- 	# 'Sec-Ch-Ua': '"Brave";v="119", "Chromium";v="119", "Not?A_Brand";v="24"',
+ # 	'Sec-Ch-Ua': '"Brave";v="119", "Chromium";v="119", "Not?A_Brand";v="24"',
  #    'Sec-Ch-Ua-Mobile': '?0',
  #    'Sec-Ch-Ua-Platform': '"macOS"',
  #    'Sec-Fetch-Dest': 'empty',
- #    'Sec-Fetch-Mode': 'cors',
- #    'Sec-Fetch-Site': 'same-site',
+    # 'Sec-Fetch-Mode': 'cors',
+    # 'Sec-Fetch-Site': 'same-site',
  #    'Sec-Gpc': '1',
- #    'authority': 'service.upstox.com',
+	# 'authority': 'service.upstox.com',
 	# "Origin":"https://login.upstox.com",
 	# "Referer":"https://login.upstox.com/",
 	"X-Request-Id": "WPRO-" + generated_id,
 	# "X-Device-Details":"platform=WEB|osName=Mac OS/10.15.7|osVersion=Brave/119.0.0.0|appVersion=4.0.0|modelName=Brave|manufacturer=Apple",
-	"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
+	"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+	}
 	
 
 	timestamp=round(datetime.now().timestamp())
 	print("timestamp: ",timestamp)
 
 	# Payload Creation for OTP Generation
-	mobilnum="1234567"
+	mobilnum="9847437456"
 	# mobilnum="<script>alert('gotcha!')</script>"
 	payload={}
 	payload['data']={}

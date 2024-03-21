@@ -4,6 +4,8 @@ import requests
 #Json Parsing
 import json
 
+from datetime import datetime
+
 #Convert date object to date string
 def convert_to_date_obj(date_str,date_format):
 	date_obj = datetime. strptime(date_str,date_format)
@@ -261,6 +263,36 @@ def fno_holiday_list():
 	# print(holidays)
 
 	return fno_holidays
+
+def index_expiry(index):
+	url="https://www.nseindia.com/api/quote-derivative?symbol="+index
+	headers = {
+	#'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+	#'Accept-Encoding': 'gzip, deflate, br',
+	#'Accept-Language': 'en-US;q=0.5',
+	'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36'
+	}
+	
+	#This website prevents normal Traffic, unlesss you specify the user agent, the server won't response
+	resp = requests.get(url,headers=headers)
+	# print("Done..")
+	# print(resp)
+	expirylist = resp.json()	
+	explist=set(expirylist['expiryDates'])
+
+	expirylistobj=[]
+	for expdate_str in explist:
+		expdate_obj=convert_to_date_obj(expdate_str,"%d-%b-%Y")
+		print(expdate_str)
+		expirylistobj.append(expdate_obj)
+
+	expirylistobj.sort()
+	latest_exp_obj=expirylistobj[0]
+	print(latest_exp_obj)
+	return latest_exp_obj
+
+# index_expiry('NIFTY')
+# index_expiry('BANKNIFTY')
 
 def check_holiday(fno_holidays):
 	#Check whether today is holiday or not
