@@ -242,6 +242,7 @@ def underlying_fnolist():
 	s.close()
 	return fnolistdata
 
+
 def fno_holiday_list():
 	#Fetching NIFTY Stocks
 	url='https://www.nseindia.com/api/holiday-master?type=trading'
@@ -319,7 +320,93 @@ def check_holiday(fno_holidays):
 
 	return holiday
 
+
+def get_historical_data(stockname,from_date,to_date):
+	actualurl=f'https://www.nseindia.com/api/historical/cm/equity?symbol={stockname}&series=[%22EQ%22]&from={from_date}&to={to_date}'
+	headers = {
+	#'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+	"Accept-Encoding": "gzip, deflate, br",
+	#'Accept-Language': 'en-US;q=0.5',
+	'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36'
+	}
+
+
+	#Visit the main page to bypass cookies
+	s = requests.Session()
+
+	# To set the cookies
+	mainurl = "https://www.nseindia.com/"
+	response = s.get(mainurl,headers=headers,timeout=2)
+
+	print("checking url ",actualurl)
+	#Then visit the json page for fetching the json
+	resp = s.get(actualurl,headers=headers,timeout=2)
 	
+	print("Done..")
+	# print(resp)
+	historical_data = resp.json()	
+	historical_data=historical_data["data"]
+	s.close()
+	return historical_data
+
+def get_corporate_info(stockname):
+	actualurl=f'https://www.nseindia.com/api/top-corp-info?symbol={stockname}&market=equities'
+	headers = {
+	#'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+	"Accept-Encoding": "gzip, deflate, br",
+	#'Accept-Language': 'en-US;q=0.5',
+	'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36'
+	}
+
+
+	#Visit the main page to bypass cookies
+	s = requests.Session()
+
+	# To set the cookies
+	mainurl = "https://www.nseindia.com/"
+	response = s.get(mainurl,headers=headers,timeout=2)
+
+	print("checking url ",actualurl)
+	#Then visit the json page for fetching the json
+	resp = s.get(actualurl,headers=headers,timeout=2)
+	
+	print("Done..")
+	# print(resp)
+	data = resp.json()	
+	# data=data["latest_announcements"]
+	s.close()
+	return data
+
+
+def get_intraday_chart_data(stockname):
+	actualurl=f'https://www.nseindia.com/api/chart-databyindex-dynamic?index={stockname}EQN&type=symbol'
+	headers = {
+	#'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+	"Accept-Encoding": "gzip, deflate, br",
+	#'Accept-Language': 'en-US;q=0.5',
+	'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36'
+	}
+
+
+	#Visit the main page to bypass cookies
+	s = requests.Session()
+
+	# To set the cookies
+	mainurl = "https://www.nseindia.com/"
+	response = s.get(mainurl,headers=headers,timeout=2)
+
+	print("checking url ",actualurl)
+	#Then visit the json page for fetching the json
+	resp = s.get(actualurl,headers=headers,timeout=2)
+	
+	print("Done..")
+	# print(resp)
+	data = resp.json()	
+	data=data["grapthData"]
+	s.close()
+	return data
+
+
 # def main():
 # 	fnolistdata=stock_opt()
 # 	for data in fnolistdata:
