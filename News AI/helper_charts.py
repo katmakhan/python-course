@@ -1,6 +1,9 @@
 import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
+import os
+import helper_functions as help_functions
+
 
 def create_chart_png(data, stockname):
     # Convert data to DataFrame
@@ -130,3 +133,58 @@ def create_bargraph_png(dataset,columnname, title_str,yaxis_title_str,outputfile
 
     fig.write_image(f'Outputs/{outputfilename}.png')
 
+
+
+def create_bargraph_png_icon(dataset, columnname, title_str, yaxis_title_str, outputfilename,icon_size,yoffset):
+    dataset = dataset.sort_values(by=columnname, ascending=False)
+    
+    # Create a bar plot using Plotly
+    fig = go.Figure(data=[
+        go.Bar(
+            x=dataset.index,
+            y=dataset[columnname],
+            text=dataset[columnname].round(1).astype(str) + '%',
+            textposition='outside',
+            marker_color='green',
+        )
+    ])
+
+    icon_name="btech_icon.png"
+    icon_path = f'{help_functions.getscriptdir()}/{icon_name}'
+    print(icon_path)
+
+    max_y = max(dataset[columnname])
+
+    for i, value in enumerate(dataset[columnname]):
+        fig.add_layout_image(
+            dict(
+                source=icon_path,  # Path to your icon image
+                # source=f"data:image/png;base64,{encoded_image}",
+                xref="x",
+                yref="y",
+                x=i,  # Position of the icon on the x-axis (bar position)
+                y=value +yoffset,  # Position of the icon on the y-axis (bar height)
+                sizex=icon_size,  # Adjust size of the icon as needed
+                sizey=icon_size,
+                xanchor="center",
+                yanchor="middle",
+                # sizing="contain"
+            )
+        )
+
+    # Update layout
+    fig.update_layout(
+        title=title_str,
+        xaxis_title='Stock',
+        yaxis_title=yaxis_title_str,
+        yaxis_tickformat=',.0f',
+        plot_bgcolor='black',
+        paper_bgcolor='black',
+        font_color='white',
+        yaxis=dict(showgrid=False,range=[0, max_y * 1.2]),
+        xaxis=dict(showgrid=False),
+        # margin=dict(l=0, r=0, t=80, b=0), 
+    )
+
+    # Save the plot as a PNG file
+    fig.write_image(f'Outputs/{outputfilename}.png')
