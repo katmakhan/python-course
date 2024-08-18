@@ -175,7 +175,7 @@ def create_bargraph_png_icon(dataset, columnname, title_str, yaxis_title_str, ou
     # Update layout
     fig.update_layout(
         title=title_str,
-        xaxis_title='Stock',
+        xaxis_title='Stock Names',
         yaxis_title=yaxis_title_str,
         yaxis_tickformat=',.0f',
         plot_bgcolor='black',

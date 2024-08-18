@@ -5,6 +5,8 @@ import requests
 import json
 
 from datetime import datetime
+import pandas as pd
+
 
 #Convert date object to date string
 def convert_to_date_obj(date_str,date_format):
@@ -406,6 +408,19 @@ def get_intraday_chart_data(stockname):
 	s.close()
 	return data
 
+# 16082024
+def get_bhav_data(date_str):
+	url=f"https://nsearchives.nseindia.com/products/content/sec_bhavdata_full_{date_str}.csv"
+	headers = {
+	#'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+	"Accept-Encoding": "gzip, deflate, br",
+	#'Accept-Language': 'en-US;q=0.5',
+	'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36'
+	}
+
+	response = requests.get(url, headers=headers)
+	df = pd.read_csv(pd. io.common.StringIO(response.content.decode('utf-8')))
+	return df
 
 # def main():
 # 	fnolistdata=stock_opt()
