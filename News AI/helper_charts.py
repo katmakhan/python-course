@@ -136,6 +136,9 @@ def create_bargraph_png(dataset,columnname, title_str,yaxis_title_str,outputfile
 
 
 def create_bargraph_png_icon(dataset, columnname, title_str, yaxis_title_str, outputfilename,icon_size,yoffset):
+    icon_name="btech_icon.png"
+    icon_path_default = f'{help_functions.getscriptdir()}/{icon_name}'
+
     dataset = dataset.sort_values(by=columnname, ascending=False)
     
     # Create a bar plot using Plotly
@@ -148,14 +151,21 @@ def create_bargraph_png_icon(dataset, columnname, title_str, yaxis_title_str, ou
             marker_color='green',
         )
     ])
-
-    icon_name="btech_icon.png"
-    icon_path = f'{help_functions.getscriptdir()}/{icon_name}'
-    print(icon_path)
-
     max_y = max(dataset[columnname])
 
     for i, value in enumerate(dataset[columnname]):
+        try:
+            stockname=dataset.index[i]
+            stock_name_filtered=stockname.split(":")[1].split("-")[0]
+            icon_path_temp = f'{help_functions.getscriptdir()}/Stock_Icons/{stock_name_filtered}.png'
+
+            if os.path.exists(icon_path_temp):
+                icon_path=icon_path_temp
+            else:
+                icon_path=icon_path_default
+        except:
+            print("Not found.")
+
         fig.add_layout_image(
             dict(
                 source=icon_path,  # Path to your icon image
