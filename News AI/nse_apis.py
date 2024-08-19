@@ -50,10 +50,6 @@ def stock_opt():
 	return fnolistdata
 
 def active_calls():
-	#Fetching NIFTY Stocks
-	# actualurl='https://www.nseindia.com/api/liveEquity-derivatives?index=top20_contracts'
-	# actualurl="https://www.nseindia.com/api/option-chain-indices?symbol=NIFTY"
-	# actualurl="https://www.nseindia.com/api/option-chain-equities?symbol=ABB"
 	actualurl='https://www.nseindia.com/api/snapshot-derivatives-equity?index=contracts&limit=20'
 
 	#Visit the main page to bypass cookies

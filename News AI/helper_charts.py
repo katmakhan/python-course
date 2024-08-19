@@ -3,6 +3,7 @@ import plotly.graph_objects as go
 import pandas as pd
 import os
 import helper_functions as help_functions
+import numpy as np
 
 
 def create_chart_png(data, stockname):
@@ -86,55 +87,6 @@ def create_chart_png(data, stockname):
     # Show the plot (optional, can be commented out)
     # fig.show()
 
-# 'volume_change_pct'
-# 'Top 10 Stocks by Volume Change (Compared to 5-day SMA)'
-# 'Volume Change (%)'
-# 'Volume_graph'
-def create_bargraph_png(dataset,columnname, title_str,yaxis_title_str,outputfilename):
-    dataset = dataset.sort_values(by=columnname, ascending=False)
-    # Create a bar plot using Plotly
-    fig = go.Figure(data=[
-        go.Bar(
-            x=dataset.index,
-            y=dataset[columnname],
-            text=dataset[columnname].round(1).astype(str) + '%',
-            # textposition='auto',
-            textposition='outside',
-            marker_color='green',
-            # textangle=0
-        )
-    ])
-
-    # Update layout
-    fig.update_layout(
-        title=title_str,
-        xaxis_title='Stock',
-        yaxis_title=yaxis_title_str,
-        yaxis_tickformat=',.0f',
-        plot_bgcolor='black',
-        paper_bgcolor='black',
-        font_color='white',
-        yaxis=dict(showgrid=False),
-        xaxis=dict(showgrid=False)
-    )
-
-    # Show the plot
-    # fig.show()
-    # image_path="btech_icon.png"
-    # fig.add_layout_image(
-    #         dict(
-    #             source=image_path,
-    #             xref="paper", yref="paper",
-    #             x=0, y=1,  # Coordinates for the top-left corner
-    #             sizex=20, sizey=20,  # Size of the image
-    #             xanchor="right", yanchor="top"
-    #         )
-    #     )
-
-    fig.write_image(f'Outputs/{outputfilename}.png')
-
-
-
 def create_bargraph_png_icon(dataset, columnname, title_str, yaxis_title_str, outputfilename,icon_size,yoffset):
     icon_name="btech_icon.png"
     icon_path_default = f'{help_functions.getscriptdir()}/{icon_name}'
@@ -191,7 +143,7 @@ def create_bargraph_png_icon(dataset, columnname, title_str, yaxis_title_str, ou
         plot_bgcolor='black',
         paper_bgcolor='black',
         font_color='white',
-        yaxis=dict(showgrid=False,range=[0, max_y * 1.2]),
+        yaxis=dict(showgrid=False,range=[0, max_y * 1.4]),
         xaxis=dict(showgrid=False),
         # margin=dict(l=0, r=0, t=80, b=0), 
     )
