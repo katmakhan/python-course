@@ -57,7 +57,7 @@ def gettimeinmill():
 # Get the directory of the current script
 def getscriptdir():
 	script_dir = os.path.dirname(os.path.realpath(__file__))
-	print(script_dir)
+	# print(script_dir)
 	return script_dir
 
 #show the time elapsed

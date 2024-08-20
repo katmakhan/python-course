@@ -101,6 +101,7 @@ def create_bargraph_png_icon(dataset, columnname, title_str, yaxis_title_str, ou
             text=dataset[columnname].round(1).astype(str) + '%',
             textposition='outside',
             marker_color='green',
+            width=0.8,
         )
     ])
     max_y = max(dataset[columnname])
@@ -149,4 +150,61 @@ def create_bargraph_png_icon(dataset, columnname, title_str, yaxis_title_str, ou
     )
 
     # Save the plot as a PNG file
+    fig.write_image(f'Outputs/{outputfilename}.png')
+
+
+def create_heatmap(dataset,outputfilename):
+    # Convert the data to a pandas DataFrame
+    df = pd.DataFrame.from_dict(dataset, orient='index')
+
+    #----------------------------------------------------------
+    # Sort by volume and select the top 50 entries
+    df = df.nlargest(20, 'vol')
+    #----------------------------------------------------------
+        
+    # Calculate the absolute percentage change for sorting
+    # df['abs_pcnt'] = df['pcnt'].abs()
+    # # Sort by the absolute percentage change and select the top 50 entries
+    # df = df.nlargest(50, 'abs_pcnt')
+    #----------------------------------------------------------
+
+    # Calculate the size based on volume (normalized)
+    df['size'] = df['vol'] / df['vol'].max() * 100
+
+    # Calculate color based on percentage change
+    df['color'] = df['pcnt'].apply(lambda x: 'green' if x > 0 else 'red')
+
+    # Format the percentage change for display
+    df['text'] = df['pcnt'].apply(lambda x: f"{x:.2f}%")
+
+    # Create the treemap
+    fig = go.Figure(go.Treemap(
+        # labels=df['text'],  # Show percentage change as the main text
+        labels=df.index,
+        parents=[''] * len(df),
+        values=df['size'],
+        customdata=df[['open', 'close', 'high', 'low', 'pcnt']],
+        text=df['text'],
+        hovertemplate='<b>%{label}</b><br>Open: %{customdata[0]:.2f}<br>Close: %{customdata[1]:.2f}<br>High: %{customdata[2]:.2f}<br>Low: %{customdata[3]:.2f}<br>Change: %{customdata[4]:.2f}%',
+        marker=dict(
+            colors=df['color'],
+            colorscale='RdYlGn',  # Red for negative, Green for positive
+            cmid=0  # Set the midpoint of the color scale to 0
+        ),
+        texttemplate="%{label}<br>%{text}"
+
+    ))
+
+    # Update the layout
+    fig.update_layout(
+        title='NSE Heatmap',
+        width=800,
+        height=600,
+        plot_bgcolor='black',
+        paper_bgcolor='black',
+        font_color='white',
+    )
+
+    # Show the plot
+    # fig.show()
     fig.write_image(f'Outputs/{outputfilename}.png')
