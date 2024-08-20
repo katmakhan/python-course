@@ -1,3 +1,4 @@
 # Ignore all .env files in the repository
 **/*.env
 **/*.DS_STORE
+**/update_generated_value.py
