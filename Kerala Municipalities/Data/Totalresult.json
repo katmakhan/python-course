@@ -1,0 +1,4830 @@
+{
+    "Thiruvananthapuram": {
+        "Amboori Grama Panchayat": {
+            "name": "Amboori Grama Panchayat",
+            "wardCount": 13
+        },
+        "Anad Grama Panchayat": {
+            "name": "Anad Grama Panchayat",
+            "wardCount": 19
+        },
+        "Anchuthengu Grama Panchayat": {
+            "name": "Anchuthengu Grama Panchayat",
+            "wardCount": 14
+        },
+        "Andoorkonam Grama Panchayat": {
+            "name": "Andoorkonam Grama Panchayat",
+            "wardCount": 18
+        },
+        "Aruvikkara Grama Panchayat": {
+            "name": "Aruvikkara Grama Panchayat",
+            "wardCount": 20
+        },
+        "Aryanad Grama Panchayat": {
+            "name": "Aryanad Grama Panchayat",
+            "wardCount": 18
+        },
+        "Aryancode Grama Panchayat": {
+            "name": "Aryancode Grama Panchayat",
+            "wardCount": 16
+        },
+        "Athiyannoor Block Panchayat": {
+            "name": "Athiyannoor Block Panchayat",
+            "wardCount": 13
+        },
+        "Athiyannoor Grama Panchayat": {
+            "name": "Athiyannoor Grama Panchayat",
+            "wardCount": 17
+        },
+        "Attingal Municipality": {
+            "name": "Attingal Municipality",
+            "wardCount": 31
+        },
+        "Azhoor Grama Panchayat": {
+            "name": "Azhoor Grama Panchayat",
+            "wardCount": 18
+        },
+        "Balaramapuram Grama Panchayat": {
+            "name": "Balaramapuram Grama Panchayat",
+            "wardCount": 20
+        },
+        "Chemmaruthy Grama Panchayat": {
+            "name": "Chemmaruthy Grama Panchayat",
+            "wardCount": 19
+        },
+        "Chenkal Grama Panchayat": {
+            "name": "Chenkal Grama Panchayat",
+            "wardCount": 21
+        },
+        "Cherunniyoor Grama Panchayat": {
+            "name": "Cherunniyoor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Chirayinkeezhu Block Panchayat": {
+            "name": "Chirayinkeezhu Block Panchayat",
+            "wardCount": 13
+        },
+        "Chirayinkeezhu Grama Panchayat": {
+            "name": "Chirayinkeezhu Grama Panchayat",
+            "wardCount": 19
+        },
+        "Edava Grama Panchayat": {
+            "name": "Edava Grama Panchayat",
+            "wardCount": 17
+        },
+        "Elakamon Grama Panchayat": {
+            "name": "Elakamon Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kadakkavoor Grama Panchayat": {
+            "name": "Kadakkavoor Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kadinamkulam Grama Panchayat": {
+            "name": "Kadinamkulam Grama Panchayat",
+            "wardCount": 23
+        },
+        "Kallara Grama Panchayat": {
+            "name": "Kallara Grama Panchayat",
+            "wardCount": 17
+        },
+        "Kallikkadu Grama Panchayat": {
+            "name": "Kallikkadu Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kalliyoor Grama Panchayat": {
+            "name": "Kalliyoor Grama Panchayat",
+            "wardCount": 21
+        },
+        "Kanjiramkulam Grama Panchayat": {
+            "name": "Kanjiramkulam Grama Panchayat",
+            "wardCount": 14
+        },
+        "Karakulam Grama Panchayat": {
+            "name": "Karakulam Grama Panchayat",
+            "wardCount": 23
+        },
+        "Karavaram Grama Panchayat": {
+            "name": "Karavaram Grama Panchayat",
+            "wardCount": 18
+        },
+        "Karode Grama Panchayat": {
+            "name": "Karode Grama Panchayat",
+            "wardCount": 19
+        },
+        "Karumkulam Grama Panchayat": {
+            "name": "Karumkulam Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kattakada Grama Panchayat": {
+            "name": "Kattakada Grama Panchayat",
+            "wardCount": 21
+        },
+        "Kilimanoor Block Panchayat": {
+            "name": "Kilimanoor Block Panchayat",
+            "wardCount": 15
+        },
+        "Kilimanoor Grama Panchayat": {
+            "name": "Kilimanoor Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kizhuvilam Grama Panchayat": {
+            "name": "Kizhuvilam Grama Panchayat",
+            "wardCount": 20
+        },
+        "Kollayil Grama Panchayat": {
+            "name": "Kollayil Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kottukal Grama Panchayat": {
+            "name": "Kottukal Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kulathoor Grama Panchayat": {
+            "name": "Kulathoor Grama Panchayat",
+            "wardCount": 20
+        },
+        "Kunnathukal Grama Panchayat": {
+            "name": "Kunnathukal Grama Panchayat",
+            "wardCount": 21
+        },
+        "Kuttichal Grama Panchayat": {
+            "name": "Kuttichal Grama Panchayat",
+            "wardCount": 14
+        },
+        "Madavoor Grama Panchayat": {
+            "name": "Madavoor Grama Panchayat",
+            "wardCount": 15
+        },
+        "Malayinkeezh Grama Panchayat": {
+            "name": "Malayinkeezh Grama Panchayat",
+            "wardCount": 20
+        },
+        "Manamboor Grama Panchayat": {
+            "name": "Manamboor Grama Panchayat",
+            "wardCount": 16
+        },
+        "Mangalapuram Grama Panchayat": {
+            "name": "Mangalapuram Grama Panchayat",
+            "wardCount": 20
+        },
+        "Manickal Grama Panchayat": {
+            "name": "Manickal Grama Panchayat",
+            "wardCount": 21
+        },
+        "Maranalloor Grama Panchayat": {
+            "name": "Maranalloor Grama Panchayat",
+            "wardCount": 21
+        },
+        "Mudakkal Grama Panchayat": {
+            "name": "Mudakkal Grama Panchayat",
+            "wardCount": 20
+        },
+        "Nagaroor Grama Panchayat": {
+            "name": "Nagaroor Grama Panchayat",
+            "wardCount": 17
+        },
+        "Nanniyode Grama Panchayat": {
+            "name": "Nanniyode Grama Panchayat",
+            "wardCount": 18
+        },
+        "Navaikulam Grama Panchayat": {
+            "name": "Navaikulam Grama Panchayat",
+            "wardCount": 22
+        },
+        "Nedumangad Block Panchayat": {
+            "name": "Nedumangad Block Panchayat",
+            "wardCount": 13
+        },
+        "Nedumangad Municipality": {
+            "name": "Nedumangad Municipality",
+            "wardCount": 39
+        },
+        "Nellanad Grama Panchayat": {
+            "name": "Nellanad Grama Panchayat",
+            "wardCount": 16
+        },
+        "Nemom Block Panchayat": {
+            "name": "Nemom Block Panchayat",
+            "wardCount": 16
+        },
+        "Neyyattinkara Municipality": {
+            "name": "Neyyattinkara Municipality",
+            "wardCount": 44
+        },
+        "Ottasekharamangalam Grama Panchayat": {
+            "name": "Ottasekharamangalam Grama Panchayat",
+            "wardCount": 14
+        },
+        "Ottoor Grama Panchayat": {
+            "name": "Ottoor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Pallichal Grama Panchayat": {
+            "name": "Pallichal Grama Panchayat",
+            "wardCount": 23
+        },
+        "Pallickal Grama Panchayat": {
+            "name": "Pallickal Grama Panchayat",
+            "wardCount": 13
+        },
+        "Panavoor Grama Panchayat": {
+            "name": "Panavoor Grama Panchayat",
+            "wardCount": 15
+        },
+        "Pangode Grama Panchayat": {
+            "name": "Pangode Grama Panchayat",
+            "wardCount": 19
+        },
+        "Parassala Block Panchayat": {
+            "name": "Parassala Block Panchayat",
+            "wardCount": 14
+        },
+        "Parassala Grama Panchayat": {
+            "name": "Parassala Grama Panchayat",
+            "wardCount": 23
+        },
+        "Pazhayakunnumel Grama Panchayat": {
+            "name": "Pazhayakunnumel Grama Panchayat",
+            "wardCount": 17
+        },
+        "Peringammala Grama Panchayat": {
+            "name": "Peringammala Grama Panchayat",
+            "wardCount": 19
+        },
+        "Perumkadavila Block Panchayat": {
+            "name": "Perumkadavila Block Panchayat",
+            "wardCount": 14
+        },
+        "Perumkadavila Grama Panchayat": {
+            "name": "Perumkadavila Grama Panchayat",
+            "wardCount": 16
+        },
+        "Poovachal Grama Panchayat": {
+            "name": "Poovachal Grama Panchayat",
+            "wardCount": 23
+        },
+        "Poovar Grama Panchayat": {
+            "name": "Poovar Grama Panchayat",
+            "wardCount": 15
+        },
+        "Pothencode Block Panchayat": {
+            "name": "Pothencode Block Panchayat",
+            "wardCount": 13
+        },
+        "Pothencode Grama Panchayat": {
+            "name": "Pothencode Grama Panchayat",
+            "wardCount": 18
+        },
+        "Pulimath Grama Panchayat": {
+            "name": "Pulimath Grama Panchayat",
+            "wardCount": 19
+        },
+        "Pullampara Grama Panchayat": {
+            "name": "Pullampara Grama Panchayat",
+            "wardCount": 15
+        },
+        "Thirupuram Grama Panchayat": {
+            "name": "Thirupuram Grama Panchayat",
+            "wardCount": 14
+        },
+        "Thiruvananthapuram Corporation": {
+            "name": "Thiruvananthapuram Corporation",
+            "wardCount": 100
+        },
+        "Thiruvananthapuram District Panchayat": {
+            "name": "Thiruvananthapuram District Panchayat",
+            "wardCount": 26
+        },
+        "Tholicode Grama Panchayat": {
+            "name": "Tholicode Grama Panchayat",
+            "wardCount": 16
+        },
+        "Uzhamalakkal Grama Panchayat": {
+            "name": "Uzhamalakkal Grama Panchayat",
+            "wardCount": 15
+        },
+        "Vakkom Grama Panchayat": {
+            "name": "Vakkom Grama Panchayat",
+            "wardCount": 14
+        },
+        "Vamanapuram Block Panchayat": {
+            "name": "Vamanapuram Block Panchayat",
+            "wardCount": 15
+        },
+        "Vamanapuram Grama Panchayat": {
+            "name": "Vamanapuram Grama Panchayat",
+            "wardCount": 15
+        },
+        "Varkala Block Panchayat": {
+            "name": "Varkala Block Panchayat",
+            "wardCount": 13
+        },
+        "Varkala Municipality": {
+            "name": "Varkala Municipality",
+            "wardCount": 33
+        },
+        "Vellanad Block Panchayat": {
+            "name": "Vellanad Block Panchayat",
+            "wardCount": 16
+        },
+        "Vellanad Grama Panchayat": {
+            "name": "Vellanad Grama Panchayat",
+            "wardCount": 18
+        },
+        "Vellarada Grama Panchayat": {
+            "name": "Vellarada Grama Panchayat",
+            "wardCount": 23
+        },
+        "Vembayam Grama Panchayat": {
+            "name": "Vembayam Grama Panchayat",
+            "wardCount": 21
+        },
+        "Venganoor Grama Panchayat": {
+            "name": "Venganoor Grama Panchayat",
+            "wardCount": 20
+        },
+        "Vettoor Grama Panchayat": {
+            "name": "Vettoor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Vilappil Grama Panchayat": {
+            "name": "Vilappil Grama Panchayat",
+            "wardCount": 20
+        },
+        "Vilavoorkal Grama Panchayat": {
+            "name": "Vilavoorkal Grama Panchayat",
+            "wardCount": 17
+        },
+        "Vithura Grama Panchayat": {
+            "name": "Vithura Grama Panchayat",
+            "wardCount": 17
+        }
+    },
+    "Kollam": {
+        "Adichanalloor Grama Panchayat": {
+            "name": "Adichanalloor Grama Panchayat",
+            "wardCount": 20
+        },
+        "Alappad Grama Panchayat": {
+            "name": "Alappad Grama Panchayat",
+            "wardCount": 16
+        },
+        "Alayamon Grama Panchayat": {
+            "name": "Alayamon Grama Panchayat",
+            "wardCount": 14
+        },
+        "Anchal Block Panchayat": {
+            "name": "Anchal Block Panchayat",
+            "wardCount": 15
+        },
+        "Anchal Grama Panchayat": {
+            "name": "Anchal Grama Panchayat",
+            "wardCount": 19
+        },
+        "Aryankavu Grama Panchayat": {
+            "name": "Aryankavu Grama Panchayat",
+            "wardCount": 13
+        },
+        "Chadayamangalam Block Panchayat": {
+            "name": "Chadayamangalam Block Panchayat",
+            "wardCount": 15
+        },
+        "Chadayamangalam Grama Panchayat": {
+            "name": "Chadayamangalam Grama Panchayat",
+            "wardCount": 15
+        },
+        "Chathannoor Grama Panchayat": {
+            "name": "Chathannoor Grama Panchayat",
+            "wardCount": 18
+        },
+        "Chavara Block Panchayat": {
+            "name": "Chavara Block Panchayat",
+            "wardCount": 13
+        },
+        "Chavara Grama Panchayat": {
+            "name": "Chavara Grama Panchayat",
+            "wardCount": 23
+        },
+        "Chirakkara Grama Panchayat": {
+            "name": "Chirakkara Grama Panchayat",
+            "wardCount": 16
+        },
+        "Chithara Grama Panchayat": {
+            "name": "Chithara Grama Panchayat",
+            "wardCount": 23
+        },
+        "Chittumala Block Panchayat": {
+            "name": "Chittumala Block Panchayat",
+            "wardCount": 13
+        },
+        "Clappana Grama Panchayat": {
+            "name": "Clappana Grama Panchayat",
+            "wardCount": 15
+        },
+        "East Kallada Grama Panchayat": {
+            "name": "East Kallada Grama Panchayat",
+            "wardCount": 15
+        },
+        "Edamulackal Grama Panchayat": {
+            "name": "Edamulackal Grama Panchayat",
+            "wardCount": 22
+        },
+        "Elamadu Grama Panchayat": {
+            "name": "Elamadu Grama Panchayat",
+            "wardCount": 17
+        },
+        "Elampalloor Grama Panchayat": {
+            "name": "Elampalloor Grama Panchayat",
+            "wardCount": 21
+        },
+        "Ezhukone Grama Panchayat": {
+            "name": "Ezhukone Grama Panchayat",
+            "wardCount": 16
+        },
+        "Ithikkara Block Panchayat": {
+            "name": "Ithikkara Block Panchayat",
+            "wardCount": 13
+        },
+        "Ittiva Grama Panchayat": {
+            "name": "Ittiva Grama Panchayat",
+            "wardCount": 21
+        },
+        "Kadakkal Grama Panchayat": {
+            "name": "Kadakkal Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kalluvathukkal Grama Panchayat": {
+            "name": "Kalluvathukkal Grama Panchayat",
+            "wardCount": 23
+        },
+        "Karavaloor Grama Panchayat": {
+            "name": "Karavaloor Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kareepra Grama Panchayat": {
+            "name": "Kareepra Grama Panchayat",
+            "wardCount": 18
+        },
+        "Karunagappally Municipality": {
+            "name": "Karunagappally Municipality",
+            "wardCount": 35
+        },
+        "Kollam Corporation": {
+            "name": "Kollam Corporation",
+            "wardCount": 55
+        },
+        "Kollam District Panchayat": {
+            "name": "Kollam District Panchayat",
+            "wardCount": 26
+        },
+        "Kottamkara Grama Panchayat": {
+            "name": "Kottamkara Grama Panchayat",
+            "wardCount": 21
+        },
+        "Kottarakara Block Panchayat": {
+            "name": "Kottarakara Block Panchayat",
+            "wardCount": 13
+        },
+        "Kottarakara Municipality": {
+            "name": "Kottarakara Municipality",
+            "wardCount": 29
+        },
+        "Kulakkada Grama Panchayat": {
+            "name": "Kulakkada Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kulasekharapuram Grama Panchayat": {
+            "name": "Kulasekharapuram Grama Panchayat",
+            "wardCount": 23
+        },
+        "Kulathupuzha Grama Panchayat": {
+            "name": "Kulathupuzha Grama Panchayat",
+            "wardCount": 20
+        },
+        "Kummil Grama Panchayat": {
+            "name": "Kummil Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kundara Grama Panchayat": {
+            "name": "Kundara Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kunnathoor Grama Panchayat": {
+            "name": "Kunnathoor Grama Panchayat",
+            "wardCount": 17
+        },
+        "Mayyanad Grama Panchayat": {
+            "name": "Mayyanad Grama Panchayat",
+            "wardCount": 23
+        },
+        "Melila Grama Panchayat": {
+            "name": "Melila Grama Panchayat",
+            "wardCount": 15
+        },
+        "Mukhathala Block Panchayat": {
+            "name": "Mukhathala Block Panchayat",
+            "wardCount": 15
+        },
+        "Munroethuruth Grama Panchayat": {
+            "name": "Munroethuruth Grama Panchayat",
+            "wardCount": 13
+        },
+        "Mylom Grama Panchayat": {
+            "name": "Mylom Grama Panchayat",
+            "wardCount": 20
+        },
+        "Mynagappally Grama Panchayat": {
+            "name": "Mynagappally Grama Panchayat",
+            "wardCount": 22
+        },
+        "Nedumpana Grama Panchayat": {
+            "name": "Nedumpana Grama Panchayat",
+            "wardCount": 23
+        },
+        "Neduvathoor Grama Panchayat": {
+            "name": "Neduvathoor Grama Panchayat",
+            "wardCount": 18
+        },
+        "Neendakara Grama Panchayat": {
+            "name": "Neendakara Grama Panchayat",
+            "wardCount": 13
+        },
+        "Nilamel Grama Panchayat": {
+            "name": "Nilamel Grama Panchayat",
+            "wardCount": 13
+        },
+        "Oachira Block Panchayat": {
+            "name": "Oachira Block Panchayat",
+            "wardCount": 14
+        },
+        "Oachira Grama Panchayat": {
+            "name": "Oachira Grama Panchayat",
+            "wardCount": 17
+        },
+        "Panayam Grama Panchayat": {
+            "name": "Panayam Grama Panchayat",
+            "wardCount": 16
+        },
+        "Panmana Grama Panchayat": {
+            "name": "Panmana Grama Panchayat",
+            "wardCount": 23
+        },
+        "Paravur Municipality": {
+            "name": "Paravur Municipality",
+            "wardCount": 32
+        },
+        "Pathanapuram Block Panchayat": {
+            "name": "Pathanapuram Block Panchayat",
+            "wardCount": 13
+        },
+        "Pathanapuram Grama Panchayat": {
+            "name": "Pathanapuram Grama Panchayat",
+            "wardCount": 19
+        },
+        "Pattazhi Grama Panchayat": {
+            "name": "Pattazhi Grama Panchayat",
+            "wardCount": 13
+        },
+        "Pattazhi Vadakkekara Grama Panchayat": {
+            "name": "Pattazhi Vadakkekara Grama Panchayat",
+            "wardCount": 13
+        },
+        "Pavithreswaram Grama Panchayat": {
+            "name": "Pavithreswaram Grama Panchayat",
+            "wardCount": 19
+        },
+        "Perayam Grama Panchayat": {
+            "name": "Perayam Grama Panchayat",
+            "wardCount": 14
+        },
+        "Perinad Grama Panchayat": {
+            "name": "Perinad Grama Panchayat",
+            "wardCount": 20
+        },
+        "Piravanthoor Grama Panchayat": {
+            "name": "Piravanthoor Grama Panchayat",
+            "wardCount": 21
+        },
+        "Poothakulam Grama Panchayat": {
+            "name": "Poothakulam Grama Panchayat",
+            "wardCount": 18
+        },
+        "Pooyappally Grama Panchayat": {
+            "name": "Pooyappally Grama Panchayat",
+            "wardCount": 16
+        },
+        "Poruvazhy Grama Panchayat": {
+            "name": "Poruvazhy Grama Panchayat",
+            "wardCount": 18
+        },
+        "Punalur Municipality": {
+            "name": "Punalur Municipality",
+            "wardCount": 35
+        },
+        "Sasthamcotta Block Panchayat": {
+            "name": "Sasthamcotta Block Panchayat",
+            "wardCount": 14
+        },
+        "Sasthamcotta Grama Panchayat": {
+            "name": "Sasthamcotta Grama Panchayat",
+            "wardCount": 19
+        },
+        "Sooranad North Grama Panchayat": {
+            "name": "Sooranad North Grama Panchayat",
+            "wardCount": 18
+        },
+        "Sooranad South Grama Panchayat": {
+            "name": "Sooranad South Grama Panchayat",
+            "wardCount": 16
+        },
+        "Thalavoor Grama Panchayat": {
+            "name": "Thalavoor Grama Panchayat",
+            "wardCount": 20
+        },
+        "Thazhava Grama Panchayat": {
+            "name": "Thazhava Grama Panchayat",
+            "wardCount": 22
+        },
+        "Thekkumbhagom Grama Panchayat": {
+            "name": "Thekkumbhagom Grama Panchayat",
+            "wardCount": 13
+        },
+        "Thenmala Grama Panchayat": {
+            "name": "Thenmala Grama Panchayat",
+            "wardCount": 16
+        },
+        "Thevalakkara Grama Panchayat": {
+            "name": "Thevalakkara Grama Panchayat",
+            "wardCount": 23
+        },
+        "Thodiyoor Grama Panchayat": {
+            "name": "Thodiyoor Grama Panchayat",
+            "wardCount": 23
+        },
+        "Thrikkaruva Grama Panchayat": {
+            "name": "Thrikkaruva Grama Panchayat",
+            "wardCount": 16
+        },
+        "Thrikkovilvattom Grama Panchayat": {
+            "name": "Thrikkovilvattom Grama Panchayat",
+            "wardCount": 23
+        },
+        "Ummannoor Grama Panchayat": {
+            "name": "Ummannoor Grama Panchayat",
+            "wardCount": 20
+        },
+        "Velinalloor Grama Panchayat": {
+            "name": "Velinalloor Grama Panchayat",
+            "wardCount": 17
+        },
+        "Veliyam Grama Panchayat": {
+            "name": "Veliyam Grama Panchayat",
+            "wardCount": 19
+        },
+        "Vettikavala Block Panchayat": {
+            "name": "Vettikavala Block Panchayat",
+            "wardCount": 14
+        },
+        "Vettikavala Grama Panchayat": {
+            "name": "Vettikavala Grama Panchayat",
+            "wardCount": 21
+        },
+        "Vilakkudy Grama Panchayat": {
+            "name": "Vilakkudy Grama Panchayat",
+            "wardCount": 20
+        },
+        "West Kallada Grama Panchayat": {
+            "name": "West Kallada Grama Panchayat",
+            "wardCount": 14
+        },
+        "Yeroor Grama Panchayat": {
+            "name": "Yeroor Grama Panchayat",
+            "wardCount": 19
+        }
+    },
+    "Pathanamthitta": {
+        "Adoor Municipality": {
+            "name": "Adoor Municipality",
+            "wardCount": 28
+        },
+        "Anicadu Grama Panchayat": {
+            "name": "Anicadu Grama Panchayat",
+            "wardCount": 13
+        },
+        "Aranmula Grama Panchayat": {
+            "name": "Aranmula Grama Panchayat",
+            "wardCount": 18
+        },
+        "Aruvappulam Grama Panchayat": {
+            "name": "Aruvappulam Grama Panchayat",
+            "wardCount": 15
+        },
+        "Ayroor Grama Panchayat": {
+            "name": "Ayroor Grama Panchayat",
+            "wardCount": 16
+        },
+        "Chenneerkara Grama Panchayat": {
+            "name": "Chenneerkara Grama Panchayat",
+            "wardCount": 14
+        },
+        "Cherukole Grama Panchayat": {
+            "name": "Cherukole Grama Panchayat",
+            "wardCount": 13
+        },
+        "Chittar Grama Panchayat": {
+            "name": "Chittar Grama Panchayat",
+            "wardCount": 13
+        },
+        "Elanthoor Block Panchayat": {
+            "name": "Elanthoor Block Panchayat",
+            "wardCount": 13
+        },
+        "Elanthoor Grama Panchayat": {
+            "name": "Elanthoor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Enadimangalam Grama Panchayat": {
+            "name": "Enadimangalam Grama Panchayat",
+            "wardCount": 15
+        },
+        "Erathu Grama Panchayat": {
+            "name": "Erathu Grama Panchayat",
+            "wardCount": 17
+        },
+        "Eraviperoor Grama Panchayat": {
+            "name": "Eraviperoor Grama Panchayat",
+            "wardCount": 17
+        },
+        "Ezhamkulam Grama Panchayat": {
+            "name": "Ezhamkulam Grama Panchayat",
+            "wardCount": 20
+        },
+        "Ezhumattoor Grama Panchayat": {
+            "name": "Ezhumattoor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kadampanad Grama Panchayat": {
+            "name": "Kadampanad Grama Panchayat",
+            "wardCount": 17
+        },
+        "Kadapra Grama Panchayat": {
+            "name": "Kadapra Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kalanjoor Grama Panchayat": {
+            "name": "Kalanjoor Grama Panchayat",
+            "wardCount": 20
+        },
+        "Kallooppara Grama Panchayat": {
+            "name": "Kallooppara Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kaviyoor Grama Panchayat": {
+            "name": "Kaviyoor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kodumon Grama Panchayat": {
+            "name": "Kodumon Grama Panchayat",
+            "wardCount": 18
+        },
+        "Koipuram Block Panchayat": {
+            "name": "Koipuram Block Panchayat",
+            "wardCount": 13
+        },
+        "Koipuram Grama Panchayat": {
+            "name": "Koipuram Grama Panchayat",
+            "wardCount": 17
+        },
+        "Konni Block Panchayat": {
+            "name": "Konni Block Panchayat",
+            "wardCount": 13
+        },
+        "Konni Grama Panchayat": {
+            "name": "Konni Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kottanad Grama Panchayat": {
+            "name": "Kottanad Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kottangal Grama Panchayat": {
+            "name": "Kottangal Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kozhencherry Grama Panchayat": {
+            "name": "Kozhencherry Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kulanada Grama Panchayat": {
+            "name": "Kulanada Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kunnamthanam Grama Panchayat": {
+            "name": "Kunnamthanam Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kuttoor Grama Panchayat": {
+            "name": "Kuttoor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Malayalapuzha Grama Panchayat": {
+            "name": "Malayalapuzha Grama Panchayat",
+            "wardCount": 14
+        },
+        "Mallappally Block Panchayat": {
+            "name": "Mallappally Block Panchayat",
+            "wardCount": 13
+        },
+        "Mallappally Grama Panchayat": {
+            "name": "Mallappally Grama Panchayat",
+            "wardCount": 14
+        },
+        "Mallappuzhassery Grama Panchayat": {
+            "name": "Mallappuzhassery Grama Panchayat",
+            "wardCount": 13
+        },
+        "Mezhuveli Grama Panchayat": {
+            "name": "Mezhuveli Grama Panchayat",
+            "wardCount": 13
+        },
+        "Mylapra Grama Panchayat": {
+            "name": "Mylapra Grama Panchayat",
+            "wardCount": 13
+        },
+        "Naranammoozhy Grama Panchayat": {
+            "name": "Naranammoozhy Grama Panchayat",
+            "wardCount": 13
+        },
+        "Naranganam Grama Panchayat": {
+            "name": "Naranganam Grama Panchayat",
+            "wardCount": 14
+        },
+        "Nedumpuram Grama Panchayat": {
+            "name": "Nedumpuram Grama Panchayat",
+            "wardCount": 13
+        },
+        "Niranam Grama Panchayat": {
+            "name": "Niranam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Omalloor Grama Panchayat": {
+            "name": "Omalloor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Pallickal Grama Panchayat": {
+            "name": "Pallickal Grama Panchayat",
+            "wardCount": 23
+        },
+        "Pandalam Block Panchayat": {
+            "name": "Pandalam Block Panchayat",
+            "wardCount": 13
+        },
+        "Pandalam Municipality": {
+            "name": "Pandalam Municipality",
+            "wardCount": 33
+        },
+        "Pandalam Thekkekara Grama Panchayat": {
+            "name": "Pandalam Thekkekara Grama Panchayat",
+            "wardCount": 14
+        },
+        "Parakkode Block Panchayat": {
+            "name": "Parakkode Block Panchayat",
+            "wardCount": 15
+        },
+        "Pathanamthitta District Panchayat": {
+            "name": "Pathanamthitta District Panchayat",
+            "wardCount": 16
+        },
+        "Pathanamthitta Municipality": {
+            "name": "Pathanamthitta Municipality",
+            "wardCount": 32
+        },
+        "Peringara Grama Panchayat": {
+            "name": "Peringara Grama Panchayat",
+            "wardCount": 15
+        },
+        "Pramadom Grama Panchayat": {
+            "name": "Pramadom Grama Panchayat",
+            "wardCount": 19
+        },
+        "Pulikeezhu Block Panchayat": {
+            "name": "Pulikeezhu Block Panchayat",
+            "wardCount": 13
+        },
+        "Puramattom Grama Panchayat": {
+            "name": "Puramattom Grama Panchayat",
+            "wardCount": 13
+        },
+        "Ranni Angadi Grama Panchayat": {
+            "name": "Ranni Angadi Grama Panchayat",
+            "wardCount": 13
+        },
+        "Ranni Block Panchayat": {
+            "name": "Ranni Block Panchayat",
+            "wardCount": 13
+        },
+        "Ranni Grama Panchayat": {
+            "name": "Ranni Grama Panchayat",
+            "wardCount": 13
+        },
+        "Ranni Pazhavangadi Grama Panchayat": {
+            "name": "Ranni Pazhavangadi Grama Panchayat",
+            "wardCount": 17
+        },
+        "Ranni Perunadu Grama Panchayat": {
+            "name": "Ranni Perunadu Grama Panchayat",
+            "wardCount": 15
+        },
+        "Seethathodu Grama Panchayat": {
+            "name": "Seethathodu Grama Panchayat",
+            "wardCount": 13
+        },
+        "Thannithodu Grama Panchayat": {
+            "name": "Thannithodu Grama Panchayat",
+            "wardCount": 13
+        },
+        "Thiruvalla Municipality": {
+            "name": "Thiruvalla Municipality",
+            "wardCount": 39
+        },
+        "Thottappuzhassery Grama Panchayat": {
+            "name": "Thottappuzhassery Grama Panchayat",
+            "wardCount": 13
+        },
+        "Thumpamon Grama Panchayat": {
+            "name": "Thumpamon Grama Panchayat",
+            "wardCount": 13
+        },
+        "Vadaserikara Grama Panchayat": {
+            "name": "Vadaserikara Grama Panchayat",
+            "wardCount": 15
+        },
+        "Vallicode Grama Panchayat": {
+            "name": "Vallicode Grama Panchayat",
+            "wardCount": 15
+        },
+        "Vechoochira Grama Panchayat": {
+            "name": "Vechoochira Grama Panchayat",
+            "wardCount": 15
+        }
+    },
+    "Alappuzha": {
+        "Ala Grama Panchayat": {
+            "name": "Ala Grama Panchayat",
+            "wardCount": 13
+        },
+        "Alappuzha District Panchayat": {
+            "name": "Alappuzha District Panchayat",
+            "wardCount": 23
+        },
+        "Alappuzha Municipality": {
+            "name": "Alappuzha Municipality",
+            "wardCount": 52
+        },
+        "Ambalapuzha Block Panchayat": {
+            "name": "Ambalapuzha Block Panchayat",
+            "wardCount": 13
+        },
+        "Ambalapuzha North Grama Panchayat": {
+            "name": "Ambalapuzha North Grama Panchayat",
+            "wardCount": 18
+        },
+        "Ambalapuzha South Grama Panchayat": {
+            "name": "Ambalapuzha South Grama Panchayat",
+            "wardCount": 15
+        },
+        "Arattupuzha Grama Panchayat": {
+            "name": "Arattupuzha Grama Panchayat",
+            "wardCount": 18
+        },
+        "Arookutty Grama Panchayat": {
+            "name": "Arookutty Grama Panchayat",
+            "wardCount": 13
+        },
+        "Aroor Grama Panchayat": {
+            "name": "Aroor Grama Panchayat",
+            "wardCount": 22
+        },
+        "Aryad Block Panchayat": {
+            "name": "Aryad Block Panchayat",
+            "wardCount": 13
+        },
+        "Aryad Grama Panchayat": {
+            "name": "Aryad Grama Panchayat",
+            "wardCount": 18
+        },
+        "Bharanickavu Block Panchayat": {
+            "name": "Bharanickavu Block Panchayat",
+            "wardCount": 13
+        },
+        "Bharanickavu Grama Panchayat": {
+            "name": "Bharanickavu Grama Panchayat",
+            "wardCount": 21
+        },
+        "Budhanoor Grama Panchayat": {
+            "name": "Budhanoor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Champakulam Block Panchayat": {
+            "name": "Champakulam Block Panchayat",
+            "wardCount": 13
+        },
+        "Champakulam Grama Panchayat": {
+            "name": "Champakulam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Chengannur Block Panchayat": {
+            "name": "Chengannur Block Panchayat",
+            "wardCount": 13
+        },
+        "Chengannur Municipality": {
+            "name": "Chengannur Municipality",
+            "wardCount": 27
+        },
+        "Chennam Pallippuram Grama Panchayat": {
+            "name": "Chennam Pallippuram Grama Panchayat",
+            "wardCount": 17
+        },
+        "Chennithala-Thripperumthura Grama Panchayat": {
+            "name": "Chennithala-Thripperumthura Grama Panchayat",
+            "wardCount": 18
+        },
+        "Cheppad Grama Panchayat": {
+            "name": "Cheppad Grama Panchayat",
+            "wardCount": 14
+        },
+        "Cheriyanad Grama Panchayat": {
+            "name": "Cheriyanad Grama Panchayat",
+            "wardCount": 15
+        },
+        "Cherthala Municipality": {
+            "name": "Cherthala Municipality",
+            "wardCount": 35
+        },
+        "Cherthala South Grama Panchayat": {
+            "name": "Cherthala South Grama Panchayat",
+            "wardCount": 22
+        },
+        "Cheruthana Grama Panchayat": {
+            "name": "Cheruthana Grama Panchayat",
+            "wardCount": 13
+        },
+        "Chettikulangara Grama Panchayat": {
+            "name": "Chettikulangara Grama Panchayat",
+            "wardCount": 21
+        },
+        "Chingoli Grama Panchayat": {
+            "name": "Chingoli Grama Panchayat",
+            "wardCount": 13
+        },
+        "Chunakara Grama Panchayat": {
+            "name": "Chunakara Grama Panchayat",
+            "wardCount": 15
+        },
+        "Devikulangara Grama Panchayat": {
+            "name": "Devikulangara Grama Panchayat",
+            "wardCount": 15
+        },
+        "Edathua Grama Panchayat": {
+            "name": "Edathua Grama Panchayat",
+            "wardCount": 15
+        },
+        "Ezhupunna Grama Panchayat": {
+            "name": "Ezhupunna Grama Panchayat",
+            "wardCount": 16
+        },
+        "Haripad Block Panchayat": {
+            "name": "Haripad Block Panchayat",
+            "wardCount": 13
+        },
+        "Haripad Municipality": {
+            "name": "Haripad Municipality",
+            "wardCount": 29
+        },
+        "Kadakkarappally Grama Panchayat": {
+            "name": "Kadakkarappally Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kainakary Grama Panchayat": {
+            "name": "Kainakary Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kandalloor Grama Panchayat": {
+            "name": "Kandalloor Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kanjikuzhy Block Panchayat": {
+            "name": "Kanjikuzhy Block Panchayat",
+            "wardCount": 13
+        },
+        "Kanjikuzhy Grama Panchayat": {
+            "name": "Kanjikuzhy Grama Panchayat",
+            "wardCount": 18
+        },
+        "Karthikappally Grama Panchayat": {
+            "name": "Karthikappally Grama Panchayat",
+            "wardCount": 13
+        },
+        "Karuvatta Grama Panchayat": {
+            "name": "Karuvatta Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kavalam Grama Panchayat": {
+            "name": "Kavalam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kayamkulam Municipality": {
+            "name": "Kayamkulam Municipality",
+            "wardCount": 44
+        },
+        "Kodamthuruth Grama Panchayat": {
+            "name": "Kodamthuruth Grama Panchayat",
+            "wardCount": 15
+        },
+        "Krishnapuram Grama Panchayat": {
+            "name": "Krishnapuram Grama Panchayat",
+            "wardCount": 17
+        },
+        "Kumarapuram Grama Panchayat": {
+            "name": "Kumarapuram Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kuthiathod Grama Panchayat": {
+            "name": "Kuthiathod Grama Panchayat",
+            "wardCount": 16
+        },
+        "Mannancherry Grama Panchayat": {
+            "name": "Mannancherry Grama Panchayat",
+            "wardCount": 23
+        },
+        "Mannar Grama Panchayat": {
+            "name": "Mannar Grama Panchayat",
+            "wardCount": 18
+        },
+        "Mararikulam North Grama Panchayat": {
+            "name": "Mararikulam North Grama Panchayat",
+            "wardCount": 18
+        },
+        "Mararikulam South Grama Panchayat": {
+            "name": "Mararikulam South Grama Panchayat",
+            "wardCount": 23
+        },
+        "Mavelikara Block Panchayat": {
+            "name": "Mavelikara Block Panchayat",
+            "wardCount": 13
+        },
+        "Mavelikara Municipality": {
+            "name": "Mavelikara Municipality",
+            "wardCount": 28
+        },
+        "Mavelikara Thamarakulam Grama Panchayat": {
+            "name": "Mavelikara Thamarakulam Grama Panchayat",
+            "wardCount": 17
+        },
+        "Mavelikara Thekkekara Grama Panchayat": {
+            "name": "Mavelikara Thekkekara Grama Panchayat",
+            "wardCount": 19
+        },
+        "Muhamma Grama Panchayat": {
+            "name": "Muhamma Grama Panchayat",
+            "wardCount": 16
+        },
+        "Mulakuzha Grama Panchayat": {
+            "name": "Mulakuzha Grama Panchayat",
+            "wardCount": 18
+        },
+        "Muthukulam Block Panchayat": {
+            "name": "Muthukulam Block Panchayat",
+            "wardCount": 14
+        },
+        "Muthukulam Grama Panchayat": {
+            "name": "Muthukulam Grama Panchayat",
+            "wardCount": 15
+        },
+        "Muttar Grama Panchayat": {
+            "name": "Muttar Grama Panchayat",
+            "wardCount": 13
+        },
+        "Nedumudi Grama Panchayat": {
+            "name": "Nedumudi Grama Panchayat",
+            "wardCount": 15
+        },
+        "Neelamperoor Grama Panchayat": {
+            "name": "Neelamperoor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Nooranad Grama Panchayat": {
+            "name": "Nooranad Grama Panchayat",
+            "wardCount": 17
+        },
+        "Palamel Grama Panchayat": {
+            "name": "Palamel Grama Panchayat",
+            "wardCount": 19
+        },
+        "Pallippad Grama Panchayat": {
+            "name": "Pallippad Grama Panchayat",
+            "wardCount": 13
+        },
+        "Panavally Grama Panchayat": {
+            "name": "Panavally Grama Panchayat",
+            "wardCount": 18
+        },
+        "Pandanad Grama Panchayat": {
+            "name": "Pandanad Grama Panchayat",
+            "wardCount": 13
+        },
+        "Pathiyoor Grama Panchayat": {
+            "name": "Pathiyoor Grama Panchayat",
+            "wardCount": 19
+        },
+        "Pattanakkad Block Panchayat": {
+            "name": "Pattanakkad Block Panchayat",
+            "wardCount": 14
+        },
+        "Pattanakkad Grama Panchayat": {
+            "name": "Pattanakkad Grama Panchayat",
+            "wardCount": 19
+        },
+        "Perumpalam Grama Panchayat": {
+            "name": "Perumpalam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Pulincunnoo Grama Panchayat": {
+            "name": "Pulincunnoo Grama Panchayat",
+            "wardCount": 16
+        },
+        "Puliyoor Grama Panchayat": {
+            "name": "Puliyoor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Punnapra North Grama Panchayat": {
+            "name": "Punnapra North Grama Panchayat",
+            "wardCount": 17
+        },
+        "Punnapra South Grama Panchayat": {
+            "name": "Punnapra South Grama Panchayat",
+            "wardCount": 17
+        },
+        "Purakkad Grama Panchayat": {
+            "name": "Purakkad Grama Panchayat",
+            "wardCount": 18
+        },
+        "Ramankary Grama Panchayat": {
+            "name": "Ramankary Grama Panchayat",
+            "wardCount": 13
+        },
+        "Thakazhy Grama Panchayat": {
+            "name": "Thakazhy Grama Panchayat",
+            "wardCount": 14
+        },
+        "Thalavady Grama Panchayat": {
+            "name": "Thalavady Grama Panchayat",
+            "wardCount": 15
+        },
+        "Thanneermukkom Grama Panchayat": {
+            "name": "Thanneermukkom Grama Panchayat",
+            "wardCount": 23
+        },
+        "Thazhakara Grama Panchayat": {
+            "name": "Thazhakara Grama Panchayat",
+            "wardCount": 21
+        },
+        "Thiruvanvandoor Grama Panchayat": {
+            "name": "Thiruvanvandoor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Thrikkunnappuzha Grama Panchayat": {
+            "name": "Thrikkunnappuzha Grama Panchayat",
+            "wardCount": 17
+        },
+        "Thuravoor Grama Panchayat": {
+            "name": "Thuravoor Grama Panchayat",
+            "wardCount": 18
+        },
+        "Thycattussery Block Panchayat": {
+            "name": "Thycattussery Block Panchayat",
+            "wardCount": 13
+        },
+        "Thycattussery Grama Panchayat": {
+            "name": "Thycattussery Grama Panchayat",
+            "wardCount": 15
+        },
+        "Vallikunnam Grama Panchayat": {
+            "name": "Vallikunnam Grama Panchayat",
+            "wardCount": 18
+        },
+        "Vayalar Grama Panchayat": {
+            "name": "Vayalar Grama Panchayat",
+            "wardCount": 16
+        },
+        "Veeyapuram Grama Panchayat": {
+            "name": "Veeyapuram Grama Panchayat",
+            "wardCount": 13
+        },
+        "Veliyanad Block Panchayat": {
+            "name": "Veliyanad Block Panchayat",
+            "wardCount": 13
+        },
+        "Veliyanad Grama Panchayat": {
+            "name": "Veliyanad Grama Panchayat",
+            "wardCount": 13
+        },
+        "Venmoney Grama Panchayat": {
+            "name": "Venmoney Grama Panchayat",
+            "wardCount": 15
+        }
+    },
+    "Kottayam": {
+        "Akalakunnam Grama Panchayat": {
+            "name": "Akalakunnam Grama Panchayat",
+            "wardCount": 15
+        },
+        "Arpookara Grama Panchayat": {
+            "name": "Arpookara Grama Panchayat",
+            "wardCount": 16
+        },
+        "Athirampuzha Grama Panchayat": {
+            "name": "Athirampuzha Grama Panchayat",
+            "wardCount": 22
+        },
+        "Ayarkunnam Grama Panchayat": {
+            "name": "Ayarkunnam Grama Panchayat",
+            "wardCount": 20
+        },
+        "Aymanam Grama Panchayat": {
+            "name": "Aymanam Grama Panchayat",
+            "wardCount": 20
+        },
+        "Bharananganam Grama Panchayat": {
+            "name": "Bharananganam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Changanassery Municipality": {
+            "name": "Changanassery Municipality",
+            "wardCount": 37
+        },
+        "Chempu Grama Panchayat": {
+            "name": "Chempu Grama Panchayat",
+            "wardCount": 15
+        },
+        "Chirakkadavu Grama Panchayat": {
+            "name": "Chirakkadavu Grama Panchayat",
+            "wardCount": 20
+        },
+        "Elikulam Grama Panchayat": {
+            "name": "Elikulam Grama Panchayat",
+            "wardCount": 16
+        },
+        "Erattupetta Block Panchayat": {
+            "name": "Erattupetta Block Panchayat",
+            "wardCount": 13
+        },
+        "Erattupetta Municipality": {
+            "name": "Erattupetta Municipality",
+            "wardCount": 28
+        },
+        "Erumely Grama Panchayat": {
+            "name": "Erumely Grama Panchayat",
+            "wardCount": 23
+        },
+        "Ettumanoor Block Panchayat": {
+            "name": "Ettumanoor Block Panchayat",
+            "wardCount": 13
+        },
+        "Ettumanoor Municipality": {
+            "name": "Ettumanoor Municipality",
+            "wardCount": 35
+        },
+        "Kadanad Grama Panchayat": {
+            "name": "Kadanad Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kadaplamattom Grama Panchayat": {
+            "name": "Kadaplamattom Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kaduthuruthy Block Panchayat": {
+            "name": "Kaduthuruthy Block Panchayat",
+            "wardCount": 13
+        },
+        "Kaduthuruthy Grama Panchayat": {
+            "name": "Kaduthuruthy Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kallara Grama Panchayat": {
+            "name": "Kallara Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kanakkary Grama Panchayat": {
+            "name": "Kanakkary Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kangazha Grama Panchayat": {
+            "name": "Kangazha Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kanjirappally Block Panchayat": {
+            "name": "Kanjirappally Block Panchayat",
+            "wardCount": 15
+        },
+        "Kanjirappally Grama Panchayat": {
+            "name": "Kanjirappally Grama Panchayat",
+            "wardCount": 23
+        },
+        "Karoor Grama Panchayat": {
+            "name": "Karoor Grama Panchayat",
+            "wardCount": 15
+        },
+        "Karukachal Grama Panchayat": {
+            "name": "Karukachal Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kidangoor Grama Panchayat": {
+            "name": "Kidangoor Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kooroppada Grama Panchayat": {
+            "name": "Kooroppada Grama Panchayat",
+            "wardCount": 17
+        },
+        "Koottickal Grama Panchayat": {
+            "name": "Koottickal Grama Panchayat",
+            "wardCount": 13
+        },
+        "Koruthodu Grama Panchayat": {
+            "name": "Koruthodu Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kottayam District Panchayat": {
+            "name": "Kottayam District Panchayat",
+            "wardCount": 22
+        },
+        "Kottayam Municipality": {
+            "name": "Kottayam Municipality",
+            "wardCount": 52
+        },
+        "Kozhuvanal Grama Panchayat": {
+            "name": "Kozhuvanal Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kumarakom Grama Panchayat": {
+            "name": "Kumarakom Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kuravilangad Grama Panchayat": {
+            "name": "Kuravilangad Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kurichy Grama Panchayat": {
+            "name": "Kurichy Grama Panchayat",
+            "wardCount": 20
+        },
+        "Lalam Block Panchayat": {
+            "name": "Lalam Block Panchayat",
+            "wardCount": 13
+        },
+        "Madappally Block Panchayat": {
+            "name": "Madappally Block Panchayat",
+            "wardCount": 13
+        },
+        "Madappally Grama Panchayat": {
+            "name": "Madappally Grama Panchayat",
+            "wardCount": 20
+        },
+        "Manarcadu Grama Panchayat": {
+            "name": "Manarcadu Grama Panchayat",
+            "wardCount": 17
+        },
+        "Manimala Grama Panchayat": {
+            "name": "Manimala Grama Panchayat",
+            "wardCount": 15
+        },
+        "Manjoor Grama Panchayat": {
+            "name": "Manjoor Grama Panchayat",
+            "wardCount": 18
+        },
+        "Marangattupilly Grama Panchayat": {
+            "name": "Marangattupilly Grama Panchayat",
+            "wardCount": 14
+        },
+        "Maravanthuruthu Grama Panchayat": {
+            "name": "Maravanthuruthu Grama Panchayat",
+            "wardCount": 15
+        },
+        "Meenachil Grama Panchayat": {
+            "name": "Meenachil Grama Panchayat",
+            "wardCount": 13
+        },
+        "Meenadom Grama Panchayat": {
+            "name": "Meenadom Grama Panchayat",
+            "wardCount": 13
+        },
+        "Melukavu Grama Panchayat": {
+            "name": "Melukavu Grama Panchayat",
+            "wardCount": 13
+        },
+        "Moonnilavu Grama Panchayat": {
+            "name": "Moonnilavu Grama Panchayat",
+            "wardCount": 13
+        },
+        "Mulakulam Grama Panchayat": {
+            "name": "Mulakulam Grama Panchayat",
+            "wardCount": 17
+        },
+        "Mundakayam Grama Panchayat": {
+            "name": "Mundakayam Grama Panchayat",
+            "wardCount": 21
+        },
+        "Mutholy Grama Panchayat": {
+            "name": "Mutholy Grama Panchayat",
+            "wardCount": 13
+        },
+        "Nedumkunnam Grama Panchayat": {
+            "name": "Nedumkunnam Grama Panchayat",
+            "wardCount": 15
+        },
+        "Neendoor Grama Panchayat": {
+            "name": "Neendoor Grama Panchayat",
+            "wardCount": 15
+        },
+        "Neezhoor Grama Panchayat": {
+            "name": "Neezhoor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Paippad Grama Panchayat": {
+            "name": "Paippad Grama Panchayat",
+            "wardCount": 16
+        },
+        "Pala Municipality": {
+            "name": "Pala Municipality",
+            "wardCount": 26
+        },
+        "Pallickathodu Grama Panchayat": {
+            "name": "Pallickathodu Grama Panchayat",
+            "wardCount": 13
+        },
+        "Pallom Block Panchayat": {
+            "name": "Pallom Block Panchayat",
+            "wardCount": 13
+        },
+        "Pampady Block Panchayat": {
+            "name": "Pampady Block Panchayat",
+            "wardCount": 14
+        },
+        "Pampady Grama Panchayat": {
+            "name": "Pampady Grama Panchayat",
+            "wardCount": 20
+        },
+        "Panachikkad Grama Panchayat": {
+            "name": "Panachikkad Grama Panchayat",
+            "wardCount": 23
+        },
+        "Parathodu Grama Panchayat": {
+            "name": "Parathodu Grama Panchayat",
+            "wardCount": 19
+        },
+        "Poonjar Grama Panchayat": {
+            "name": "Poonjar Grama Panchayat",
+            "wardCount": 13
+        },
+        "Poonjar Thekkekara Grama Panchayat": {
+            "name": "Poonjar Thekkekara Grama Panchayat",
+            "wardCount": 14
+        },
+        "Puthuppally Grama Panchayat": {
+            "name": "Puthuppally Grama Panchayat",
+            "wardCount": 18
+        },
+        "Ramapuram Grama Panchayat": {
+            "name": "Ramapuram Grama Panchayat",
+            "wardCount": 18
+        },
+        "Teekoy Grama Panchayat": {
+            "name": "Teekoy Grama Panchayat",
+            "wardCount": 13
+        },
+        "Thalanad Grama Panchayat": {
+            "name": "Thalanad Grama Panchayat",
+            "wardCount": 13
+        },
+        "Thalappalam Grama Panchayat": {
+            "name": "Thalappalam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Thalayazham Grama Panchayat": {
+            "name": "Thalayazham Grama Panchayat",
+            "wardCount": 15
+        },
+        "Thalayolaparambu Grama Panchayat": {
+            "name": "Thalayolaparambu Grama Panchayat",
+            "wardCount": 15
+        },
+        "Thidanad Grama Panchayat": {
+            "name": "Thidanad Grama Panchayat",
+            "wardCount": 14
+        },
+        "Thiruvarppu Grama Panchayat": {
+            "name": "Thiruvarppu Grama Panchayat",
+            "wardCount": 18
+        },
+        "Thrickodithanam Grama Panchayat": {
+            "name": "Thrickodithanam Grama Panchayat",
+            "wardCount": 20
+        },
+        "TV Puram Grama Panchayat": {
+            "name": "TV Puram Grama Panchayat",
+            "wardCount": 14
+        },
+        "Udayanapuram Grama Panchayat": {
+            "name": "Udayanapuram Grama Panchayat",
+            "wardCount": 17
+        },
+        "Uzhavoor Block Panchayat": {
+            "name": "Uzhavoor Block Panchayat",
+            "wardCount": 13
+        },
+        "Uzhavoor Grama Panchayat": {
+            "name": "Uzhavoor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Vaikom Block Panchayat": {
+            "name": "Vaikom Block Panchayat",
+            "wardCount": 13
+        },
+        "Vaikom Municipality": {
+            "name": "Vaikom Municipality",
+            "wardCount": 26
+        },
+        "Vakathanam Grama Panchayat": {
+            "name": "Vakathanam Grama Panchayat",
+            "wardCount": 20
+        },
+        "Vazhappally Grama Panchayat": {
+            "name": "Vazhappally Grama Panchayat",
+            "wardCount": 21
+        },
+        "Vazhoor Block Panchayat": {
+            "name": "Vazhoor Block Panchayat",
+            "wardCount": 13
+        },
+        "Vazhoor Grama Panchayat": {
+            "name": "Vazhoor Grama Panchayat",
+            "wardCount": 16
+        },
+        "Vechoor Grama Panchayat": {
+            "name": "Vechoor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Veliyannoor Grama Panchayat": {
+            "name": "Veliyannoor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Vellavoor Grama Panchayat": {
+            "name": "Vellavoor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Velloor Grama Panchayat": {
+            "name": "Velloor Grama Panchayat",
+            "wardCount": 16
+        },
+        "Vijayapuram Grama Panchayat": {
+            "name": "Vijayapuram Grama Panchayat",
+            "wardCount": 19
+        }
+    },
+    "Idukki": {
+        "Adimaly Block Panchayat": {
+            "name": "Adimaly Block Panchayat",
+            "wardCount": 13
+        },
+        "Adimaly Grama Panchayat": {
+            "name": "Adimaly Grama Panchayat",
+            "wardCount": 21
+        },
+        "Alakode Grama Panchayat": {
+            "name": "Alakode Grama Panchayat",
+            "wardCount": 13
+        },
+        "Arakulam Grama Panchayat": {
+            "name": "Arakulam Grama Panchayat",
+            "wardCount": 15
+        },
+        "AyyappanCoil Grama Panchayat": {
+            "name": "AyyappanCoil Grama Panchayat",
+            "wardCount": 13
+        },
+        "Azhutha Block Panchayat": {
+            "name": "Azhutha Block Panchayat",
+            "wardCount": 13
+        },
+        "BysonValley Grama Panchayat": {
+            "name": "BysonValley Grama Panchayat",
+            "wardCount": 13
+        },
+        "Chakkupallam Grama Panchayat": {
+            "name": "Chakkupallam Grama Panchayat",
+            "wardCount": 15
+        },
+        "Chinnakanal Grama Panchayat": {
+            "name": "Chinnakanal Grama Panchayat",
+            "wardCount": 13
+        },
+        "Devikulam Block Panchayat": {
+            "name": "Devikulam Block Panchayat",
+            "wardCount": 13
+        },
+        "Devikulam Grama Panchayat": {
+            "name": "Devikulam Grama Panchayat",
+            "wardCount": 18
+        },
+        "Edamalakkudy Grama Panchayat": {
+            "name": "Edamalakkudy Grama Panchayat",
+            "wardCount": 13
+        },
+        "Edavetty Grama Panchayat": {
+            "name": "Edavetty Grama Panchayat",
+            "wardCount": 13
+        },
+        "Elappara Grama Panchayat": {
+            "name": "Elappara Grama Panchayat",
+            "wardCount": 17
+        },
+        "Elemdesam Block Panchayat": {
+            "name": "Elemdesam Block Panchayat",
+            "wardCount": 13
+        },
+        "Erattayar Grama Panchayat": {
+            "name": "Erattayar Grama Panchayat",
+            "wardCount": 14
+        },
+        "Idukki Block Panchayat": {
+            "name": "Idukki Block Panchayat",
+            "wardCount": 13
+        },
+        "Idukki District Panchayat": {
+            "name": "Idukki District Panchayat",
+            "wardCount": 16
+        },
+        "IdukkiKanjikuzhy Grama Panchayat": {
+            "name": "IdukkiKanjikuzhy Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kamakshy Grama Panchayat": {
+            "name": "Kamakshy Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kanchiyar Grama Panchayat": {
+            "name": "Kanchiyar Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kanthalloor Grama Panchayat": {
+            "name": "Kanthalloor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Karimannoor Grama Panchayat": {
+            "name": "Karimannoor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Karimkunnam Grama Panchayat": {
+            "name": "Karimkunnam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Karunapuram Grama Panchayat": {
+            "name": "Karunapuram Grama Panchayat",
+            "wardCount": 17
+        },
+        "Kattappana Block Panchayat": {
+            "name": "Kattappana Block Panchayat",
+            "wardCount": 13
+        },
+        "Kattappana Municipality": {
+            "name": "Kattappana Municipality",
+            "wardCount": 34
+        },
+        "Kodikulam Grama Panchayat": {
+            "name": "Kodikulam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kokkayar Grama Panchayat": {
+            "name": "Kokkayar Grama Panchayat",
+            "wardCount": 13
+        },
+        "Konnathady Grama Panchayat": {
+            "name": "Konnathady Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kudayathoor Grama Panchayat": {
+            "name": "Kudayathoor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kumaramangalam Grama Panchayat": {
+            "name": "Kumaramangalam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kumily Grama Panchayat": {
+            "name": "Kumily Grama Panchayat",
+            "wardCount": 20
+        },
+        "Manakkad Grama Panchayat": {
+            "name": "Manakkad Grama Panchayat",
+            "wardCount": 13
+        },
+        "Mankulam Grama Panchayat": {
+            "name": "Mankulam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Marayoor Grama Panchayat": {
+            "name": "Marayoor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Mariyapuram Grama Panchayat": {
+            "name": "Mariyapuram Grama Panchayat",
+            "wardCount": 13
+        },
+        "Munnar Grama Panchayat": {
+            "name": "Munnar Grama Panchayat",
+            "wardCount": 21
+        },
+        "Muttom Grama Panchayat": {
+            "name": "Muttom Grama Panchayat",
+            "wardCount": 13
+        },
+        "Nedumkandam Block Panchayat": {
+            "name": "Nedumkandam Block Panchayat",
+            "wardCount": 13
+        },
+        "Nedumkandam Grama Panchayat": {
+            "name": "Nedumkandam Grama Panchayat",
+            "wardCount": 22
+        },
+        "Pallivasal Grama Panchayat": {
+            "name": "Pallivasal Grama Panchayat",
+            "wardCount": 14
+        },
+        "Pampadumpara Grama Panchayat": {
+            "name": "Pampadumpara Grama Panchayat",
+            "wardCount": 16
+        },
+        "Peermade Grama Panchayat": {
+            "name": "Peermade Grama Panchayat",
+            "wardCount": 17
+        },
+        "Peruvanthanam Grama Panchayat": {
+            "name": "Peruvanthanam Grama Panchayat",
+            "wardCount": 14
+        },
+        "Purapuzha Grama Panchayat": {
+            "name": "Purapuzha Grama Panchayat",
+            "wardCount": 13
+        },
+        "Rajakkad Grama Panchayat": {
+            "name": "Rajakkad Grama Panchayat",
+            "wardCount": 13
+        },
+        "Rajakumary Grama Panchayat": {
+            "name": "Rajakumary Grama Panchayat",
+            "wardCount": 13
+        },
+        "Santhanpara Grama Panchayat": {
+            "name": "Santhanpara Grama Panchayat",
+            "wardCount": 13
+        },
+        "Senapathy Grama Panchayat": {
+            "name": "Senapathy Grama Panchayat",
+            "wardCount": 13
+        },
+        "Thodupuzha Block Panchayat": {
+            "name": "Thodupuzha Block Panchayat",
+            "wardCount": 13
+        },
+        "Thodupuzha Municipality": {
+            "name": "Thodupuzha Municipality",
+            "wardCount": 35
+        },
+        "Udumbanchola Grama Panchayat": {
+            "name": "Udumbanchola Grama Panchayat",
+            "wardCount": 14
+        },
+        "Udumbanoor Grama Panchayat": {
+            "name": "Udumbanoor Grama Panchayat",
+            "wardCount": 16
+        },
+        "Upputhara Grama Panchayat": {
+            "name": "Upputhara Grama Panchayat",
+            "wardCount": 18
+        },
+        "Vandanmedu Grama Panchayat": {
+            "name": "Vandanmedu Grama Panchayat",
+            "wardCount": 18
+        },
+        "Vandiperiyar Grama Panchayat": {
+            "name": "Vandiperiyar Grama Panchayat",
+            "wardCount": 23
+        },
+        "Vannappuram Grama Panchayat": {
+            "name": "Vannappuram Grama Panchayat",
+            "wardCount": 17
+        },
+        "Vathikudy Grama Panchayat": {
+            "name": "Vathikudy Grama Panchayat",
+            "wardCount": 18
+        },
+        "Vattavada Grama Panchayat": {
+            "name": "Vattavada Grama Panchayat",
+            "wardCount": 13
+        },
+        "Vazhathope Grama Panchayat": {
+            "name": "Vazhathope Grama Panchayat",
+            "wardCount": 14
+        },
+        "Vellathooval Grama Panchayat": {
+            "name": "Vellathooval Grama Panchayat",
+            "wardCount": 17
+        },
+        "Velliyamattom Grama Panchayat": {
+            "name": "Velliyamattom Grama Panchayat",
+            "wardCount": 15
+        }
+    },
+    "Ernakulam": {
+        "Aikaranad Grama Panchayat": {
+            "name": "Aikaranad Grama Panchayat",
+            "wardCount": 14
+        },
+        "Alangad Block Panchayat": {
+            "name": "Alangad Block Panchayat",
+            "wardCount": 13
+        },
+        "Alangad Grama Panchayat": {
+            "name": "Alangad Grama Panchayat",
+            "wardCount": 21
+        },
+        "Aluva Municipality": {
+            "name": "Aluva Municipality",
+            "wardCount": 26
+        },
+        "Amballoor Grama Panchayat": {
+            "name": "Amballoor Grama Panchayat",
+            "wardCount": 16
+        },
+        "Angamaly Block Panchayat": {
+            "name": "Angamaly Block Panchayat",
+            "wardCount": 13
+        },
+        "Angamaly Municipality": {
+            "name": "Angamaly Municipality",
+            "wardCount": 30
+        },
+        "Arakuzha Grama Panchayat": {
+            "name": "Arakuzha Grama Panchayat",
+            "wardCount": 13
+        },
+        "Asamannoor Grama Panchayat": {
+            "name": "Asamannoor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Avoly Grama Panchayat": {
+            "name": "Avoly Grama Panchayat",
+            "wardCount": 14
+        },
+        "Ayavana Grama Panchayat": {
+            "name": "Ayavana Grama Panchayat",
+            "wardCount": 14
+        },
+        "Ayyampuzha Grama Panchayat": {
+            "name": "Ayyampuzha Grama Panchayat",
+            "wardCount": 13
+        },
+        "Chellanam Grama Panchayat": {
+            "name": "Chellanam Grama Panchayat",
+            "wardCount": 21
+        },
+        "Chendamangalam Grama Panchayat": {
+            "name": "Chendamangalam Grama Panchayat",
+            "wardCount": 18
+        },
+        "Chengamanad Grama Panchayat": {
+            "name": "Chengamanad Grama Panchayat",
+            "wardCount": 18
+        },
+        "Cheranalloor Grama Panchayat": {
+            "name": "Cheranalloor Grama Panchayat",
+            "wardCount": 17
+        },
+        "Chittattukara Grama Panchayat": {
+            "name": "Chittattukara Grama Panchayat",
+            "wardCount": 18
+        },
+        "Choornikkara Grama Panchayat": {
+            "name": "Choornikkara Grama Panchayat",
+            "wardCount": 18
+        },
+        "Chottanikkara Grama Panchayat": {
+            "name": "Chottanikkara Grama Panchayat",
+            "wardCount": 14
+        },
+        "Cochin Corporation": {
+            "name": "Cochin Corporation",
+            "wardCount": 74
+        },
+        "Edakkattuvayal Grama Panchayat": {
+            "name": "Edakkattuvayal Grama Panchayat",
+            "wardCount": 14
+        },
+        "Edappally Block Panchayat": {
+            "name": "Edappally Block Panchayat",
+            "wardCount": 13
+        },
+        "Edathala Grama Panchayat": {
+            "name": "Edathala Grama Panchayat",
+            "wardCount": 21
+        },
+        "Edavanakkad Grama Panchayat": {
+            "name": "Edavanakkad Grama Panchayat",
+            "wardCount": 15
+        },
+        "Elanji Grama Panchayat": {
+            "name": "Elanji Grama Panchayat",
+            "wardCount": 13
+        },
+        "Elankunnapuzha Grama Panchayat": {
+            "name": "Elankunnapuzha Grama Panchayat",
+            "wardCount": 23
+        },
+        "Eloor Municipality": {
+            "name": "Eloor Municipality",
+            "wardCount": 31
+        },
+        "Ernakulam District Panchayat": {
+            "name": "Ernakulam District Panchayat",
+            "wardCount": 27
+        },
+        "Ezhikkara Grama Panchayat": {
+            "name": "Ezhikkara Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kadamakudy Grama Panchayat": {
+            "name": "Kadamakudy Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kadungalloor Grama Panchayat": {
+            "name": "Kadungalloor Grama Panchayat",
+            "wardCount": 21
+        },
+        "Kalady Grama Panchayat": {
+            "name": "Kalady Grama Panchayat",
+            "wardCount": 17
+        },
+        "Kalamassery Municipality": {
+            "name": "Kalamassery Municipality",
+            "wardCount": 42
+        },
+        "Kalloorkad Grama Panchayat": {
+            "name": "Kalloorkad Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kanjoor Grama Panchayat": {
+            "name": "Kanjoor Grama Panchayat",
+            "wardCount": 15
+        },
+        "Karukutty Grama Panchayat": {
+            "name": "Karukutty Grama Panchayat",
+            "wardCount": 17
+        },
+        "Karumallur Grama Panchayat": {
+            "name": "Karumallur Grama Panchayat",
+            "wardCount": 20
+        },
+        "Kavalangad Grama Panchayat": {
+            "name": "Kavalangad Grama Panchayat",
+            "wardCount": 18
+        },
+        "Keerampara Grama Panchayat": {
+            "name": "Keerampara Grama Panchayat",
+            "wardCount": 13
+        },
+        "Keezhmad Grama Panchayat": {
+            "name": "Keezhmad Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kizhakkambalam Grama Panchayat": {
+            "name": "Kizhakkambalam Grama Panchayat",
+            "wardCount": 19
+        },
+        "Koothattukulam Municipality": {
+            "name": "Koothattukulam Municipality",
+            "wardCount": 25
+        },
+        "Koovappady Block Panchayat": {
+            "name": "Koovappady Block Panchayat",
+            "wardCount": 13
+        },
+        "Koovappady Grama Panchayat": {
+            "name": "Koovappady Grama Panchayat",
+            "wardCount": 20
+        },
+        "Kothamangalam Block Panchayat": {
+            "name": "Kothamangalam Block Panchayat",
+            "wardCount": 14
+        },
+        "Kothamangalam Municipality": {
+            "name": "Kothamangalam Municipality",
+            "wardCount": 31
+        },
+        "Kottappady Grama Panchayat": {
+            "name": "Kottappady Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kottuvally Grama Panchayat": {
+            "name": "Kottuvally Grama Panchayat",
+            "wardCount": 22
+        },
+        "Kumbalam Grama Panchayat": {
+            "name": "Kumbalam Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kumbalanghi Grama Panchayat": {
+            "name": "Kumbalanghi Grama Panchayat",
+            "wardCount": 17
+        },
+        "Kunnathunad Grama Panchayat": {
+            "name": "Kunnathunad Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kunnukara Grama Panchayat": {
+            "name": "Kunnukara Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kuttampuzha Grama Panchayat": {
+            "name": "Kuttampuzha Grama Panchayat",
+            "wardCount": 17
+        },
+        "Kuzhuppilly Grama Panchayat": {
+            "name": "Kuzhuppilly Grama Panchayat",
+            "wardCount": 13
+        },
+        "MalayattoorNeeleswaram Grama Panchayat": {
+            "name": "MalayattoorNeeleswaram Grama Panchayat",
+            "wardCount": 17
+        },
+        "Maneed Grama Panchayat": {
+            "name": "Maneed Grama Panchayat",
+            "wardCount": 13
+        },
+        "Manjalloor Grama Panchayat": {
+            "name": "Manjalloor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Manjapra Grama Panchayat": {
+            "name": "Manjapra Grama Panchayat",
+            "wardCount": 13
+        },
+        "Maradu Municipality": {
+            "name": "Maradu Municipality",
+            "wardCount": 33
+        },
+        "Marady Grama Panchayat": {
+            "name": "Marady Grama Panchayat",
+            "wardCount": 13
+        },
+        "Mazhuvannoor Grama Panchayat": {
+            "name": "Mazhuvannoor Grama Panchayat",
+            "wardCount": 19
+        },
+        "Mookkannur Grama Panchayat": {
+            "name": "Mookkannur Grama Panchayat",
+            "wardCount": 14
+        },
+        "Mudakuzha Grama Panchayat": {
+            "name": "Mudakuzha Grama Panchayat",
+            "wardCount": 13
+        },
+        "Mulanthuruthy Block Panchayat": {
+            "name": "Mulanthuruthy Block Panchayat",
+            "wardCount": 13
+        },
+        "Mulanthuruthy Grama Panchayat": {
+            "name": "Mulanthuruthy Grama Panchayat",
+            "wardCount": 16
+        },
+        "Mulavukad Grama Panchayat": {
+            "name": "Mulavukad Grama Panchayat",
+            "wardCount": 16
+        },
+        "Muvattupuzha Block Panchayat": {
+            "name": "Muvattupuzha Block Panchayat",
+            "wardCount": 13
+        },
+        "Muvattupuzha Municipality": {
+            "name": "Muvattupuzha Municipality",
+            "wardCount": 28
+        },
+        "Narakal Grama Panchayat": {
+            "name": "Narakal Grama Panchayat",
+            "wardCount": 16
+        },
+        "Nayarambalam Grama Panchayat": {
+            "name": "Nayarambalam Grama Panchayat",
+            "wardCount": 16
+        },
+        "Nedumbassery Grama Panchayat": {
+            "name": "Nedumbassery Grama Panchayat",
+            "wardCount": 19
+        },
+        "Nellikuzhi Grama Panchayat": {
+            "name": "Nellikuzhi Grama Panchayat",
+            "wardCount": 21
+        },
+        "North Paravur Municipality": {
+            "name": "North Paravur Municipality",
+            "wardCount": 29
+        },
+        "Okkal Grama Panchayat": {
+            "name": "Okkal Grama Panchayat",
+            "wardCount": 16
+        },
+        "Paingottoor Grama Panchayat": {
+            "name": "Paingottoor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Paipra Grama Panchayat": {
+            "name": "Paipra Grama Panchayat",
+            "wardCount": 22
+        },
+        "Palakuzha Grama Panchayat": {
+            "name": "Palakuzha Grama Panchayat",
+            "wardCount": 13
+        },
+        "Pallarimangalam Grama Panchayat": {
+            "name": "Pallarimangalam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Pallippuram Grama Panchayat": {
+            "name": "Pallippuram Grama Panchayat",
+            "wardCount": 23
+        },
+        "Palluruthy Block Panchayat": {
+            "name": "Palluruthy Block Panchayat",
+            "wardCount": 13
+        },
+        "Pampakuda Block Panchayat": {
+            "name": "Pampakuda Block Panchayat",
+            "wardCount": 13
+        },
+        "Pampakuda Grama Panchayat": {
+            "name": "Pampakuda Grama Panchayat",
+            "wardCount": 13
+        },
+        "Parakkadavu Block Panchayat": {
+            "name": "Parakkadavu Block Panchayat",
+            "wardCount": 13
+        },
+        "Parakkadavu Grama Panchayat": {
+            "name": "Parakkadavu Grama Panchayat",
+            "wardCount": 18
+        },
+        "Paravur Block Panchayat": {
+            "name": "Paravur Block Panchayat",
+            "wardCount": 13
+        },
+        "Perumbavoor Municipality": {
+            "name": "Perumbavoor Municipality",
+            "wardCount": 27
+        },
+        "Pindimana Grama Panchayat": {
+            "name": "Pindimana Grama Panchayat",
+            "wardCount": 13
+        },
+        "Piravom Municipality": {
+            "name": "Piravom Municipality",
+            "wardCount": 27
+        },
+        "Poothrikka Grama Panchayat": {
+            "name": "Poothrikka Grama Panchayat",
+            "wardCount": 14
+        },
+        "Pothanicad Grama Panchayat": {
+            "name": "Pothanicad Grama Panchayat",
+            "wardCount": 13
+        },
+        "Puthenvelikkara Grama Panchayat": {
+            "name": "Puthenvelikkara Grama Panchayat",
+            "wardCount": 17
+        },
+        "Ramamangalam Grama Panchayat": {
+            "name": "Ramamangalam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Rayamangalam Grama Panchayat": {
+            "name": "Rayamangalam Grama Panchayat",
+            "wardCount": 20
+        },
+        "Sreemoolanagaram Grama Panchayat": {
+            "name": "Sreemoolanagaram Grama Panchayat",
+            "wardCount": 16
+        },
+        "Thirumarady Grama Panchayat": {
+            "name": "Thirumarady Grama Panchayat",
+            "wardCount": 13
+        },
+        "Thiruvaniyoor Grama Panchayat": {
+            "name": "Thiruvaniyoor Grama Panchayat",
+            "wardCount": 16
+        },
+        "Thrikkakara Municipality": {
+            "name": "Thrikkakara Municipality",
+            "wardCount": 43
+        },
+        "Thuravoor Grama Panchayat": {
+            "name": "Thuravoor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Tripunithura Municipality": {
+            "name": "Tripunithura Municipality",
+            "wardCount": 49
+        },
+        "Udayamperoor Grama Panchayat": {
+            "name": "Udayamperoor Grama Panchayat",
+            "wardCount": 20
+        },
+        "Vadakkekkara Grama Panchayat": {
+            "name": "Vadakkekkara Grama Panchayat",
+            "wardCount": 20
+        },
+        "Vadavucode Block Panchayat": {
+            "name": "Vadavucode Block Panchayat",
+            "wardCount": 13
+        },
+        "VadavucodePuthencruz Grama Panchayat": {
+            "name": "VadavucodePuthencruz Grama Panchayat",
+            "wardCount": 17
+        },
+        "Valakom Grama Panchayat": {
+            "name": "Valakom Grama Panchayat",
+            "wardCount": 14
+        },
+        "Varappetty Grama Panchayat": {
+            "name": "Varappetty Grama Panchayat",
+            "wardCount": 13
+        },
+        "Varapuzha Grama Panchayat": {
+            "name": "Varapuzha Grama Panchayat",
+            "wardCount": 16
+        },
+        "Vazhakulam Block Panchayat": {
+            "name": "Vazhakulam Block Panchayat",
+            "wardCount": 15
+        },
+        "Vazhakulam Grama Panchayat": {
+            "name": "Vazhakulam Grama Panchayat",
+            "wardCount": 20
+        },
+        "Vengola Grama Panchayat": {
+            "name": "Vengola Grama Panchayat",
+            "wardCount": 23
+        },
+        "Vengoor Grama Panchayat": {
+            "name": "Vengoor Grama Panchayat",
+            "wardCount": 15
+        },
+        "Vypin Block Panchayat": {
+            "name": "Vypin Block Panchayat",
+            "wardCount": 13
+        }
+    },
+    "Thrissur": {
+        "Adat Grama Panchayat": {
+            "name": "Adat Grama Panchayat",
+            "wardCount": 18
+        },
+        "Alagappanagar Grama Panchayat": {
+            "name": "Alagappanagar Grama Panchayat",
+            "wardCount": 17
+        },
+        "Aloor Grama Panchayat": {
+            "name": "Aloor Grama Panchayat",
+            "wardCount": 23
+        },
+        "Annamanada Grama Panchayat": {
+            "name": "Annamanada Grama Panchayat",
+            "wardCount": 18
+        },
+        "Anthikad Block Panchayat": {
+            "name": "Anthikad Block Panchayat",
+            "wardCount": 13
+        },
+        "Anthikad Grama Panchayat": {
+            "name": "Anthikad Grama Panchayat",
+            "wardCount": 15
+        },
+        "Arimpur Grama Panchayat": {
+            "name": "Arimpur Grama Panchayat",
+            "wardCount": 17
+        },
+        "Athirappilly Grama Panchayat": {
+            "name": "Athirappilly Grama Panchayat",
+            "wardCount": 13
+        },
+        "Avanur Grama Panchayat": {
+            "name": "Avanur Grama Panchayat",
+            "wardCount": 15
+        },
+        "Avinissery Grama Panchayat": {
+            "name": "Avinissery Grama Panchayat",
+            "wardCount": 14
+        },
+        "Chalakudy Block Panchayat": {
+            "name": "Chalakudy Block Panchayat",
+            "wardCount": 13
+        },
+        "Chalakudy Municipality": {
+            "name": "Chalakudy Municipality",
+            "wardCount": 36
+        },
+        "Chavakkad Block Panchayat": {
+            "name": "Chavakkad Block Panchayat",
+            "wardCount": 13
+        },
+        "Chavakkad Municipality": {
+            "name": "Chavakkad Municipality",
+            "wardCount": 32
+        },
+        "Chazhur Grama Panchayat": {
+            "name": "Chazhur Grama Panchayat",
+            "wardCount": 18
+        },
+        "Chelakkara Grama Panchayat": {
+            "name": "Chelakkara Grama Panchayat",
+            "wardCount": 22
+        },
+        "Cherpu Block Panchayat": {
+            "name": "Cherpu Block Panchayat",
+            "wardCount": 13
+        },
+        "Cherpu Grama Panchayat": {
+            "name": "Cherpu Grama Panchayat",
+            "wardCount": 21
+        },
+        "Choondal Grama Panchayat": {
+            "name": "Choondal Grama Panchayat",
+            "wardCount": 18
+        },
+        "Chowannur Block Panchayat": {
+            "name": "Chowannur Block Panchayat",
+            "wardCount": 14
+        },
+        "Chowannur Grama Panchayat": {
+            "name": "Chowannur Grama Panchayat",
+            "wardCount": 13
+        },
+        "Desamangalam Grama Panchayat": {
+            "name": "Desamangalam Grama Panchayat",
+            "wardCount": 15
+        },
+        "Edathiruthy Grama Panchayat": {
+            "name": "Edathiruthy Grama Panchayat",
+            "wardCount": 18
+        },
+        "Edavilangu Grama Panchayat": {
+            "name": "Edavilangu Grama Panchayat",
+            "wardCount": 14
+        },
+        "Elavally Grama Panchayat": {
+            "name": "Elavally Grama Panchayat",
+            "wardCount": 16
+        },
+        "Engandiyur Grama Panchayat": {
+            "name": "Engandiyur Grama Panchayat",
+            "wardCount": 16
+        },
+        "Eriyad Grama Panchayat": {
+            "name": "Eriyad Grama Panchayat",
+            "wardCount": 23
+        },
+        "Erumapetty Grama Panchayat": {
+            "name": "Erumapetty Grama Panchayat",
+            "wardCount": 18
+        },
+        "Guruvayur Municipality": {
+            "name": "Guruvayur Municipality",
+            "wardCount": 43
+        },
+        "Irinjalakuda Block Panchayat": {
+            "name": "Irinjalakuda Block Panchayat",
+            "wardCount": 13
+        },
+        "Irinjalakuda Municipality": {
+            "name": "Irinjalakuda Municipality",
+            "wardCount": 41
+        },
+        "Kadangode Grama Panchayat": {
+            "name": "Kadangode Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kadappuram Grama Panchayat": {
+            "name": "Kadappuram Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kadavallur Grama Panchayat": {
+            "name": "Kadavallur Grama Panchayat",
+            "wardCount": 20
+        },
+        "Kadukutty Grama Panchayat": {
+            "name": "Kadukutty Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kaipamangalam Grama Panchayat": {
+            "name": "Kaipamangalam Grama Panchayat",
+            "wardCount": 20
+        },
+        "Kaiparambu Grama Panchayat": {
+            "name": "Kaiparambu Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kandanassery Grama Panchayat": {
+            "name": "Kandanassery Grama Panchayat",
+            "wardCount": 16
+        },
+        "Karalam Grama Panchayat": {
+            "name": "Karalam Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kattakampal Grama Panchayat": {
+            "name": "Kattakampal Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kattoor Grama Panchayat": {
+            "name": "Kattoor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kodakara Block Panchayat": {
+            "name": "Kodakara Block Panchayat",
+            "wardCount": 15
+        },
+        "Kodakara Grama Panchayat": {
+            "name": "Kodakara Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kodassery Grama Panchayat": {
+            "name": "Kodassery Grama Panchayat",
+            "wardCount": 20
+        },
+        "Kodungallur Municipality": {
+            "name": "Kodungallur Municipality",
+            "wardCount": 44
+        },
+        "Kolazhy Grama Panchayat": {
+            "name": "Kolazhy Grama Panchayat",
+            "wardCount": 17
+        },
+        "Kondazhy Grama Panchayat": {
+            "name": "Kondazhy Grama Panchayat",
+            "wardCount": 15
+        },
+        "Koratty Grama Panchayat": {
+            "name": "Koratty Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kunnamkulam Municipality": {
+            "name": "Kunnamkulam Municipality",
+            "wardCount": 37
+        },
+        "Kuzhur Grama Panchayat": {
+            "name": "Kuzhur Grama Panchayat",
+            "wardCount": 14
+        },
+        "Madakkathara Grama Panchayat": {
+            "name": "Madakkathara Grama Panchayat",
+            "wardCount": 16
+        },
+        "Mala Block Panchayat": {
+            "name": "Mala Block Panchayat",
+            "wardCount": 13
+        },
+        "Mala Grama Panchayat": {
+            "name": "Mala Grama Panchayat",
+            "wardCount": 20
+        },
+        "Manalur Grama Panchayat": {
+            "name": "Manalur Grama Panchayat",
+            "wardCount": 19
+        },
+        "Mathilakam Block Panchayat": {
+            "name": "Mathilakam Block Panchayat",
+            "wardCount": 15
+        },
+        "Mathilakam Grama Panchayat": {
+            "name": "Mathilakam Grama Panchayat",
+            "wardCount": 17
+        },
+        "Mattathur Grama Panchayat": {
+            "name": "Mattathur Grama Panchayat",
+            "wardCount": 23
+        },
+        "Meloor Grama Panchayat": {
+            "name": "Meloor Grama Panchayat",
+            "wardCount": 17
+        },
+        "Mulakunnathukavu Grama Panchayat": {
+            "name": "Mulakunnathukavu Grama Panchayat",
+            "wardCount": 14
+        },
+        "Mullassery Block Panchayat": {
+            "name": "Mullassery Block Panchayat",
+            "wardCount": 13
+        },
+        "Mullassery Grama Panchayat": {
+            "name": "Mullassery Grama Panchayat",
+            "wardCount": 15
+        },
+        "Mullurkara Grama Panchayat": {
+            "name": "Mullurkara Grama Panchayat",
+            "wardCount": 14
+        },
+        "Muriyad Grama Panchayat": {
+            "name": "Muriyad Grama Panchayat",
+            "wardCount": 17
+        },
+        "Nadathara Grama Panchayat": {
+            "name": "Nadathara Grama Panchayat",
+            "wardCount": 17
+        },
+        "Nattika Grama Panchayat": {
+            "name": "Nattika Grama Panchayat",
+            "wardCount": 14
+        },
+        "Nenmanikkara Grama Panchayat": {
+            "name": "Nenmanikkara Grama Panchayat",
+            "wardCount": 15
+        },
+        "Ollukkara Block Panchayat": {
+            "name": "Ollukkara Block Panchayat",
+            "wardCount": 13
+        },
+        "Orumanayur Grama Panchayat": {
+            "name": "Orumanayur Grama Panchayat",
+            "wardCount": 13
+        },
+        "Padiyur Grama Panchayat": {
+            "name": "Padiyur Grama Panchayat",
+            "wardCount": 14
+        },
+        "Pananchery Grama Panchayat": {
+            "name": "Pananchery Grama Panchayat",
+            "wardCount": 23
+        },
+        "Panjal Grama Panchayat": {
+            "name": "Panjal Grama Panchayat",
+            "wardCount": 16
+        },
+        "Paralam Grama Panchayat": {
+            "name": "Paralam Grama Panchayat",
+            "wardCount": 15
+        },
+        "Parappukkara Grama Panchayat": {
+            "name": "Parappukkara Grama Panchayat",
+            "wardCount": 18
+        },
+        "Pariyaram Grama Panchayat": {
+            "name": "Pariyaram Grama Panchayat",
+            "wardCount": 15
+        },
+        "Pavaratty Grama Panchayat": {
+            "name": "Pavaratty Grama Panchayat",
+            "wardCount": 15
+        },
+        "Pazhayannur Block Panchayat": {
+            "name": "Pazhayannur Block Panchayat",
+            "wardCount": 13
+        },
+        "Pazhayannur Grama Panchayat": {
+            "name": "Pazhayannur Grama Panchayat",
+            "wardCount": 22
+        },
+        "Perinjanam Grama Panchayat": {
+            "name": "Perinjanam Grama Panchayat",
+            "wardCount": 15
+        },
+        "Poomangalam Grama Panchayat": {
+            "name": "Poomangalam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Porkulam Grama Panchayat": {
+            "name": "Porkulam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Poyya Grama Panchayat": {
+            "name": "Poyya Grama Panchayat",
+            "wardCount": 15
+        },
+        "Pudukad Grama Panchayat": {
+            "name": "Pudukad Grama Panchayat",
+            "wardCount": 15
+        },
+        "Punnayur Grama Panchayat": {
+            "name": "Punnayur Grama Panchayat",
+            "wardCount": 20
+        },
+        "Punnayurkulam Grama Panchayat": {
+            "name": "Punnayurkulam Grama Panchayat",
+            "wardCount": 19
+        },
+        "Puthenchira Grama Panchayat": {
+            "name": "Puthenchira Grama Panchayat",
+            "wardCount": 15
+        },
+        "Puthur Grama Panchayat": {
+            "name": "Puthur Grama Panchayat",
+            "wardCount": 23
+        },
+        "Puzhakkal Block Panchayat": {
+            "name": "Puzhakkal Block Panchayat",
+            "wardCount": 13
+        },
+        "Sreenarayanapuram Grama Panchayat": {
+            "name": "Sreenarayanapuram Grama Panchayat",
+            "wardCount": 21
+        },
+        "Thalikulam Block Panchayat": {
+            "name": "Thalikulam Block Panchayat",
+            "wardCount": 13
+        },
+        "Thalikulam Grama Panchayat": {
+            "name": "Thalikulam Grama Panchayat",
+            "wardCount": 16
+        },
+        "Thanniyam Grama Panchayat": {
+            "name": "Thanniyam Grama Panchayat",
+            "wardCount": 18
+        },
+        "Thekkumkara Grama Panchayat": {
+            "name": "Thekkumkara Grama Panchayat",
+            "wardCount": 18
+        },
+        "Thiruvilwamala Grama Panchayat": {
+            "name": "Thiruvilwamala Grama Panchayat",
+            "wardCount": 17
+        },
+        "Tholur Grama Panchayat": {
+            "name": "Tholur Grama Panchayat",
+            "wardCount": 13
+        },
+        "Thrikkur Grama Panchayat": {
+            "name": "Thrikkur Grama Panchayat",
+            "wardCount": 17
+        },
+        "Thrissur Corporation": {
+            "name": "Thrissur Corporation",
+            "wardCount": 55
+        },
+        "Thrissur District Panchayat": {
+            "name": "Thrissur District Panchayat",
+            "wardCount": 29
+        },
+        "Vadakkekkad Grama Panchayat": {
+            "name": "Vadakkekkad Grama Panchayat",
+            "wardCount": 16
+        },
+        "Valapad Grama Panchayat": {
+            "name": "Valapad Grama Panchayat",
+            "wardCount": 20
+        },
+        "Vallachira Grama Panchayat": {
+            "name": "Vallachira Grama Panchayat",
+            "wardCount": 14
+        },
+        "VallatholNagar Grama Panchayat": {
+            "name": "VallatholNagar Grama Panchayat",
+            "wardCount": 16
+        },
+        "Varandarappilly Grama Panchayat": {
+            "name": "Varandarappilly Grama Panchayat",
+            "wardCount": 22
+        },
+        "Varavoor Grama Panchayat": {
+            "name": "Varavoor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Vatanapally Grama Panchayat": {
+            "name": "Vatanapally Grama Panchayat",
+            "wardCount": 18
+        },
+        "Vellangallur Block Panchayat": {
+            "name": "Vellangallur Block Panchayat",
+            "wardCount": 13
+        },
+        "Vellangallur Grama Panchayat": {
+            "name": "Vellangallur Grama Panchayat",
+            "wardCount": 21
+        },
+        "Velukara Grama Panchayat": {
+            "name": "Velukara Grama Panchayat",
+            "wardCount": 18
+        },
+        "Velur Grama Panchayat": {
+            "name": "Velur Grama Panchayat",
+            "wardCount": 17
+        },
+        "Venkitangu Grama Panchayat": {
+            "name": "Venkitangu Grama Panchayat",
+            "wardCount": 17
+        },
+        "Wadakanchery Block Panchayat": {
+            "name": "Wadakanchery Block Panchayat",
+            "wardCount": 13
+        },
+        "Wadakanchery Municipality": {
+            "name": "Wadakanchery Municipality",
+            "wardCount": 41
+        }
+    },
+    "Palakkad": {
+        "Agali Grama Panchayat": {
+            "name": "Agali Grama Panchayat",
+            "wardCount": 21
+        },
+        "Akathethara Grama Panchayat": {
+            "name": "Akathethara Grama Panchayat",
+            "wardCount": 17
+        },
+        "Alanallur Grama Panchayat": {
+            "name": "Alanallur Grama Panchayat",
+            "wardCount": 23
+        },
+        "Alathur Block Panchayat": {
+            "name": "Alathur Block Panchayat",
+            "wardCount": 15
+        },
+        "Alathur Grama Panchayat": {
+            "name": "Alathur Grama Panchayat",
+            "wardCount": 16
+        },
+        "Ambalappara Grama Panchayat": {
+            "name": "Ambalappara Grama Panchayat",
+            "wardCount": 20
+        },
+        "Anakkara Grama Panchayat": {
+            "name": "Anakkara Grama Panchayat",
+            "wardCount": 16
+        },
+        "Ananganadi Grama Panchayat": {
+            "name": "Ananganadi Grama Panchayat",
+            "wardCount": 15
+        },
+        "Attappady Block Panchayat": {
+            "name": "Attappady Block Panchayat",
+            "wardCount": 13
+        },
+        "Ayiloor Grama Panchayat": {
+            "name": "Ayiloor Grama Panchayat",
+            "wardCount": 17
+        },
+        "Chalavara Grama Panchayat": {
+            "name": "Chalavara Grama Panchayat",
+            "wardCount": 15
+        },
+        "Chalissery Grama Panchayat": {
+            "name": "Chalissery Grama Panchayat",
+            "wardCount": 15
+        },
+        "Cherpulassery Municipality": {
+            "name": "Cherpulassery Municipality",
+            "wardCount": 33
+        },
+        "Chittur Block Panchayat": {
+            "name": "Chittur Block Panchayat",
+            "wardCount": 14
+        },
+        "Chittur Tattamangalam Municipality": {
+            "name": "Chittur Tattamangalam Municipality",
+            "wardCount": 29
+        },
+        "Elappully Grama Panchayat": {
+            "name": "Elappully Grama Panchayat",
+            "wardCount": 22
+        },
+        "Elavancherry Grama Panchayat": {
+            "name": "Elavancherry Grama Panchayat",
+            "wardCount": 14
+        },
+        "Erimayur Grama Panchayat": {
+            "name": "Erimayur Grama Panchayat",
+            "wardCount": 18
+        },
+        "Eruthenpathy Grama Panchayat": {
+            "name": "Eruthenpathy Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kadampazhipuram Grama Panchayat": {
+            "name": "Kadampazhipuram Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kanhirapuzha Grama Panchayat": {
+            "name": "Kanhirapuzha Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kannadi Grama Panchayat": {
+            "name": "Kannadi Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kannambra Grama Panchayat": {
+            "name": "Kannambra Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kappur Grama Panchayat": {
+            "name": "Kappur Grama Panchayat",
+            "wardCount": 18
+        },
+        "Karakurussi Grama Panchayat": {
+            "name": "Karakurussi Grama Panchayat",
+            "wardCount": 16
+        },
+        "Karimba Grama Panchayat": {
+            "name": "Karimba Grama Panchayat",
+            "wardCount": 17
+        },
+        "Karimpuzha Grama Panchayat": {
+            "name": "Karimpuzha Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kavassery Grama Panchayat": {
+            "name": "Kavassery Grama Panchayat",
+            "wardCount": 17
+        },
+        "Keralassery Grama Panchayat": {
+            "name": "Keralassery Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kizhakkencherry Grama Panchayat": {
+            "name": "Kizhakkencherry Grama Panchayat",
+            "wardCount": 22
+        },
+        "Kodumbu Grama Panchayat": {
+            "name": "Kodumbu Grama Panchayat",
+            "wardCount": 15
+        },
+        "Koduvayur Grama Panchayat": {
+            "name": "Koduvayur Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kollengode Block Panchayat": {
+            "name": "Kollengode Block Panchayat",
+            "wardCount": 13
+        },
+        "Kollengode Grama Panchayat": {
+            "name": "Kollengode Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kongad Grama Panchayat": {
+            "name": "Kongad Grama Panchayat",
+            "wardCount": 18
+        },
+        "Koppam Grama Panchayat": {
+            "name": "Koppam Grama Panchayat",
+            "wardCount": 17
+        },
+        "Kottayi Grama Panchayat": {
+            "name": "Kottayi Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kottopadam Grama Panchayat": {
+            "name": "Kottopadam Grama Panchayat",
+            "wardCount": 22
+        },
+        "Kozhinjampara Grama Panchayat": {
+            "name": "Kozhinjampara Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kulukkallur Grama Panchayat": {
+            "name": "Kulukkallur Grama Panchayat",
+            "wardCount": 17
+        },
+        "Kumaramputhur Grama Panchayat": {
+            "name": "Kumaramputhur Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kuthanur Grama Panchayat": {
+            "name": "Kuthanur Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kuzhalmannam Block Panchayat": {
+            "name": "Kuzhalmannam Block Panchayat",
+            "wardCount": 13
+        },
+        "Kuzhalmannam Grama Panchayat": {
+            "name": "Kuzhalmannam Grama Panchayat",
+            "wardCount": 17
+        },
+        "Lakkidi - Perur Grama Panchayat": {
+            "name": "Lakkidi - Perur Grama Panchayat",
+            "wardCount": 19
+        },
+        "Malampuzha Block Panchayat": {
+            "name": "Malampuzha Block Panchayat",
+            "wardCount": 13
+        },
+        "Malampuzha Grama Panchayat": {
+            "name": "Malampuzha Grama Panchayat",
+            "wardCount": 13
+        },
+        "Mankara Grama Panchayat": {
+            "name": "Mankara Grama Panchayat",
+            "wardCount": 14
+        },
+        "Mannarkad Municipality": {
+            "name": "Mannarkad Municipality",
+            "wardCount": 29
+        },
+        "Mannarkkad Block Panchayat": {
+            "name": "Mannarkkad Block Panchayat",
+            "wardCount": 17
+        },
+        "Mannur Grama Panchayat": {
+            "name": "Mannur Grama Panchayat",
+            "wardCount": 14
+        },
+        "Marutharode Grama Panchayat": {
+            "name": "Marutharode Grama Panchayat",
+            "wardCount": 19
+        },
+        "Mathur Grama Panchayat": {
+            "name": "Mathur Grama Panchayat",
+            "wardCount": 16
+        },
+        "Melarcode Grama Panchayat": {
+            "name": "Melarcode Grama Panchayat",
+            "wardCount": 16
+        },
+        "Mundur Grama Panchayat": {
+            "name": "Mundur Grama Panchayat",
+            "wardCount": 18
+        },
+        "Muthalamada Grama Panchayat": {
+            "name": "Muthalamada Grama Panchayat",
+            "wardCount": 20
+        },
+        "Muthuthala Grama Panchayat": {
+            "name": "Muthuthala Grama Panchayat",
+            "wardCount": 15
+        },
+        "Nagalassery Grama Panchayat": {
+            "name": "Nagalassery Grama Panchayat",
+            "wardCount": 17
+        },
+        "Nallepilly Grama Panchayat": {
+            "name": "Nallepilly Grama Panchayat",
+            "wardCount": 19
+        },
+        "Nellaya Grama Panchayat": {
+            "name": "Nellaya Grama Panchayat",
+            "wardCount": 19
+        },
+        "Nelliyampathy Grama Panchayat": {
+            "name": "Nelliyampathy Grama Panchayat",
+            "wardCount": 13
+        },
+        "Nenmara Block Panchayat": {
+            "name": "Nenmara Block Panchayat",
+            "wardCount": 13
+        },
+        "Nenmara Grama Panchayat": {
+            "name": "Nenmara Grama Panchayat",
+            "wardCount": 20
+        },
+        "Ongallur Grama Panchayat": {
+            "name": "Ongallur Grama Panchayat",
+            "wardCount": 22
+        },
+        "Ottapalam Block Panchayat": {
+            "name": "Ottapalam Block Panchayat",
+            "wardCount": 16
+        },
+        "Ottapalam Municipality": {
+            "name": "Ottapalam Municipality",
+            "wardCount": 36
+        },
+        "Palakkad Block Panchayat": {
+            "name": "Palakkad Block Panchayat",
+            "wardCount": 14
+        },
+        "Palakkad District Panchayat": {
+            "name": "Palakkad District Panchayat",
+            "wardCount": 30
+        },
+        "Palakkad Municipality": {
+            "name": "Palakkad Municipality",
+            "wardCount": 52
+        },
+        "Pallassana Grama Panchayat": {
+            "name": "Pallassana Grama Panchayat",
+            "wardCount": 16
+        },
+        "Parali Grama Panchayat": {
+            "name": "Parali Grama Panchayat",
+            "wardCount": 20
+        },
+        "Paruthur Grama Panchayat": {
+            "name": "Paruthur Grama Panchayat",
+            "wardCount": 16
+        },
+        "Pattambi Block Panchayat": {
+            "name": "Pattambi Block Panchayat",
+            "wardCount": 15
+        },
+        "Pattambi Municipality": {
+            "name": "Pattambi Municipality",
+            "wardCount": 28
+        },
+        "Pattanchery Grama Panchayat": {
+            "name": "Pattanchery Grama Panchayat",
+            "wardCount": 16
+        },
+        "Pattithara Grama Panchayat": {
+            "name": "Pattithara Grama Panchayat",
+            "wardCount": 18
+        },
+        "Peringottukurissi Grama Panchayat": {
+            "name": "Peringottukurissi Grama Panchayat",
+            "wardCount": 16
+        },
+        "Perumatty Grama Panchayat": {
+            "name": "Perumatty Grama Panchayat",
+            "wardCount": 18
+        },
+        "Peruvemba Grama Panchayat": {
+            "name": "Peruvemba Grama Panchayat",
+            "wardCount": 14
+        },
+        "Pirayiri Grama Panchayat": {
+            "name": "Pirayiri Grama Panchayat",
+            "wardCount": 21
+        },
+        "Polpully Grama Panchayat": {
+            "name": "Polpully Grama Panchayat",
+            "wardCount": 13
+        },
+        "Pookkottukavu Grama Panchayat": {
+            "name": "Pookkottukavu Grama Panchayat",
+            "wardCount": 13
+        },
+        "Puducode Grama Panchayat": {
+            "name": "Puducode Grama Panchayat",
+            "wardCount": 15
+        },
+        "Pudunagaram Grama Panchayat": {
+            "name": "Pudunagaram Grama Panchayat",
+            "wardCount": 13
+        },
+        "Puduppariyaram Grama Panchayat": {
+            "name": "Puduppariyaram Grama Panchayat",
+            "wardCount": 21
+        },
+        "Pudur Grama Panchayat": {
+            "name": "Pudur Grama Panchayat",
+            "wardCount": 13
+        },
+        "Pudusseri Grama Panchayat": {
+            "name": "Pudusseri Grama Panchayat",
+            "wardCount": 23
+        },
+        "Sholayoor Grama Panchayat": {
+            "name": "Sholayoor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Shoranur Municipality": {
+            "name": "Shoranur Municipality",
+            "wardCount": 33
+        },
+        "Sreekrishnapuram Block Panchayat": {
+            "name": "Sreekrishnapuram Block Panchayat",
+            "wardCount": 13
+        },
+        "Sreekrishnapuram Grama Panchayat": {
+            "name": "Sreekrishnapuram Grama Panchayat",
+            "wardCount": 14
+        },
+        "Tachampara Grama Panchayat": {
+            "name": "Tachampara Grama Panchayat",
+            "wardCount": 15
+        },
+        "Tarur Grama Panchayat": {
+            "name": "Tarur Grama Panchayat",
+            "wardCount": 16
+        },
+        "Thachanattukara Grama Panchayat": {
+            "name": "Thachanattukara Grama Panchayat",
+            "wardCount": 16
+        },
+        "Thenkara Grama Panchayat": {
+            "name": "Thenkara Grama Panchayat",
+            "wardCount": 17
+        },
+        "Thenkurissi Grama Panchayat": {
+            "name": "Thenkurissi Grama Panchayat",
+            "wardCount": 17
+        },
+        "Thirumittacode Grama Panchayat": {
+            "name": "Thirumittacode Grama Panchayat",
+            "wardCount": 18
+        },
+        "Thiruvegappura Grama Panchayat": {
+            "name": "Thiruvegappura Grama Panchayat",
+            "wardCount": 18
+        },
+        "Trikkaderi Grama Panchayat": {
+            "name": "Trikkaderi Grama Panchayat",
+            "wardCount": 16
+        },
+        "Trithala Block Panchayat": {
+            "name": "Trithala Block Panchayat",
+            "wardCount": 14
+        },
+        "Trithala Grama Panchayat": {
+            "name": "Trithala Grama Panchayat",
+            "wardCount": 17
+        },
+        "Vadakarapathy Grama Panchayat": {
+            "name": "Vadakarapathy Grama Panchayat",
+            "wardCount": 17
+        },
+        "Vadakkencheri Grama Panchayat": {
+            "name": "Vadakkencheri Grama Panchayat",
+            "wardCount": 20
+        },
+        "Vadavannur Grama Panchayat": {
+            "name": "Vadavannur Grama Panchayat",
+            "wardCount": 13
+        },
+        "Vallapuzha Grama Panchayat": {
+            "name": "Vallapuzha Grama Panchayat",
+            "wardCount": 16
+        },
+        "Vandazhy Grama Panchayat": {
+            "name": "Vandazhy Grama Panchayat",
+            "wardCount": 19
+        },
+        "Vaniamkulam Grama Panchayat": {
+            "name": "Vaniamkulam Grama Panchayat",
+            "wardCount": 18
+        },
+        "Vellinezhi Grama Panchayat": {
+            "name": "Vellinezhi Grama Panchayat",
+            "wardCount": 13
+        },
+        "Vilayur Grama Panchayat": {
+            "name": "Vilayur Grama Panchayat",
+            "wardCount": 15
+        }
+    },
+    "Malappuram": {
+        "Alamkode Grama Panchayat": {
+            "name": "Alamkode Grama Panchayat",
+            "wardCount": 19
+        },
+        "Aliparamba Grama Panchayat": {
+            "name": "Aliparamba Grama Panchayat",
+            "wardCount": 21
+        },
+        "Amarambalam Grama Panchayat": {
+            "name": "Amarambalam Grama Panchayat",
+            "wardCount": 19
+        },
+        "Anakkayam Grama Panchayat": {
+            "name": "Anakkayam Grama Panchayat",
+            "wardCount": 23
+        },
+        "Angadippuram Grama Panchayat": {
+            "name": "Angadippuram Grama Panchayat",
+            "wardCount": 23
+        },
+        "Areacode Block Panchayat": {
+            "name": "Areacode Block Panchayat",
+            "wardCount": 16
+        },
+        "Areacode Grama Panchayat": {
+            "name": "Areacode Grama Panchayat",
+            "wardCount": 18
+        },
+        "ARNagar Grama Panchayat": {
+            "name": "ARNagar Grama Panchayat",
+            "wardCount": 21
+        },
+        "Athavanad Grama Panchayat": {
+            "name": "Athavanad Grama Panchayat",
+            "wardCount": 22
+        },
+        "Chaliyar Grama Panchayat": {
+            "name": "Chaliyar Grama Panchayat",
+            "wardCount": 14
+        },
+        "Cheacode Grama Panchayat": {
+            "name": "Cheacode Grama Panchayat",
+            "wardCount": 18
+        },
+        "Chelembra Grama Panchayat": {
+            "name": "Chelembra Grama Panchayat",
+            "wardCount": 18
+        },
+        "Cheriyamundam Grama Panchayat": {
+            "name": "Cheriyamundam Grama Panchayat",
+            "wardCount": 18
+        },
+        "Cherukavu Grama Panchayat": {
+            "name": "Cherukavu Grama Panchayat",
+            "wardCount": 19
+        },
+        "Chokkad Grama Panchayat": {
+            "name": "Chokkad Grama Panchayat",
+            "wardCount": 18
+        },
+        "Chungathara Grama Panchayat": {
+            "name": "Chungathara Grama Panchayat",
+            "wardCount": 20
+        },
+        "Edakkara Grama Panchayat": {
+            "name": "Edakkara Grama Panchayat",
+            "wardCount": 16
+        },
+        "Edapal Grama Panchayat": {
+            "name": "Edapal Grama Panchayat",
+            "wardCount": 19
+        },
+        "Edappatta Grama Panchayat": {
+            "name": "Edappatta Grama Panchayat",
+            "wardCount": 15
+        },
+        "Edarikode Grama Panchayat": {
+            "name": "Edarikode Grama Panchayat",
+            "wardCount": 16
+        },
+        "Edavanna Grama Panchayat": {
+            "name": "Edavanna Grama Panchayat",
+            "wardCount": 22
+        },
+        "Edayur Grama Panchayat": {
+            "name": "Edayur Grama Panchayat",
+            "wardCount": 19
+        },
+        "Elamkulam Grama Panchayat": {
+            "name": "Elamkulam Grama Panchayat",
+            "wardCount": 16
+        },
+        "Irimbiliyam Grama Panchayat": {
+            "name": "Irimbiliyam Grama Panchayat",
+            "wardCount": 17
+        },
+        "Kaladi Grama Panchayat": {
+            "name": "Kaladi Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kalikavu Block Panchayat": {
+            "name": "Kalikavu Block Panchayat",
+            "wardCount": 14
+        },
+        "Kalikavu Grama Panchayat": {
+            "name": "Kalikavu Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kalpakanchery Grama Panchayat": {
+            "name": "Kalpakanchery Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kannamangalam Grama Panchayat": {
+            "name": "Kannamangalam Grama Panchayat",
+            "wardCount": 20
+        },
+        "Karulai Grama Panchayat": {
+            "name": "Karulai Grama Panchayat",
+            "wardCount": 15
+        },
+        "Karuvarakundu Grama Panchayat": {
+            "name": "Karuvarakundu Grama Panchayat",
+            "wardCount": 21
+        },
+        "Kavanur Grama Panchayat": {
+            "name": "Kavanur Grama Panchayat",
+            "wardCount": 19
+        },
+        "Keezhattur Grama Panchayat": {
+            "name": "Keezhattur Grama Panchayat",
+            "wardCount": 19
+        },
+        "Keezhuparamba Grama Panchayat": {
+            "name": "Keezhuparamba Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kodur Grama Panchayat": {
+            "name": "Kodur Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kondotty Block Panchayat": {
+            "name": "Kondotty Block Panchayat",
+            "wardCount": 17
+        },
+        "Kondotty Municipality": {
+            "name": "Kondotty Municipality",
+            "wardCount": 40
+        },
+        "Koottilangadi Grama Panchayat": {
+            "name": "Koottilangadi Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kottakkal Municipality": {
+            "name": "Kottakkal Municipality",
+            "wardCount": 32
+        },
+        "Kuruva Grama Panchayat": {
+            "name": "Kuruva Grama Panchayat",
+            "wardCount": 22
+        },
+        "Kuttippuram Block Panchayat": {
+            "name": "Kuttippuram Block Panchayat",
+            "wardCount": 16
+        },
+        "Kuttippuram Grama Panchayat": {
+            "name": "Kuttippuram Grama Panchayat",
+            "wardCount": 23
+        },
+        "Kuzhimanna Grama Panchayat": {
+            "name": "Kuzhimanna Grama Panchayat",
+            "wardCount": 18
+        },
+        "Makkaraparamba Grama Panchayat": {
+            "name": "Makkaraparamba Grama Panchayat",
+            "wardCount": 13
+        },
+        "Malappuram Block Panchayat": {
+            "name": "Malappuram Block Panchayat",
+            "wardCount": 15
+        },
+        "Malappuram District Panchayat": {
+            "name": "Malappuram District Panchayat",
+            "wardCount": 32
+        },
+        "Malappuram Municipality": {
+            "name": "Malappuram Municipality",
+            "wardCount": 40
+        },
+        "Mampad Grama Panchayat": {
+            "name": "Mampad Grama Panchayat",
+            "wardCount": 19
+        },
+        "Mangalam Grama Panchayat": {
+            "name": "Mangalam Grama Panchayat",
+            "wardCount": 20
+        },
+        "Manjeri Municipality": {
+            "name": "Manjeri Municipality",
+            "wardCount": 50
+        },
+        "Mankada Block Panchayat": {
+            "name": "Mankada Block Panchayat",
+            "wardCount": 13
+        },
+        "Mankada Grama Panchayat": {
+            "name": "Mankada Grama Panchayat",
+            "wardCount": 18
+        },
+        "Marakkara Grama Panchayat": {
+            "name": "Marakkara Grama Panchayat",
+            "wardCount": 20
+        },
+        "Maranchery Grama Panchayat": {
+            "name": "Maranchery Grama Panchayat",
+            "wardCount": 19
+        },
+        "Melattur Grama Panchayat": {
+            "name": "Melattur Grama Panchayat",
+            "wardCount": 16
+        },
+        "Moonniyur Grama Panchayat": {
+            "name": "Moonniyur Grama Panchayat",
+            "wardCount": 23
+        },
+        "Moorkkanad Grama Panchayat": {
+            "name": "Moorkkanad Grama Panchayat",
+            "wardCount": 19
+        },
+        "Moothedam Grama Panchayat": {
+            "name": "Moothedam Grama Panchayat",
+            "wardCount": 15
+        },
+        "Morayur Grama Panchayat": {
+            "name": "Morayur Grama Panchayat",
+            "wardCount": 18
+        },
+        "Muthuvalloor Grama Panchayat": {
+            "name": "Muthuvalloor Grama Panchayat",
+            "wardCount": 15
+        },
+        "Nannambra Grama Panchayat": {
+            "name": "Nannambra Grama Panchayat",
+            "wardCount": 21
+        },
+        "Nannammukku Grama Panchayat": {
+            "name": "Nannammukku Grama Panchayat",
+            "wardCount": 17
+        },
+        "Nilambur Municipality": {
+            "name": "Nilambur Municipality",
+            "wardCount": 33
+        },
+        "Nilambur Block Panchayat": {
+            "name": "Nilambur Block Panchayat",
+            "wardCount": 13
+        },
+        "Niramaruthur Grama Panchayat": {
+            "name": "Niramaruthur Grama Panchayat",
+            "wardCount": 17
+        },
+        "Oorakam Grama Panchayat": {
+            "name": "Oorakam Grama Panchayat",
+            "wardCount": 17
+        },
+        "Othukkungal Grama Panchayat": {
+            "name": "Othukkungal Grama Panchayat",
+            "wardCount": 20
+        },
+        "Ozhur Grama Panchayat": {
+            "name": "Ozhur Grama Panchayat",
+            "wardCount": 18
+        },
+        "Pallikkal Grama Panchayat": {
+            "name": "Pallikkal Grama Panchayat",
+            "wardCount": 22
+        },
+        "Pandikkad Grama Panchayat": {
+            "name": "Pandikkad Grama Panchayat",
+            "wardCount": 23
+        },
+        "Parappanangadi Municipality": {
+            "name": "Parappanangadi Municipality",
+            "wardCount": 45
+        },
+        "Parappur Grama Panchayat": {
+            "name": "Parappur Grama Panchayat",
+            "wardCount": 19
+        },
+        "Perinthalmanna Block Panchayat": {
+            "name": "Perinthalmanna Block Panchayat",
+            "wardCount": 17
+        },
+        "Perinthalmanna Municipality": {
+            "name": "Perinthalmanna Municipality",
+            "wardCount": 34
+        },
+        "Perumanna Klari Grama Panchayat": {
+            "name": "Perumanna Klari Grama Panchayat",
+            "wardCount": 16
+        },
+        "Perumpadappa Block Panchayat": {
+            "name": "Perumpadappa Block Panchayat",
+            "wardCount": 13
+        },
+        "Perumpadappa Grama Panchayat": {
+            "name": "Perumpadappa Grama Panchayat",
+            "wardCount": 18
+        },
+        "Peruvalloor Grama Panchayat": {
+            "name": "Peruvalloor Grama Panchayat",
+            "wardCount": 19
+        },
+        "Ponmala Grama Panchayat": {
+            "name": "Ponmala Grama Panchayat",
+            "wardCount": 18
+        },
+        "Ponmundam Grama Panchayat": {
+            "name": "Ponmundam Grama Panchayat",
+            "wardCount": 16
+        },
+        "Ponnani Block Panchayat": {
+            "name": "Ponnani Block Panchayat",
+            "wardCount": 13
+        },
+        "Ponnani Municipality": {
+            "name": "Ponnani Municipality",
+            "wardCount": 51
+        },
+        "Pookkottur Grama Panchayat": {
+            "name": "Pookkottur Grama Panchayat",
+            "wardCount": 19
+        },
+        "Porur Grama Panchayat": {
+            "name": "Porur Grama Panchayat",
+            "wardCount": 17
+        },
+        "Pothukallu Grama Panchayat": {
+            "name": "Pothukallu Grama Panchayat",
+            "wardCount": 17
+        },
+        "Pulamanthole Grama Panchayat": {
+            "name": "Pulamanthole Grama Panchayat",
+            "wardCount": 20
+        },
+        "Pulikkal Grama Panchayat": {
+            "name": "Pulikkal Grama Panchayat",
+            "wardCount": 21
+        },
+        "Pulpatta Grama Panchayat": {
+            "name": "Pulpatta Grama Panchayat",
+            "wardCount": 21
+        },
+        "Purathur Grama Panchayat": {
+            "name": "Purathur Grama Panchayat",
+            "wardCount": 19
+        },
+        "Puzhakkattiri Grama Panchayat": {
+            "name": "Puzhakkattiri Grama Panchayat",
+            "wardCount": 17
+        },
+        "Tanalur Grama Panchayat": {
+            "name": "Tanalur Grama Panchayat",
+            "wardCount": 23
+        },
+        "Tanur Block Panchayat": {
+            "name": "Tanur Block Panchayat",
+            "wardCount": 16
+        },
+        "Tanur Municipality": {
+            "name": "Tanur Municipality",
+            "wardCount": 44
+        },
+        "Tavanur Grama Panchayat": {
+            "name": "Tavanur Grama Panchayat",
+            "wardCount": 19
+        },
+        "Thalakkad Grama Panchayat": {
+            "name": "Thalakkad Grama Panchayat",
+            "wardCount": 19
+        },
+        "Thazhekkode Grama Panchayat": {
+            "name": "Thazhekkode Grama Panchayat",
+            "wardCount": 21
+        },
+        "Thenhipalam Grama Panchayat": {
+            "name": "Thenhipalam Grama Panchayat",
+            "wardCount": 17
+        },
+        "Thennala Grama Panchayat": {
+            "name": "Thennala Grama Panchayat",
+            "wardCount": 17
+        },
+        "Thirunavaya Grama Panchayat": {
+            "name": "Thirunavaya Grama Panchayat",
+            "wardCount": 23
+        },
+        "Thiruvali Grama Panchayat": {
+            "name": "Thiruvali Grama Panchayat",
+            "wardCount": 16
+        },
+        "Thrikkalangodu Grama Panchayat": {
+            "name": "Thrikkalangodu Grama Panchayat",
+            "wardCount": 23
+        },
+        "Tirur Block Panchayat": {
+            "name": "Tirur Block Panchayat",
+            "wardCount": 15
+        },
+        "Tirur Municipality": {
+            "name": "Tirur Municipality",
+            "wardCount": 38
+        },
+        "Tirurangadi Block Panchayat": {
+            "name": "Tirurangadi Block Panchayat",
+            "wardCount": 15
+        },
+        "Tirurangadi Municipality": {
+            "name": "Tirurangadi Municipality",
+            "wardCount": 39
+        },
+        "Triprangode Grama Panchayat": {
+            "name": "Triprangode Grama Panchayat",
+            "wardCount": 21
+        },
+        "Tuvvur Grama Panchayat": {
+            "name": "Tuvvur Grama Panchayat",
+            "wardCount": 17
+        },
+        "Urangattiri Grama Panchayat": {
+            "name": "Urangattiri Grama Panchayat",
+            "wardCount": 21
+        },
+        "Valanchery Municipality": {
+            "name": "Valanchery Municipality",
+            "wardCount": 33
+        },
+        "Valavannur Grama Panchayat": {
+            "name": "Valavannur Grama Panchayat",
+            "wardCount": 19
+        },
+        "Vallikkunnu Grama Panchayat": {
+            "name": "Vallikkunnu Grama Panchayat",
+            "wardCount": 23
+        },
+        "Vattamkulam Grama Panchayat": {
+            "name": "Vattamkulam Grama Panchayat",
+            "wardCount": 19
+        },
+        "Vazhakkad Grama Panchayat": {
+            "name": "Vazhakkad Grama Panchayat",
+            "wardCount": 19
+        },
+        "Vazhayur Grama Panchayat": {
+            "name": "Vazhayur Grama Panchayat",
+            "wardCount": 17
+        },
+        "Vazhikkadavu Grama Panchayat": {
+            "name": "Vazhikkadavu Grama Panchayat",
+            "wardCount": 23
+        },
+        "Veliancode Grama Panchayat": {
+            "name": "Veliancode Grama Panchayat",
+            "wardCount": 18
+        },
+        "Vengara Block Panchayat": {
+            "name": "Vengara Block Panchayat",
+            "wardCount": 15
+        },
+        "Vengara Grama Panchayat": {
+            "name": "Vengara Grama Panchayat",
+            "wardCount": 23
+        },
+        "Vettathur Grama Panchayat": {
+            "name": "Vettathur Grama Panchayat",
+            "wardCount": 16
+        },
+        "Vettom Grama Panchayat": {
+            "name": "Vettom Grama Panchayat",
+            "wardCount": 20
+        },
+        "Wandoor Block Panchayat": {
+            "name": "Wandoor Block Panchayat",
+            "wardCount": 15
+        },
+        "Wandoor Grama Panchayat": {
+            "name": "Wandoor Grama Panchayat",
+            "wardCount": 23
+        }
+    },
+    "Kozhikode": {
+        "Arikkulam Grama Panchayat": {
+            "name": "Arikkulam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Atholi Grama Panchayat": {
+            "name": "Atholi Grama Panchayat",
+            "wardCount": 17
+        },
+        "Ayancheri Grama Panchayat": {
+            "name": "Ayancheri Grama Panchayat",
+            "wardCount": 17
+        },
+        "Azhiyur Grama Panchayat": {
+            "name": "Azhiyur Grama Panchayat",
+            "wardCount": 18
+        },
+        "Balussery Block Panchayat": {
+            "name": "Balussery Block Panchayat",
+            "wardCount": 15
+        },
+        "Balussery Grama Panchayat": {
+            "name": "Balussery Grama Panchayat",
+            "wardCount": 17
+        },
+        "Chakkittapara Grama Panchayat": {
+            "name": "Chakkittapara Grama Panchayat",
+            "wardCount": 15
+        },
+        "Changaroth Grama Panchayat": {
+            "name": "Changaroth Grama Panchayat",
+            "wardCount": 19
+        },
+        "Chathamangalam Grama Panchayat": {
+            "name": "Chathamangalam Grama Panchayat",
+            "wardCount": 23
+        },
+        "Chekkiad Grama Panchayat": {
+            "name": "Chekkiad Grama Panchayat",
+            "wardCount": 15
+        },
+        "Chelannur Block Panchayat": {
+            "name": "Chelannur Block Panchayat",
+            "wardCount": 13
+        },
+        "Chelannur Grama Panchayat": {
+            "name": "Chelannur Grama Panchayat",
+            "wardCount": 21
+        },
+        "Chemanchery Grama Panchayat": {
+            "name": "Chemanchery Grama Panchayat",
+            "wardCount": 20
+        },
+        "Chengottukavu Grama Panchayat": {
+            "name": "Chengottukavu Grama Panchayat",
+            "wardCount": 17
+        },
+        "Cheruvannur Grama Panchayat": {
+            "name": "Cheruvannur Grama Panchayat",
+            "wardCount": 15
+        },
+        "Chorode Grama Panchayat": {
+            "name": "Chorode Grama Panchayat",
+            "wardCount": 21
+        },
+        "Edacheri Grama Panchayat": {
+            "name": "Edacheri Grama Panchayat",
+            "wardCount": 17
+        },
+        "Eramala Grama Panchayat": {
+            "name": "Eramala Grama Panchayat",
+            "wardCount": 19
+        },
+        "Feroke Municipality": {
+            "name": "Feroke Municipality",
+            "wardCount": 38
+        },
+        "Kadalundi Grama Panchayat": {
+            "name": "Kadalundi Grama Panchayat",
+            "wardCount": 22
+        },
+        "Kakkodi Grama Panchayat": {
+            "name": "Kakkodi Grama Panchayat",
+            "wardCount": 21
+        },
+        "Kakkur Grama Panchayat": {
+            "name": "Kakkur Grama Panchayat",
+            "wardCount": 15
+        },
+        "Karassery Grama Panchayat": {
+            "name": "Karassery Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kattippara Grama Panchayat": {
+            "name": "Kattippara Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kavilumpara Grama Panchayat": {
+            "name": "Kavilumpara Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kayakkody Grama Panchayat": {
+            "name": "Kayakkody Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kayanna Grama Panchayat": {
+            "name": "Kayanna Grama Panchayat",
+            "wardCount": 13
+        },
+        "Keezhariyur Grama Panchayat": {
+            "name": "Keezhariyur Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kizhakkoth Grama Panchayat": {
+            "name": "Kizhakkoth Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kodanchery Grama Panchayat": {
+            "name": "Kodanchery Grama Panchayat",
+            "wardCount": 21
+        },
+        "Kodiyathur Grama Panchayat": {
+            "name": "Kodiyathur Grama Panchayat",
+            "wardCount": 16
+        },
+        "Koduvally Block Panchayat": {
+            "name": "Koduvally Block Panchayat",
+            "wardCount": 18
+        },
+        "Koduvally Municipality": {
+            "name": "Koduvally Municipality",
+            "wardCount": 36
+        },
+        "Koodaranhi Grama Panchayat": {
+            "name": "Koodaranhi Grama Panchayat",
+            "wardCount": 14
+        },
+        "Koorachundu Grama Panchayat": {
+            "name": "Koorachundu Grama Panchayat",
+            "wardCount": 13
+        },
+        "Koothali Grama Panchayat": {
+            "name": "Koothali Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kottur Grama Panchayat": {
+            "name": "Kottur Grama Panchayat",
+            "wardCount": 19
+        },
+        "Koyilandy Municipality": {
+            "name": "Koyilandy Municipality",
+            "wardCount": 44
+        },
+        "Kozhikode Block Panchayat": {
+            "name": "Kozhikode Block Panchayat",
+            "wardCount": 13
+        },
+        "Kozhikode Corporation": {
+            "name": "Kozhikode Corporation",
+            "wardCount": 75
+        },
+        "Kozhikode District Panchayat": {
+            "name": "Kozhikode District Panchayat",
+            "wardCount": 27
+        },
+        "Kunnamangalam Block Panchayat": {
+            "name": "Kunnamangalam Block Panchayat",
+            "wardCount": 19
+        },
+        "Kunnamangalam Grama Panchayat": {
+            "name": "Kunnamangalam Grama Panchayat",
+            "wardCount": 23
+        },
+        "Kunnummal Block Panchayat": {
+            "name": "Kunnummal Block Panchayat",
+            "wardCount": 13
+        },
+        "Kunnummal Grama Panchayat": {
+            "name": "Kunnummal Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kuruvattoor Grama Panchayat": {
+            "name": "Kuruvattoor Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kuttiadi Grama Panchayat": {
+            "name": "Kuttiadi Grama Panchayat",
+            "wardCount": 14
+        },
+        "Madavoor Grama Panchayat": {
+            "name": "Madavoor Grama Panchayat",
+            "wardCount": 17
+        },
+        "Maniyur Grama Panchayat": {
+            "name": "Maniyur Grama Panchayat",
+            "wardCount": 21
+        },
+        "Maruthonkara Grama Panchayat": {
+            "name": "Maruthonkara Grama Panchayat",
+            "wardCount": 14
+        },
+        "Mavoor Grama Panchayat": {
+            "name": "Mavoor Grama Panchayat",
+            "wardCount": 18
+        },
+        "Melady Block Panchayat": {
+            "name": "Melady Block Panchayat",
+            "wardCount": 13
+        },
+        "Meppayur Grama Panchayat": {
+            "name": "Meppayur Grama Panchayat",
+            "wardCount": 17
+        },
+        "Moodadi Grama Panchayat": {
+            "name": "Moodadi Grama Panchayat",
+            "wardCount": 18
+        },
+        "Mukkam Municipality": {
+            "name": "Mukkam Municipality",
+            "wardCount": 33
+        },
+        "Nadapuram Grama Panchayat": {
+            "name": "Nadapuram Grama Panchayat",
+            "wardCount": 22
+        },
+        "Naduvannur Grama Panchayat": {
+            "name": "Naduvannur Grama Panchayat",
+            "wardCount": 16
+        },
+        "Nanminda Grama Panchayat": {
+            "name": "Nanminda Grama Panchayat",
+            "wardCount": 17
+        },
+        "Narikunni Grama Panchayat": {
+            "name": "Narikunni Grama Panchayat",
+            "wardCount": 15
+        },
+        "Narippatta Grama Panchayat": {
+            "name": "Narippatta Grama Panchayat",
+            "wardCount": 17
+        },
+        "Nochad Grama Panchayat": {
+            "name": "Nochad Grama Panchayat",
+            "wardCount": 17
+        },
+        "Olavanna Grama Panchayat": {
+            "name": "Olavanna Grama Panchayat",
+            "wardCount": 23
+        },
+        "Omassery Grama Panchayat": {
+            "name": "Omassery Grama Panchayat",
+            "wardCount": 19
+        },
+        "Onchiyam Grama Panchayat": {
+            "name": "Onchiyam Grama Panchayat",
+            "wardCount": 17
+        },
+        "Panangad Grama Panchayat": {
+            "name": "Panangad Grama Panchayat",
+            "wardCount": 20
+        },
+        "Panthalayani Block Panchayat": {
+            "name": "Panthalayani Block Panchayat",
+            "wardCount": 13
+        },
+        "Payyoli Municipality": {
+            "name": "Payyoli Municipality",
+            "wardCount": 36
+        },
+        "Perambra Block Panchayat": {
+            "name": "Perambra Block Panchayat",
+            "wardCount": 13
+        },
+        "Perambra Grama Panchayat": {
+            "name": "Perambra Grama Panchayat",
+            "wardCount": 19
+        },
+        "Perumanna Grama Panchayat": {
+            "name": "Perumanna Grama Panchayat",
+            "wardCount": 18
+        },
+        "Peruvayal Grama Panchayat": {
+            "name": "Peruvayal Grama Panchayat",
+            "wardCount": 22
+        },
+        "Puduppady Grama Panchayat": {
+            "name": "Puduppady Grama Panchayat",
+            "wardCount": 21
+        },
+        "Purameri Grama Panchayat": {
+            "name": "Purameri Grama Panchayat",
+            "wardCount": 17
+        },
+        "Ramanattukara Municipality": {
+            "name": "Ramanattukara Municipality",
+            "wardCount": 31
+        },
+        "Thalakulathur Grama Panchayat": {
+            "name": "Thalakulathur Grama Panchayat",
+            "wardCount": 17
+        },
+        "Thamarassery Grama Panchayat": {
+            "name": "Thamarassery Grama Panchayat",
+            "wardCount": 19
+        },
+        "Thikkodi Grama Panchayat": {
+            "name": "Thikkodi Grama Panchayat",
+            "wardCount": 17
+        },
+        "Thiruvallur Grama Panchayat": {
+            "name": "Thiruvallur Grama Panchayat",
+            "wardCount": 20
+        },
+        "Thiruvambadi Grama Panchayat": {
+            "name": "Thiruvambadi Grama Panchayat",
+            "wardCount": 17
+        },
+        "Thodannur Block Panchayat": {
+            "name": "Thodannur Block Panchayat",
+            "wardCount": 13
+        },
+        "Thurayur Grama Panchayat": {
+            "name": "Thurayur Grama Panchayat",
+            "wardCount": 13
+        },
+        "Tuneri Block Panchayat": {
+            "name": "Tuneri Block Panchayat",
+            "wardCount": 13
+        },
+        "Tuneri Grama Panchayat": {
+            "name": "Tuneri Grama Panchayat",
+            "wardCount": 15
+        },
+        "Ulliyeri Grama Panchayat": {
+            "name": "Ulliyeri Grama Panchayat",
+            "wardCount": 19
+        },
+        "Unnikulum Grama Panchayat": {
+            "name": "Unnikulum Grama Panchayat",
+            "wardCount": 23
+        },
+        "Vadakara Block Panchayat": {
+            "name": "Vadakara Block Panchayat",
+            "wardCount": 13
+        },
+        "Vadakara Municipality": {
+            "name": "Vadakara Municipality",
+            "wardCount": 47
+        },
+        "Valayam Grama Panchayat": {
+            "name": "Valayam Grama Panchayat",
+            "wardCount": 14
+        },
+        "Vanimal Grama Panchayat": {
+            "name": "Vanimal Grama Panchayat",
+            "wardCount": 16
+        },
+        "Velom Grama Panchayat": {
+            "name": "Velom Grama Panchayat",
+            "wardCount": 17
+        },
+        "Villiappally Grama Panchayat": {
+            "name": "Villiappally Grama Panchayat",
+            "wardCount": 19
+        }
+    },
+    "Wayanad": {
+        "Ambalavayal Grama Panchayat": {
+            "name": "Ambalavayal Grama Panchayat",
+            "wardCount": 20
+        },
+        "Edavaka Grama Panchayat": {
+            "name": "Edavaka Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kalpetta Block Panchayat": {
+            "name": "Kalpetta Block Panchayat",
+            "wardCount": 14
+        },
+        "Kalpetta Municipality": {
+            "name": "Kalpetta Municipality",
+            "wardCount": 28
+        },
+        "Kaniyambetta Grama Panchayat": {
+            "name": "Kaniyambetta Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kottathara Grama Panchayat": {
+            "name": "Kottathara Grama Panchayat",
+            "wardCount": 13
+        },
+        "Mananthavady Block Panchayat": {
+            "name": "Mananthavady Block Panchayat",
+            "wardCount": 13
+        },
+        "Mananthavady Municipality": {
+            "name": "Mananthavady Municipality",
+            "wardCount": 36
+        },
+        "Meenangadi Grama Panchayat": {
+            "name": "Meenangadi Grama Panchayat",
+            "wardCount": 19
+        },
+        "Meppadi Grama Panchayat": {
+            "name": "Meppadi Grama Panchayat",
+            "wardCount": 22
+        },
+        "Mullankolly Grama Panchayat": {
+            "name": "Mullankolly Grama Panchayat",
+            "wardCount": 18
+        },
+        "Muppainad Grama Panchayat": {
+            "name": "Muppainad Grama Panchayat",
+            "wardCount": 16
+        },
+        "Muttil Grama Panchayat": {
+            "name": "Muttil Grama Panchayat",
+            "wardCount": 19
+        },
+        "Nenmeni Grama Panchayat": {
+            "name": "Nenmeni Grama Panchayat",
+            "wardCount": 23
+        },
+        "Noolpuzha Grama Panchayat": {
+            "name": "Noolpuzha Grama Panchayat",
+            "wardCount": 17
+        },
+        "Padinharathara Grama Panchayat": {
+            "name": "Padinharathara Grama Panchayat",
+            "wardCount": 16
+        },
+        "Panamaram Block Panchayat": {
+            "name": "Panamaram Block Panchayat",
+            "wardCount": 14
+        },
+        "Panamaram Grama Panchayat": {
+            "name": "Panamaram Grama Panchayat",
+            "wardCount": 23
+        },
+        "Poothadi Grama Panchayat": {
+            "name": "Poothadi Grama Panchayat",
+            "wardCount": 22
+        },
+        "Pozhuthana Grama Panchayat": {
+            "name": "Pozhuthana Grama Panchayat",
+            "wardCount": 13
+        },
+        "Pulpally Grama Panchayat": {
+            "name": "Pulpally Grama Panchayat",
+            "wardCount": 20
+        },
+        "Sulthan Bathery Block Panchayat": {
+            "name": "Sulthan Bathery Block Panchayat",
+            "wardCount": 13
+        },
+        "Sulthan Bathery Municipality": {
+            "name": "Sulthan Bathery Municipality",
+            "wardCount": 35
+        },
+        "Thariode Grama Panchayat": {
+            "name": "Thariode Grama Panchayat",
+            "wardCount": 13
+        },
+        "Thavinhal Grama Panchayat": {
+            "name": "Thavinhal Grama Panchayat",
+            "wardCount": 22
+        },
+        "Thirunelly Grama Panchayat": {
+            "name": "Thirunelly Grama Panchayat",
+            "wardCount": 17
+        },
+        "Thondernad Grama Panchayat": {
+            "name": "Thondernad Grama Panchayat",
+            "wardCount": 15
+        },
+        "Vellamunda Grama Panchayat": {
+            "name": "Vellamunda Grama Panchayat",
+            "wardCount": 21
+        },
+        "Vengappally Grama Panchayat": {
+            "name": "Vengappally Grama Panchayat",
+            "wardCount": 13
+        },
+        "Vythiri Grama Panchayat": {
+            "name": "Vythiri Grama Panchayat",
+            "wardCount": 14
+        },
+        "Wayanad District Panchayat": {
+            "name": "Wayanad District Panchayat",
+            "wardCount": 16
+        }
+    },
+    "Kannur": {
+        "Alakode Grama Panchayat": {
+            "name": "Alakode Grama Panchayat",
+            "wardCount": 21
+        },
+        "Anjarakandy Grama Panchayat": {
+            "name": "Anjarakandy Grama Panchayat",
+            "wardCount": 15
+        },
+        "Anthoor Municipality": {
+            "name": "Anthoor Municipality",
+            "wardCount": 28
+        },
+        "Aralam Grama Panchayat": {
+            "name": "Aralam Grama Panchayat",
+            "wardCount": 17
+        },
+        "Ayyankunnu Grama Panchayat": {
+            "name": "Ayyankunnu Grama Panchayat",
+            "wardCount": 16
+        },
+        "Azhikode Grama Panchayat": {
+            "name": "Azhikode Grama Panchayat",
+            "wardCount": 23
+        },
+        "Chapparapadava Grama Panchayat": {
+            "name": "Chapparapadava Grama Panchayat",
+            "wardCount": 18
+        },
+        "Chembilode Grama Panchayat": {
+            "name": "Chembilode Grama Panchayat",
+            "wardCount": 19
+        },
+        "Chengalayi Grama Panchayat": {
+            "name": "Chengalayi Grama Panchayat",
+            "wardCount": 18
+        },
+        "Cherukunnu Grama Panchayat": {
+            "name": "Cherukunnu Grama Panchayat",
+            "wardCount": 13
+        },
+        "Cherupuzha Grama Panchayat": {
+            "name": "Cherupuzha Grama Panchayat",
+            "wardCount": 19
+        },
+        "Cheruthazham Grama Panchayat": {
+            "name": "Cheruthazham Grama Panchayat",
+            "wardCount": 17
+        },
+        "Chirakkal Grama Panchayat": {
+            "name": "Chirakkal Grama Panchayat",
+            "wardCount": 23
+        },
+        "Chittariparamba Grama Panchayat": {
+            "name": "Chittariparamba Grama Panchayat",
+            "wardCount": 15
+        },
+        "Chokli Grama Panchayat": {
+            "name": "Chokli Grama Panchayat",
+            "wardCount": 17
+        },
+        "Dharmadam Grama Panchayat": {
+            "name": "Dharmadam Grama Panchayat",
+            "wardCount": 18
+        },
+        "Edakkad Block Panchayat": {
+            "name": "Edakkad Block Panchayat",
+            "wardCount": 13
+        },
+        "Eramam Kuttur Grama Panchayat": {
+            "name": "Eramam Kuttur Grama Panchayat",
+            "wardCount": 17
+        },
+        "Eranholi Grama Panchayat": {
+            "name": "Eranholi Grama Panchayat",
+            "wardCount": 16
+        },
+        "Eruvessy Grama Panchayat": {
+            "name": "Eruvessy Grama Panchayat",
+            "wardCount": 14
+        },
+        "Ezhome Grama Panchayat": {
+            "name": "Ezhome Grama Panchayat",
+            "wardCount": 14
+        },
+        "Irikkur Block Panchayat": {
+            "name": "Irikkur Block Panchayat",
+            "wardCount": 14
+        },
+        "Irikkur Grama Panchayat": {
+            "name": "Irikkur Grama Panchayat",
+            "wardCount": 13
+        },
+        "Iritty Block Panchayat": {
+            "name": "Iritty Block Panchayat",
+            "wardCount": 13
+        },
+        "Iritty Municipality": {
+            "name": "Iritty Municipality",
+            "wardCount": 33
+        },
+        "Kadambur Grama Panchayat": {
+            "name": "Kadambur Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kadannappally Panapuzha Grama Panchayat": {
+            "name": "Kadannappally Panapuzha Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kadirur Grama Panchayat": {
+            "name": "Kadirur Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kalliasseri Block Panchayat": {
+            "name": "Kalliasseri Block Panchayat",
+            "wardCount": 14
+        },
+        "Kalliasseri Grama Panchayat": {
+            "name": "Kalliasseri Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kanichar Grama Panchayat": {
+            "name": "Kanichar Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kankol - Alappadamba Grama Panchayat": {
+            "name": "Kankol - Alappadamba Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kannapuram Grama Panchayat": {
+            "name": "Kannapuram Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kannur Block Panchayat": {
+            "name": "Kannur Block Panchayat",
+            "wardCount": 13
+        },
+        "Kannur Corporation": {
+            "name": "Kannur Corporation",
+            "wardCount": 55
+        },
+        "Kannur District Panchayat": {
+            "name": "Kannur District Panchayat",
+            "wardCount": 24
+        },
+        "Karivellur Peralam Grama Panchayat": {
+            "name": "Karivellur Peralam Grama Panchayat",
+            "wardCount": 14
+        },
+        "Keezhallur Grama Panchayat": {
+            "name": "Keezhallur Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kelakam Grama Panchayat": {
+            "name": "Kelakam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kolachery Grama Panchayat": {
+            "name": "Kolachery Grama Panchayat",
+            "wardCount": 17
+        },
+        "Kolayad Grama Panchayat": {
+            "name": "Kolayad Grama Panchayat",
+            "wardCount": 14
+        },
+        "Koodali Grama Panchayat": {
+            "name": "Koodali Grama Panchayat",
+            "wardCount": 18
+        },
+        "Kottayam Grama Panchayat": {
+            "name": "Kottayam Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kottiyoor Grama Panchayat": {
+            "name": "Kottiyoor Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kunhimangalam Grama Panchayat": {
+            "name": "Kunhimangalam Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kunnothuparamba Grama Panchayat": {
+            "name": "Kunnothuparamba Grama Panchayat",
+            "wardCount": 21
+        },
+        "Kurumathur Grama Panchayat": {
+            "name": "Kurumathur Grama Panchayat",
+            "wardCount": 17
+        },
+        "Kuthuparamba Block Panchayat": {
+            "name": "Kuthuparamba Block Panchayat",
+            "wardCount": 13
+        },
+        "Kuthuparamba Municipality": {
+            "name": "Kuthuparamba Municipality",
+            "wardCount": 28
+        },
+        "Kuttiattoor Grama Panchayat": {
+            "name": "Kuttiattoor Grama Panchayat",
+            "wardCount": 16
+        },
+        "Madayi Grama Panchayat": {
+            "name": "Madayi Grama Panchayat",
+            "wardCount": 20
+        },
+        "Malappattam Grama Panchayat": {
+            "name": "Malappattam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Malur Grama Panchayat": {
+            "name": "Malur Grama Panchayat",
+            "wardCount": 15
+        },
+        "Mangattidam Grama Panchayat": {
+            "name": "Mangattidam Grama Panchayat",
+            "wardCount": 19
+        },
+        "Mattanur Municipality": {
+            "name": "Mattanur Municipality",
+            "wardCount": 35
+        },
+        "Mattool Grama Panchayat": {
+            "name": "Mattool Grama Panchayat",
+            "wardCount": 17
+        },
+        "Mayyil Grama Panchayat": {
+            "name": "Mayyil Grama Panchayat",
+            "wardCount": 18
+        },
+        "Mokeri Grama Panchayat": {
+            "name": "Mokeri Grama Panchayat",
+            "wardCount": 14
+        },
+        "Munderi Grama Panchayat": {
+            "name": "Munderi Grama Panchayat",
+            "wardCount": 20
+        },
+        "Muzhakkunnu Grama Panchayat": {
+            "name": "Muzhakkunnu Grama Panchayat",
+            "wardCount": 15
+        },
+        "Muzhappilangad Grama Panchayat": {
+            "name": "Muzhappilangad Grama Panchayat",
+            "wardCount": 15
+        },
+        "Naduvil Grama Panchayat": {
+            "name": "Naduvil Grama Panchayat",
+            "wardCount": 19
+        },
+        "Narath Grama Panchayat": {
+            "name": "Narath Grama Panchayat",
+            "wardCount": 17
+        },
+        "New Mahe Grama Panchayat": {
+            "name": "New Mahe Grama Panchayat",
+            "wardCount": 13
+        },
+        "Padiyoor  Grama Panchayat": {
+            "name": "Padiyoor  Grama Panchayat",
+            "wardCount": 15
+        },
+        "Panniyannur Grama Panchayat": {
+            "name": "Panniyannur Grama Panchayat",
+            "wardCount": 15
+        },
+        "Panoor Block Panchayat": {
+            "name": "Panoor Block Panchayat",
+            "wardCount": 13
+        },
+        "Panoor Municipality": {
+            "name": "Panoor Municipality",
+            "wardCount": 40
+        },
+        "Pappinisseri Grama Panchayat": {
+            "name": "Pappinisseri Grama Panchayat",
+            "wardCount": 20
+        },
+        "Pariyaram Grama Panchayat": {
+            "name": "Pariyaram Grama Panchayat",
+            "wardCount": 18
+        },
+        "Pattiam Grama Panchayat": {
+            "name": "Pattiam Grama Panchayat",
+            "wardCount": 18
+        },
+        "Pattuvam Grama Panchayat": {
+            "name": "Pattuvam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Payam Grama Panchayat": {
+            "name": "Payam Grama Panchayat",
+            "wardCount": 18
+        },
+        "Payyannur Block Panchayat": {
+            "name": "Payyannur Block Panchayat",
+            "wardCount": 13
+        },
+        "Payyannur Municipality": {
+            "name": "Payyannur Municipality",
+            "wardCount": 44
+        },
+        "Payyavoor Grama Panchayat": {
+            "name": "Payyavoor Grama Panchayat",
+            "wardCount": 16
+        },
+        "Peralassery Grama Panchayat": {
+            "name": "Peralassery Grama Panchayat",
+            "wardCount": 18
+        },
+        "Peravoor Block Panchayat": {
+            "name": "Peravoor Block Panchayat",
+            "wardCount": 13
+        },
+        "Peravoor Grama Panchayat": {
+            "name": "Peravoor Grama Panchayat",
+            "wardCount": 16
+        },
+        "Peringome Vayakkara Grama Panchayat": {
+            "name": "Peringome Vayakkara Grama Panchayat",
+            "wardCount": 16
+        },
+        "Pinarayi Grama Panchayat": {
+            "name": "Pinarayi Grama Panchayat",
+            "wardCount": 19
+        },
+        "Ramanthali Grama Panchayat": {
+            "name": "Ramanthali Grama Panchayat",
+            "wardCount": 15
+        },
+        "Sreekandapuram Municipality": {
+            "name": "Sreekandapuram Municipality",
+            "wardCount": 30
+        },
+        "Thalassery Block Panchayat": {
+            "name": "Thalassery Block Panchayat",
+            "wardCount": 14
+        },
+        "Thalassery Municipality": {
+            "name": "Thalassery Municipality",
+            "wardCount": 52
+        },
+        "Thalipparamba Block Panchayat": {
+            "name": "Thalipparamba Block Panchayat",
+            "wardCount": 16
+        },
+        "Thalipparamba Municipality": {
+            "name": "Thalipparamba Municipality",
+            "wardCount": 34
+        },
+        "Thillankery Grama Panchayat": {
+            "name": "Thillankery Grama Panchayat",
+            "wardCount": 13
+        },
+        "Triprangottoor Grama Panchayat": {
+            "name": "Triprangottoor Grama Panchayat",
+            "wardCount": 18
+        },
+        "Udayagiri Grama Panchayat": {
+            "name": "Udayagiri Grama Panchayat",
+            "wardCount": 15
+        },
+        "Ulikkal Grama Panchayat": {
+            "name": "Ulikkal Grama Panchayat",
+            "wardCount": 20
+        },
+        "Valapattanam Grama Panchayat": {
+            "name": "Valapattanam Grama Panchayat",
+            "wardCount": 13
+        },
+        "Vengad Grama Panchayat": {
+            "name": "Vengad Grama Panchayat",
+            "wardCount": 21
+        }
+    },
+    "Kasaragod": {
+        "Ajanur Grama Panchayat": {
+            "name": "Ajanur Grama Panchayat",
+            "wardCount": 23
+        },
+        "Badiadka Grama Panchayat": {
+            "name": "Badiadka Grama Panchayat",
+            "wardCount": 19
+        },
+        "Balal Grama Panchayat": {
+            "name": "Balal Grama Panchayat",
+            "wardCount": 16
+        },
+        "Bedadka Grama Panchayat": {
+            "name": "Bedadka Grama Panchayat",
+            "wardCount": 17
+        },
+        "Belloor Grama Panchayat": {
+            "name": "Belloor Grama Panchayat",
+            "wardCount": 13
+        },
+        "Chemnad Grama Panchayat": {
+            "name": "Chemnad Grama Panchayat",
+            "wardCount": 23
+        },
+        "Chengala Grama Panchayat": {
+            "name": "Chengala Grama Panchayat",
+            "wardCount": 23
+        },
+        "Cheruvathur Grama Panchayat": {
+            "name": "Cheruvathur Grama Panchayat",
+            "wardCount": 17
+        },
+        "Delampady Grama Panchayat": {
+            "name": "Delampady Grama Panchayat",
+            "wardCount": 16
+        },
+        "East Eleri Grama Panchayat": {
+            "name": "East Eleri Grama Panchayat",
+            "wardCount": 16
+        },
+        "Enmakaje Grama Panchayat": {
+            "name": "Enmakaje Grama Panchayat",
+            "wardCount": 17
+        },
+        "Kallar Grama Panchayat": {
+            "name": "Kallar Grama Panchayat",
+            "wardCount": 14
+        },
+        "Kanhangad Block Panchayat": {
+            "name": "Kanhangad Block Panchayat",
+            "wardCount": 13
+        },
+        "Kanhangad Municipality": {
+            "name": "Kanhangad Municipality",
+            "wardCount": 43
+        },
+        "Karadka Block Panchayat": {
+            "name": "Karadka Block Panchayat",
+            "wardCount": 13
+        },
+        "Karadka Grama Panchayat": {
+            "name": "Karadka Grama Panchayat",
+            "wardCount": 15
+        },
+        "Kasaragod Block Panchayat": {
+            "name": "Kasaragod Block Panchayat",
+            "wardCount": 15
+        },
+        "Kasaragod District Panchayat": {
+            "name": "Kasaragod District Panchayat",
+            "wardCount": 17
+        },
+        "Kasaragod Municipality": {
+            "name": "Kasaragod Municipality",
+            "wardCount": 38
+        },
+        "Kayyur Cheemeni Grama Panchayat": {
+            "name": "Kayyur Cheemeni Grama Panchayat",
+            "wardCount": 16
+        },
+        "Kinanoor - Karinthalam Grama Panchayat": {
+            "name": "Kinanoor - Karinthalam Grama Panchayat",
+            "wardCount": 17
+        },
+        "KodomBelur Grama Panchayat": {
+            "name": "KodomBelur Grama Panchayat",
+            "wardCount": 19
+        },
+        "Kumbadaje Grama Panchayat": {
+            "name": "Kumbadaje Grama Panchayat",
+            "wardCount": 13
+        },
+        "Kumbla Grama Panchayat": {
+            "name": "Kumbla Grama Panchayat",
+            "wardCount": 23
+        },
+        "Kuttikol Grama Panchayat": {
+            "name": "Kuttikol Grama Panchayat",
+            "wardCount": 16
+        },
+        "Madhur Grama Panchayat": {
+            "name": "Madhur Grama Panchayat",
+            "wardCount": 20
+        },
+        "Madikai Grama Panchayat": {
+            "name": "Madikai Grama Panchayat",
+            "wardCount": 15
+        },
+        "Mangalpady Grama Panchayat": {
+            "name": "Mangalpady Grama Panchayat",
+            "wardCount": 23
+        },
+        "Manjeshwar Block Panchayat": {
+            "name": "Manjeshwar Block Panchayat",
+            "wardCount": 15
+        },
+        "Manjeshwar Grama Panchayat": {
+            "name": "Manjeshwar Grama Panchayat",
+            "wardCount": 21
+        },
+        "Meenja Grama Panchayat": {
+            "name": "Meenja Grama Panchayat",
+            "wardCount": 15
+        },
+        "MogralPuthur Grama Panchayat": {
+            "name": "MogralPuthur Grama Panchayat",
+            "wardCount": 15
+        },
+        "Muliyar Grama Panchayat": {
+            "name": "Muliyar Grama Panchayat",
+            "wardCount": 15
+        },
+        "Nileshwar Municipality": {
+            "name": "Nileshwar Municipality",
+            "wardCount": 32
+        },
+        "Nileshwar Block Panchayat": {
+            "name": "Nileshwar Block Panchayat",
+            "wardCount": 13
+        },
+        "Padne Grama Panchayat": {
+            "name": "Padne Grama Panchayat",
+            "wardCount": 15
+        },
+        "Paivalike Grama Panchayat": {
+            "name": "Paivalike Grama Panchayat",
+            "wardCount": 19
+        },
+        "Pallikere Grama Panchayat": {
+            "name": "Pallikere Grama Panchayat",
+            "wardCount": 22
+        },
+        "Panathady Grama Panchayat": {
+            "name": "Panathady Grama Panchayat",
+            "wardCount": 15
+        },
+        "Parappa Block Panchayat": {
+            "name": "Parappa Block Panchayat",
+            "wardCount": 14
+        },
+        "Pilicode Grama Panchayat": {
+            "name": "Pilicode Grama Panchayat",
+            "wardCount": 16
+        },
+        "PullurPeriya Grama Panchayat": {
+            "name": "PullurPeriya Grama Panchayat",
+            "wardCount": 17
+        },
+        "Puthige Grama Panchayat": {
+            "name": "Puthige Grama Panchayat",
+            "wardCount": 14
+        },
+        "Trikaripur Grama Panchayat": {
+            "name": "Trikaripur Grama Panchayat",
+            "wardCount": 21
+        },
+        "Udma Grama Panchayat": {
+            "name": "Udma Grama Panchayat",
+            "wardCount": 21
+        },
+        "Valiyaparamba Grama Panchayat": {
+            "name": "Valiyaparamba Grama Panchayat",
+            "wardCount": 13
+        },
+        "Vorkady Grama Panchayat": {
+            "name": "Vorkady Grama Panchayat",
+            "wardCount": 16
+        },
+        "WestEleri Grama Panchayat": {
+            "name": "WestEleri Grama Panchayat",
+            "wardCount": 18
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "Thiruvananthapuram": {
+        "name": "Thiruvananthapuram",
+        "districtid": "1"
+    },
+    "Kollam": {
+        "name": "Kollam",
+        "districtid": "2"
+    },
+    "Pathanamthitta": {
+        "name": "Pathanamthitta",
+        "districtid": "3"
+    },
+    "Alappuzha": {
+        "name": "Alappuzha",
+        "districtid": "4"
+    },
+    "Kottayam": {
+        "name": "Kottayam",
+        "districtid": "5"
+    },
+    "Idukki": {
+        "name": "Idukki",
+        "districtid": "6"
+    },
+    "Ernakulam": {
+        "name": "Ernakulam",
+        "districtid": "7"
+    },
+    "Thrissur": {
+        "name": "Thrissur",
+        "districtid": "8"
+    },
+    "Palakkad": {
+        "name": "Palakkad",
+        "districtid": "9"
+    },
+    "Malappuram": {
+        "name": "Malappuram",
+        "districtid": "10"
+    },
+    "Kozhikode": {
+        "name": "Kozhikode",
+        "districtid": "11"
+    },
+    "Wayanad": {
+        "name": "Wayanad",
+        "districtid": "12"
+    },
+    "Kannur": {
+        "name": "Kannur",
+        "districtid": "13"
+    },
+    "Kasaragod": {
+        "name": "Kasaragod",
+        "districtid": "14"
+    }
+}

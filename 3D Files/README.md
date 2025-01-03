@@ -1,16 +1,11 @@
-### To find users in a wordpress site
+# Fetching get request by setting User Agent parameter
+
+### POST METHOD
+- To add json data into some web api endpoint
+
+```python
+
 ```
-/wp-json/wp/v2/users/1
-```
-```
-/?author=1 
-```
-### To protect
-- Add security rule in cloudflare.
-```
-(http.request.full_uri contains "/wp-json")
-```
-[Refference](https://www.wp-tweaks.com/hackers-can-find-your-wordpress-username/)
 
 ### Disclaimer
 	- Please use this scripts for educational purpose only
