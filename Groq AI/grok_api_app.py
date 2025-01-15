@@ -7,7 +7,7 @@ api_key = os.getenv("GROQ_API_KEY")
 client = Groq(api_key=api_key)
 
 
-msg_content="Which is the stock exchange in india"
+msg_content="what is the capital of india"
 completion = client.chat.completions.create(
     # model="gemma-7b-it",
     model="llama3-70b-8192",
