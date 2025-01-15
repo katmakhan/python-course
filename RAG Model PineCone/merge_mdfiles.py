@@ -1,5 +1,4 @@
 import os
-
 import re
 
 def clean_markdown_file(input_file: str, output_file: str):
@@ -8,7 +7,7 @@ def clean_markdown_file(input_file: str, output_file: str):
     - Removing duplicate lines
     - Removing extra blank lines
     - Removing redundant headers (e.g., repeated section titles)
-
+    
     Args:
         input_file (str): Path to the input Markdown file.
         output_file (str): Path for the cleaned Markdown file.
@@ -38,35 +37,47 @@ def clean_markdown_file(input_file: str, output_file: str):
 
     print(f"Markdown cleaned and saved as: {output_file}")
 
-# Example usage
-clean_markdown_file(input_file="merged_content.md", output_file="cleaned_content.md")
-
-    
-def merge_markdown_files(input_folder: str, output_file: str):
+def merge_and_clean_markdown_in_batches(input_folder: str, batch_size: int):
     """
-    Merge all .md files from a folder into a single file.
+    Merge .md files from a folder into batches and clean each batch.
     
     Args:
         input_folder (str): Path to the folder containing markdown files.
-        output_file (str): Path for the merged markdown file.
+        batch_size (int): Number of files to merge per batch (e.g., 5 files per batch).
     """
     # Get list of .md files in the folder
     md_files = [f for f in os.listdir(input_folder) if f.endswith(".md")]
-    
-    with open(output_file, "w", encoding="utf-8") as outfile:
-        for file in md_files:
-            file_path = os.path.join(input_folder, file)
-            with open(file_path, "r", encoding="utf-8") as infile:
-                content = infile.read()
-                
-                # Write content and a separator between files
-                outfile.write(f"# {file}\n\n")  # Optional: Include filename as a section title
-                outfile.write(content)
-                outfile.write("\n\n---\n\n")  # Separator between files
+    num_batches = len(md_files) // batch_size + (1 if len(md_files) % batch_size else 0)
 
-    print(f"Markdown files merged into: {output_file}")
+    for batch_num in range(num_batches):
+        # Determine the files for the current batch
+        start_index = batch_num * batch_size
+        end_index = start_index + batch_size
+        batch_files = md_files[start_index:end_index]
 
-# Example usage
-merge_markdown_files(input_folder="./Dataset", output_file="./merged_content.md")
-clean_markdown_file(input_file="merged_content.md", output_file="cleaned_content.md")
+        # Create the output file name for the current batch
+        output_file = f"./Processed/merge_{batch_num + 1}.md"
+        
+        # Merge and clean the current batch
+        with open(output_file, "w", encoding="utf-8") as outfile:
+            for file in batch_files:
+                file_path = os.path.join(input_folder, file)
+                with open(file_path, "r", encoding="utf-8") as infile:
+                    content = infile.read()
 
+                    # Write content and a separator between files
+                    outfile.write(f"# {file}\n\n")  # Optional: Include filename as a section title
+                    outfile.write(content)
+                    outfile.write("\n\n---\n\n")  # Separator between files
+
+        # Clean the merged batch file
+        clean_markdown_file(input_file=output_file, output_file=output_file)
+
+    print("All batches have been merged and cleaned.")
+
+# Example usage: Merge all Markdown files in the folder into batches of 5 files
+input_folder = "./Dataset"
+batch_size = 5
+
+# Merge and clean markdown files in batches
+merge_and_clean_markdown_in_batches(input_folder=input_folder, batch_size=batch_size)
