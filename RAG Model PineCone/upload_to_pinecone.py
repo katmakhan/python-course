@@ -64,8 +64,9 @@ def upload_markdown_to_pinecone(directory_path):
                     vectors=[(
                         file_name,  # ID
                         vector,     # Vector
-                        {"file_name": file_name}  # Metadata
-                    )]
+                        {"file_name": file_name, "content": text_content}  # Store content in metadata
+                    )],
+                    namespace="paalana-website"  # Specify the namespace
                 )
                 print(f"Processed: {file_name}")
                 
