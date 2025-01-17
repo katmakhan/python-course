@@ -161,7 +161,7 @@ def handle_submit():
         st.session_state.user_input = ""
 
 # Main title
-st.title("💬 AI Chat Assistant")
+st.title("💬 Paalana AI Chat Assistant")
 st.markdown("Ask me anything about our services!")
 
 
@@ -180,7 +180,7 @@ user_query = st.text_input("Your message:", key="user_input", placeholder="Type 
 def process_query(user_query):
     """Process the user query and return the response"""
     try:
-        # Generate query embedding
+        # Generate query embedding for the user's latest query
         query_embedding = model.encode(user_query).tolist()
         
         # Query Pinecone
@@ -192,7 +192,7 @@ def process_query(user_query):
             namespace="paalana-website"
         )
         
-        # Format results
+        # Format results from Pinecone
         raw_results = [
             {
                 "id": match['id'],
@@ -208,15 +208,31 @@ def process_query(user_query):
                 for item in raw_results
             )
 
-            # Query Groq
+            # Prepare the full conversation history for Groq
+            # Retain only last 3 converstations
+            conversation_history = [
+                {"role": message["role"], "content": message["content"]}
+                for message in st.session_state.messages[-3:]
+            ]
+            
+            # Add the formatted Pinecone results to the history
+            conversation_history.append({
+                "role": "assistant",
+                "content": f"Here are the relevant results from Pinecone:\n\n{formatted_results}"
+            })
+
+            # Add the user's latest query for context
+            conversation_history.append({
+                "role": "user",
+                "content": f"Now, please answer my question directly without any appologies: '{user_query}'"
+            })
+
+            # print("The question for groq is ",conversation_history)
+
+            # Query Groq with full conversation history
             completion = client.chat.completions.create(
                 model="llama3-70b-8192",
-                messages=[
-                    {
-                        "role": "user",
-                        "content": f"Here is the query result:\n\n{formatted_results}\n\nPlease provide a direct response to the user's question: '{user_query}'"
-                    }
-                ],
+                messages=conversation_history,
                 temperature=1,
                 max_tokens=1024,
                 top_p=1,
